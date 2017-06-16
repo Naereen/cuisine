@@ -27,13 +27,12 @@ Ce dépôt git et tous les fichiers contenus sont publiés librement sous les te
 [![Website perso.crans.org/besson/cuisine](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/besson/cuisine/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/cuisine/graphs/commit-activity)
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+[![GitHub licence](https://img.shields.io/github/license/Naereen/slides.svg)](https://github.com/Naereen/cuisine/blob/master/LICENSE)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/cuisine/README.md?pixel)](https://GitHub.com/Naereen/cuisine/)
 
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
-
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
-
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)

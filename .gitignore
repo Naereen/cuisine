@@ -1,2 +1,6 @@
 *~
 _build/
+*.pyc
+__pycache__/
+output/
+*.pid
