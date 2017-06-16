@@ -2,6 +2,7 @@
 
 Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/cuisine/) sur [mon site web](http://perso.crans.org/besson/), qui contient un joli petit site web montrant mes recettes de cuisine favorites !
 
+> Ce n'est pas encore très fourni...
 > En attendant, allez voir [mon site](http://perso.crans.org/besson/), [mon compte Bitbucket](https://bitbucket.org/lbesson/) ou [mon compte GitHub](https://github.com/Naereen/).
 
 ----
