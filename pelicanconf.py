@@ -21,23 +21,39 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ('Mon site', 'http://perso.crans.org/besson/'),
+    ('Pelican', 'http://GetPelican.com/'),
+    ('Python', 'https://Python.org/'),
+    ('Marmiton', 'http://marmiton.org/'),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('github', 'https://GitHub.com/Naereen'),
+    ('bitbucket', 'https://Bitbucket.org/lbesson'),
+    ('facebook', 'https://www.Facebook.com/naereencorp.lbesson'),
+)
 
 DEFAULT_PAGINATION = 10
 
 DEFAULT_DATE = 'fs'
+
+DEFAULT_CATEGORY = 'recette'
 
 STATIC_PATHS = [
     'images',
     # 'pdfs'
 ]
 
+TYPOGRIFY = True
+
+# SLUGIFY_SOURCE = 'title'
+
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
+
+# THEME = 'notmyidea'
+THEME = 'blue-penguin'
+
+# css_file = "wide.css"

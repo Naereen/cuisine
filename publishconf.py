@@ -8,6 +8,7 @@ from __future__ import unicode_literals
 import os
 import sys
 sys.path.append(os.curdir)
+
 from pelicanconf import *
 
 SITEURL = 'http://perso.crans.org/besson/cuisine'
@@ -20,5 +21,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-# DISQUS_SITENAME = ""
 GOOGLE_ANALYTICS = "UA-38514290-1"
+
+GITHUB_URL = "https://github.com/Naereen/cuisine"
