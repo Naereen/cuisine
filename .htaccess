@@ -1,0 +1,13 @@
+# .htaccess restricted access file, for Apache HTTPD v2 web server
+# on zamok (http://perso.crans.org/besson/cuisine/)
+# By Lilian BESSON (mailto:lbesson[@]ens-cachan[.]fr)
+
+AuthUserFile /home/besson/.htpasswd_demo
+AuthGroupFile /dev/null
+AuthName "Recettes de cuisine (2017). ID = 'Demo' et mot de passe = 'NoSpying'. (c) 2017 Lilian Besson"
+AuthType Basic
+# Require valid-user
+
+IndexOptions +SuppressDescription
+IndexIgnore HEADER.md
+IndexIgnore README.md
