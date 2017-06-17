@@ -46,6 +46,10 @@ STATIC_PATHS = [
     # 'pdfs'
 ]
 
+FAVICON = 'favicon.ico'
+
+SIDEBAR_DIGEST = 'Recettes classiques et expériences en cuisine'
+
 TYPOGRIFY = True
 
 # SLUGIFY_SOURCE = 'title'
@@ -54,6 +58,7 @@ TYPOGRIFY = True
 # RELATIVE_URLS = True
 
 # THEME = 'notmyidea'
-THEME = 'blue-penguin'
+# THEME = 'blue-penguin'
+THEME = 'pelican-blue'
 
 # css_file = "wide.css"
