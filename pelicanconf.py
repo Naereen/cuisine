@@ -22,14 +22,17 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Sources (licence MIT)", "https://github.com/Naereen/cuisine"),
-    ("Mon site", "http://perso.crans.org/besson/"),
-    ("Pelican",  "http://GetPelican.com/"),
-    ("Python",   "https://Python.org/"),
-    ("Marmiton", "http://marmiton.org/"),
+    ("Sources (GitHub)", "https://github.com/Naereen/cuisine"),
+    ("Mon site",         "http://perso.crans.org/besson/"),
+    ("Pelican",          "http://GetPelican.com/"),
+    ("Python.org",       "https://Python.org/"),
+    ("Marmiton.org",     "http://marmiton.org/"),
 )
 
-MENU_LINKS = LINKS
+MENU_LINKS = (
+    ("Sources (GitHub)", "https://github.com/Naereen/cuisine"),
+    ("Mon site",         "http://perso.crans.org/besson/"),
+)
 
 # Social widget
 SOCIAL = (
@@ -50,9 +53,9 @@ STATIC_PATHS = [
     # "pdfs"
 ]
 
-FAVICON = "favicon.ico"
+FAVICON = "images/favicon.ico"
 
-LOGOPATH = "icon.png"
+LOGOPATH = LOGO = "images/icon.png"
 
 SIDEBAR_DIGEST = "Recettes classiques et expériences en cuisine"
 WELCOME_MESSAGE = SIDEBAR_DIGEST
@@ -64,9 +67,11 @@ TYPOGRIFY = True
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-# THEME = "notmyidea"
+THEME = "notmyidea"
 # THEME = "blue-penguin"
-THEME = "pelican-blue"
+# THEME = "pelican-blue"
+# THEME = "pelican-striped-html5up"
+# THEME = "pelican-semantic-ui"
 
 # css_file = "wide.css"
 
@@ -78,17 +83,24 @@ PLUGINS = [
     # https://github.com/getpelican/pelican-plugins/tree/master/assets
     # "assets",
     # https://github.com/getpelican/pelican-plugins/tree/master/global_license
-    # "global_license",
+    "global_license",
     # https://github.com/getpelican/pelican-plugins/tree/master/neighbors
     "neighbors",
     # https://github.com/kura/pelican-githubprojects/
     # "pelican-githubprojects",
     # https://github.com/getpelican/pelican-plugins/tree/master/random_article
-    # "random_article",
-    # https://github.com/getpelican/pelican-plugins/tree/master/representative_image
-    # "representative_image",
-    # https://github.com/getpelican/pelican-plugins/tree/master/sitemap
-    # "sitemap",
+    "random_article",
     # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
     # "tag_cloud",
 ]
+
+LICENSE = "MIT License"
+
+GITHUB_USER = "naereen"
+
+TEMPLATE_PAGES = {
+    'templates/github-projects.html':
+        'pages/github-projects.html',
+}
+
+RANDOM = 'random.html'
