@@ -134,6 +134,14 @@ PYGMENTS_STYLE = "monokai"
 
 # https://github.com/getpelican/pelican-plugins/tree/master/headerid
 MARKDOWN = {
+    "extensions": [
+        "markdown.extensions.codehilite",
+        "markdown.extensions.extra",
+        "markdown.extensions.meta",
+        "markdown.extensions.toc",
+        "markdown.extensions.smarty",
+        "plugins.mdx_unimoji.mdx_unimoji:UnimojiExtension"
+    ],
     "extension_configs": {
         "markdown.extensions.codehilite": {"css_class": "highlight"},
         "markdown.extensions.extra": {},

@@ -18,4 +18,4 @@ Comment se servir un verre d'eau ?
 
 ## Remarques
 - L'eau, c'est bon ! (sauf pour [les trolls](https://fr.wikipedia.org/wiki/H%C3%A9bus#Pouvoirs))
-- ... c'était facile comme première recette, non ?!
+- ... c'était facile comme première recette, non ?! ;-)
