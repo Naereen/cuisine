@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+SITENAME = "Recettes de cuisine - par Lilian Besson"
 AUTHOR = "Lilian Besson"
-SITENAME = "Recettes de cuisine - Lilian Besson"
 SITEURL = ""
 # SITEURL = "http://perso.crans.org/besson/cuisine"
 
@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Sources (GitHub)", "https://github.com/Naereen/cuisine"),
+    ("Sources (GitHub)", "https://GitHub.com/Naereen/cuisine"),
     ("Mon site",         "http://perso.crans.org/besson/"),
     ("Pelican",          "http://GetPelican.com/"),
     ("Python.org",       "https://Python.org/"),
@@ -30,17 +30,20 @@ LINKS = (
 )
 
 MENU_LINKS = (
-    ("Sources (GitHub)", "https://github.com/Naereen/cuisine"),
+    ("Sources (GitHub)", "https://GitHub.com/Naereen/cuisine"),
     ("Mon site",         "http://perso.crans.org/besson/"),
 )
 
 # Social widget
 SOCIAL = (
-    ("github",    "https://GitHub.com/Naereen"),
-    ("bitbucket", "https://Bitbucket.org/lbesson"),
-    ("facebook",  "https://www.Facebook.com/naereencorp.lbesson"),
-    ("mail",       "naereen at crans dot org")
+    ("github",       "https://GitHub.com/Naereen"),
+    ("bitbucket",    "https://Bitbucket.org/lbesson"),
+    ("facebook",     "https://www.Facebook.com/naereencorp.lbesson"),
+    ("address-card", "http://perso.crans.org/besson/callme.html"),
+    ("mail",         "mailto:naereen at crans dot org"),
+    ("phone",        "tel:+33 6 28 41 22 57"),
 )
+ICONS = SOCIAL
 
 DEFAULT_PAGINATION = 10
 
@@ -55,10 +58,11 @@ STATIC_PATHS = [
 
 FAVICON = "images/favicon.ico"
 
-LOGOPATH = LOGO = "images/icon.png"
+LOGOPATH = "images/icon.png"
+SITEIMAGE = LOGO = LOGOPATH
 
-SIDEBAR_DIGEST = "Recettes classiques et expériences en cuisine"
-WELCOME_MESSAGE = SIDEBAR_DIGEST
+DESCRIPTION = "Des recettes classiques et des expériences en cuisine \u2728."
+WELCOME_MESSAGE = SIDEBAR_DIGEST = SITESUBTITLE = DESCRIPTION
 
 TYPOGRIFY = True
 
@@ -67,11 +71,8 @@ TYPOGRIFY = True
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = "notmyidea"
-# THEME = "blue-penguin"
-# THEME = "pelican-blue"
-# THEME = "pelican-striped-html5up"
-# THEME = "pelican-semantic-ui"
+# THEME = "notmyidea"
+THEME = "themes/alchemy"
 
 # css_file = "wide.css"
 
@@ -104,3 +105,5 @@ TEMPLATE_PAGES = {
 }
 
 RANDOM = 'random.html'
+
+PYGMENTS_STYLE = 'monokai'

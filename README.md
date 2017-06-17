@@ -12,14 +12,14 @@ Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/c
 
 ----
 
-## Outils
+## Outils et dépendances
 
 - [Pelican](http://getpelican.com/) pour la génération du site,
-- Greffons : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors),
-- Thème : FIXME
-- Mes propres photos pour chaque recettes,
-- Des liens vers [marmiton.org](http://marmiton.org/) pour certaines recettes,
-- De l'amour !
+- Thème : [`pelican-alchemy`](https://nairobilug.github.io/pelican-alchemy/)
+- Greffons : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors), [`global_license`](https://github.com/getpelican/pelican-plugins/tree/master/global_license), [`random_article`](https://github.com/getpelican/pelican-plugins/tree/master/random_article),
+- Mes propres photos pour chaque recettes (bientôt),
+- Quelques liens vers [marmiton.org](http://marmiton.org/) pour certaines recettes,
+- Et ... de l'amour !
 
 ----
 
