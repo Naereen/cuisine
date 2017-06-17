@@ -31,5 +31,12 @@ Recette pour de la confiture de noix.
 ## Remarques
 - Ça se conserve longtemps !
 - Plus on met de sucre, moins le sirop est liquide, mais il ne faut pas trop en mettre.
-- Attention aux allergies selon les fruits secs rajoutés.
+- **Attention** aux allergies selon les fruits secs rajoutés.
 - Parfait pour un petit déjeuner énergique, dans un yaourt nature, ou en sauce avec du porc ou du poulet, ou un fromage bien fort (e.g., roquefort, cantal).
+- **Attention** : c'est **très sucré** !
+
+## À propos
+> Je ne peux pas manger de noix fraîches, mais une fois cuites j'adore ça !
+> Ça se concerve bien une fois acheté (donc on peut faire la confiture quand on a le temps), et j'aime bien casser des noix (devant [une bonne série](https://fr.wikipedia.org/wiki/Game_of_Thrones) par exemple).
+> 
+> J'ai essayé ça en octobre 2013 pour la première fois, pour l'offrir à des amis. Ça a eu un succès fou, j'ai continué souvent :-)
