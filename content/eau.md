@@ -10,8 +10,8 @@ Comment se servir un verre d'eau ?
 - Un verre (ou un mug, ou une gourde ou un sceau).
 
 ## Préparation
-- Versez l'eau dans le contenant,
-- Servez !
+1. Versez l'eau dans le contenant,
+2. Servez !
 
 ## Photo
 [![https://commons.wikimedia.org/wiki/File:IceBlockNearJoekullsarlon.jpg]({filename}images/eau.jpg)](https://commons.wikimedia.org/wiki/File:IceBlockNearJoekullsarlon.jpg)
