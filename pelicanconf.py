@@ -5,7 +5,6 @@ from __future__ import unicode_literals
 SITENAME = "Recettes de cuisine - par Lilian Besson"
 AUTHOR = "Lilian Besson"
 SITEURL = ""
-# SITEURL = "http://perso.crans.org/besson/cuisine"
 
 PATH = "content"
 
@@ -14,11 +13,11 @@ TIMEZONE = "Europe/Paris"
 DEFAULT_LANG = "fr"
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+FEED_ALL_ATOM         = None
+CATEGORY_FEED_ATOM    = None
 TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+AUTHOR_FEED_ATOM      = None
+AUTHOR_FEED_RSS       = None
 
 # Blogroll
 LINKS = (
@@ -26,7 +25,7 @@ LINKS = (
     ("Mon site",         "http://perso.crans.org/besson/"),
     ("Pelican",          "http://GetPelican.com/"),
     ("Python.org",       "https://Python.org/"),
-    # ("Marmiton.org",     "http://marmiton.org/"),
+    ("Marmiton.org",     "http://marmiton.org/"),
 )
 
 MENU_LINKS = (
@@ -45,27 +44,36 @@ SOCIAL = (
     ("phone",        "tel:+33 6 28 41 22 57"),
     ("rss",          "http://perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
 )
+# Icons : mapping of font-awesome icons to URL
 ICONS = SOCIAL
 
+# Articles per page
 DEFAULT_PAGINATION = 10
 
+# Dates of articles from the file modification
 DEFAULT_DATE = "fs"
 
 DEFAULT_CATEGORY = "recette"
 
+# Get copied to the output
 STATIC_PATHS = [
     "images",
     # "pdfs"
 ]
 
+# Favicon of the page
 FAVICON = "/images/favicon.ico"
 
+# Logo
 LOGOPATH = "/images/icon.png"
 SITEIMAGE = LOGO = LOGOPATH
 
+# Description and welcome message of the site
+# Two emojis in UTF8
 DESCRIPTION = "Des recettes classiques \U0001F378 et des expériences en cuisine \u2728 !"
 WELCOME_MESSAGE = SIDEBAR_DIGEST = SITESUBTITLE = DESCRIPTION
 
+# Improve typography
 TYPOGRIFY = True
 
 # SLUGIFY_SOURCE = "title"
@@ -73,10 +81,9 @@ TYPOGRIFY = True
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
+# Use my fork of the alchemy theme. See https://github.com/Naereen/cuisine/tree/master/themes/alchemy
 # THEME = "notmyidea"
 THEME = "themes/alchemy"
-
-# css_file = "wide.css"
 
 PLUGIN_PATHS = [
     "plugins/pelican-plugins"
@@ -97,15 +104,24 @@ PLUGINS = [
     # "tag_cloud",
 ]
 
-LICENSE = "MIT License"
+# # FIXME need to "global_license" extension, I don't know how it works
+# LICENSE = "MIT License"
 
-GITHUB_USER = "naereen"
+# # FIXME need the "pelican-githubprojects" extension
+# GITHUB_USER = "naereen"
+# TEMPLATE_PAGES = {
+#     'templates/github-projects.html':
+#         'pages/github-projects.html',
+# }
 
-TEMPLATE_PAGES = {
-    'templates/github-projects.html':
-        'pages/github-projects.html',
-}
-
+# URL for the random page
 RANDOM = 'random.html'
 
 PYGMENTS_STYLE = 'monokai'
+
+# https://github.com/getpelican/pelican-plugins/tree/master/headerid
+MD_EXTENSIONS = [
+    "codehilite(css_class=highlight)",
+    "extra",
+    "toc"
+]

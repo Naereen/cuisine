@@ -71,7 +71,11 @@
           {% if LINKS or (DISPLAY_PAGES_ON_MENU and pages) or ICONS %}
           <ul class="list-inline">
             {% for title, link in LINKS %}
+            {% if loop.last %}
             <li class="list-inline-item"><a href="{{ link }}" target="_blank">{{ title }}</a></li>
+            {% else %}
+            <li class="list-inline-item"><a href="{{ link }}" target="_blank">{{ title }}</a>,</li>
+            {% endif %}
             {% endfor %}
             {% if DISPLAY_PAGES_ON_MENU %}
             {% for page in pages %}
