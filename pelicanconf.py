@@ -58,9 +58,9 @@ STATIC_PATHS = [
     # "pdfs"
 ]
 
-FAVICON = "images/favicon.ico"
+FAVICON = "/images/favicon.ico"
 
-LOGOPATH = "images/icon.png"
+LOGOPATH = "/images/icon.png"
 SITEIMAGE = LOGO = LOGOPATH
 
 DESCRIPTION = "Des recettes classiques \U0001F378 et des expériences en cuisine \u2728 !"

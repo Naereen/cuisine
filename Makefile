@@ -29,6 +29,8 @@ ifeq ($(RELATIVE), 1)
 	PELICANOPTS += --relative-urls
 endif
 
+all:	clean html rsync_upload
+
 help:
 	@echo 'Makefile for a pelican Web site                                           '
 	@echo '                                                                          '
