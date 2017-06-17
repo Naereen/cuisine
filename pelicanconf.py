@@ -58,15 +58,26 @@ DEFAULT_CATEGORY = "recette"
 # Get copied to the output
 STATIC_PATHS = [
     "images",
+    "content/images",
+    "images/favicon.ico",
+    "content/images/favicon.ico",
     # "pdfs"
 ]
 
 # Favicon of the page
 FAVICON = "/images/favicon.ico"
 
+# Cf. https://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog#31270471
+EXTRA_PATH_METADATA = {
+    # "extra/robots.txt": {"path": "robots.txt"},
+    "extra/favicon.ico": {"path": "favicon.ico"},
+    "extra/LICENSE": {"path": "LICENSE"},
+    "extra/README": {"path": "README"},
+}
+
 # Logo
 LOGOPATH = "/images/icon.png"
-SITEIMAGE = LOGO = LOGOPATH
+AVATAR = SITEIMAGE = LOGO = LOGOPATH
 
 # Description and welcome message of the site
 # Two emojis in UTF8
@@ -85,22 +96,23 @@ TYPOGRIFY = True
 # THEME = "notmyidea"
 THEME = "themes/alchemy"
 
+# Plugins from https://github.com/getpelican/pelican-plugins
 PLUGIN_PATHS = [
     "plugins/pelican-plugins"
 ]
 
 PLUGINS = [
-    # https://github.com/getpelican/pelican-plugins/tree/master/assets
-    # "assets",
     # https://github.com/getpelican/pelican-plugins/tree/master/global_license
     "global_license",
+    # https://github.com/getpelican/pelican-plugins/tree/master/headerid
+    "headerid",
     # https://github.com/getpelican/pelican-plugins/tree/master/neighbors
     "neighbors",
-    # https://github.com/kura/pelican-githubprojects/
+    # # https://github.com/kura/pelican-githubprojects/
     # "pelican-githubprojects",
     # https://github.com/getpelican/pelican-plugins/tree/master/random_article
     "random_article",
-    # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
+    # # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
     # "tag_cloud",
 ]
 
@@ -117,11 +129,19 @@ PLUGINS = [
 # URL for the random page
 RANDOM = 'random.html'
 
+# Style in case a code block is present
 PYGMENTS_STYLE = 'monokai'
 
 # https://github.com/getpelican/pelican-plugins/tree/master/headerid
-MD_EXTENSIONS = [
-    "codehilite(css_class=highlight)",
-    "extra",
-    "toc"
-]
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.toc': {},
+        'markdown.extensions.smarty': {},
+    },
+    'output_format': 'html5',
+}
+
+HEADERID_LINK_CHAR = "¶"

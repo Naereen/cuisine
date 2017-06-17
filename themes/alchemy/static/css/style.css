@@ -126,3 +126,8 @@ hr {
     margin-right: 10px;
   }
 }
+
+@media (max-width: 680px) {
+  font-size: xx-small;
+  zoom: 80%;
+}
