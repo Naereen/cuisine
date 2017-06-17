@@ -122,26 +122,33 @@ PLUGINS = [
 # # FIXME need the "pelican-githubprojects" extension
 # GITHUB_USER = "naereen"
 # TEMPLATE_PAGES = {
-#     'templates/github-projects.html':
-#         'pages/github-projects.html',
+#     "templates/github-projects.html":
+#         "pages/github-projects.html",
 # }
 
 # URL for the random page
-RANDOM = 'random.html'
+RANDOM = "random.html"
 
 # Style in case a code block is present
-PYGMENTS_STYLE = 'monokai'
+PYGMENTS_STYLE = "monokai"
 
 # https://github.com/getpelican/pelican-plugins/tree/master/headerid
 MARKDOWN = {
-    'extension_configs': {
-        'markdown.extensions.codehilite': {'css_class': 'highlight'},
-        'markdown.extensions.extra': {},
-        'markdown.extensions.meta': {},
-        'markdown.extensions.toc': {},
-        'markdown.extensions.smarty': {},
+    "extension_configs": {
+        "markdown.extensions.codehilite": {"css_class": "highlight"},
+        "markdown.extensions.extra": {},
+        "markdown.extensions.meta": {},
+        "markdown.extensions.toc": {},
+        "markdown.extensions.smarty": {},
     },
-    'output_format': 'html5',
+    "output_format": "html5",
 }
 
 HEADERID_LINK_CHAR = "¶"
+
+IGNORE_FILES = [
+    ".#*",
+    "__pycache__",
+    "content/template.md",
+    "template.md",
+]
