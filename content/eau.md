@@ -7,7 +7,7 @@ Comment se servir un verre d'eau ?
 
 ## Ingrédients
 - De l'[eau](https://fr.wikipedia.org/wiki/Eau) (fraîche si possible, propre),
-- Un verre (ou un mug, ou une gourde ou un sceau).
+- <i class="fa fa-glass" aria-hidden="true"></i> Un verre (ou un mug, ou une gourde ou un sceau).
 
 ## Préparation
 1. Versez l'eau dans le contenant,

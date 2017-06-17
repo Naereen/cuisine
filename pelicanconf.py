@@ -26,7 +26,7 @@ LINKS = (
     ("Mon site",         "http://perso.crans.org/besson/"),
     ("Pelican",          "http://GetPelican.com/"),
     ("Python.org",       "https://Python.org/"),
-    ("Marmiton.org",     "http://marmiton.org/"),
+    # ("Marmiton.org",     "http://marmiton.org/"),
 )
 
 MENU_LINKS = (
@@ -40,8 +40,10 @@ SOCIAL = (
     ("bitbucket",    "https://Bitbucket.org/lbesson"),
     ("facebook",     "https://www.Facebook.com/naereencorp.lbesson"),
     ("address-card", "http://perso.crans.org/besson/callme.html"),
-    ("email",        "mailto:naereen at crans dot org"),
+    ("wikipedia-w",  "https://fr.wikipedia.org/wiki/User:Naereen"),
+    ("envelope",     "mailto:naereen at crans dot org"),
     ("phone",        "tel:+33 6 28 41 22 57"),
+    ("rss",          "http://perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
 )
 ICONS = SOCIAL
 
@@ -61,7 +63,7 @@ FAVICON = "images/favicon.ico"
 LOGOPATH = "images/icon.png"
 SITEIMAGE = LOGO = LOGOPATH
 
-DESCRIPTION = "Des recettes classiques \u1F372 et des expériences en cuisine \u2728."
+DESCRIPTION = "Des recettes classiques \U0001F378 et des expériences en cuisine \u2728 !"
 WELCOME_MESSAGE = SIDEBAR_DIGEST = SITESUBTITLE = DESCRIPTION
 
 TYPOGRIFY = True
