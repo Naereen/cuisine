@@ -15,6 +15,8 @@ Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/c
 ## Outils
 
 - [Pelican](http://getpelican.com/) pour la génération du site,
+- Greffons : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors),
+- Thème : FIXME
 - Mes propres photos pour chaque recettes,
 - Des liens vers [marmiton.org](http://marmiton.org/) pour certaines recettes,
 - De l'amour !

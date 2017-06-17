@@ -2,16 +2,16 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Lilian Besson'
-SITENAME = 'Recettes de cuisine - Lilian Besson'
-SITEURL = ''
-# SITEURL = 'http://perso.crans.org/besson/cuisine'
+AUTHOR = "Lilian Besson"
+SITENAME = "Recettes de cuisine - Lilian Besson"
+SITEURL = ""
+# SITEURL = "http://perso.crans.org/besson/cuisine"
 
-PATH = 'content'
+PATH = "content"
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = "Europe/Paris"
 
-DEFAULT_LANG = 'fr'
+DEFAULT_LANG = "fr"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -22,43 +22,73 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ('Mon site', 'http://perso.crans.org/besson/'),
-    ('Pelican', 'http://GetPelican.com/'),
-    ('Python', 'https://Python.org/'),
-    ('Marmiton', 'http://marmiton.org/'),
+    ("Sources (licence MIT)", "https://github.com/Naereen/cuisine"),
+    ("Mon site", "http://perso.crans.org/besson/"),
+    ("Pelican",  "http://GetPelican.com/"),
+    ("Python",   "https://Python.org/"),
+    ("Marmiton", "http://marmiton.org/"),
 )
+
+MENU_LINKS = LINKS
 
 # Social widget
 SOCIAL = (
-    ('github', 'https://GitHub.com/Naereen'),
-    ('bitbucket', 'https://Bitbucket.org/lbesson'),
-    ('facebook', 'https://www.Facebook.com/naereencorp.lbesson'),
+    ("github",    "https://GitHub.com/Naereen"),
+    ("bitbucket", "https://Bitbucket.org/lbesson"),
+    ("facebook",  "https://www.Facebook.com/naereencorp.lbesson"),
+    ("mail",       "naereen at crans dot org")
 )
 
 DEFAULT_PAGINATION = 10
 
-DEFAULT_DATE = 'fs'
+DEFAULT_DATE = "fs"
 
-DEFAULT_CATEGORY = 'recette'
+DEFAULT_CATEGORY = "recette"
 
 STATIC_PATHS = [
-    'images',
-    # 'pdfs'
+    "images",
+    # "pdfs"
 ]
 
-FAVICON = 'favicon.ico'
+FAVICON = "favicon.ico"
 
-SIDEBAR_DIGEST = 'Recettes classiques et expériences en cuisine'
+LOGOPATH = "icon.png"
+
+SIDEBAR_DIGEST = "Recettes classiques et expériences en cuisine"
+WELCOME_MESSAGE = SIDEBAR_DIGEST
 
 TYPOGRIFY = True
 
-# SLUGIFY_SOURCE = 'title'
+# SLUGIFY_SOURCE = "title"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-# THEME = 'notmyidea'
-# THEME = 'blue-penguin'
-THEME = 'pelican-blue'
+# THEME = "notmyidea"
+# THEME = "blue-penguin"
+THEME = "pelican-blue"
 
 # css_file = "wide.css"
+
+PLUGIN_PATHS = [
+    "plugins/pelican-plugins"
+]
+
+PLUGINS = [
+    # https://github.com/getpelican/pelican-plugins/tree/master/assets
+    # "assets",
+    # https://github.com/getpelican/pelican-plugins/tree/master/global_license
+    # "global_license",
+    # https://github.com/getpelican/pelican-plugins/tree/master/neighbors
+    "neighbors",
+    # https://github.com/kura/pelican-githubprojects/
+    # "pelican-githubprojects",
+    # https://github.com/getpelican/pelican-plugins/tree/master/random_article
+    # "random_article",
+    # https://github.com/getpelican/pelican-plugins/tree/master/representative_image
+    # "representative_image",
+    # https://github.com/getpelican/pelican-plugins/tree/master/sitemap
+    # "sitemap",
+    # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
+    # "tag_cloud",
+]
