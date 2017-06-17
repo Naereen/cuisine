@@ -1,6 +1,6 @@
 Title: Gingembre confit
 Category: Recette
-Tags: recette, dessert, moyen
+Tags: recette, dessert, moyen, confiture
 Summary: Recette pour de la confiture de gingembre.
 
 Recette pour de la confiture de gingembre.
