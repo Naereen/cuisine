@@ -27,7 +27,7 @@ Recette pour de la confiture de gingembre.
 11. Quelques heures plus tard... dégustez sur un morceau de pain frais ou dans un yaourt, comme une confiture !
 
 ## Photo
-[![TODO]({filename}images/TODO.jpg)](TODO)
+[![TODO]({filename}images/blank.png)](TODO)
 
 ## Remarques
 - Ça se conserve longtemps !
