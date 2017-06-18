@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS       = None
 # Blogroll
 LINKS = (
     ("Sources (GitHub)", "https://GitHub.com/Naereen/cuisine"),
-    ("Mon site",         "http://perso.crans.org/besson/"),
+    ("Mon site",         "//perso.crans.org/besson/"),
     ("Pelican",          "http://GetPelican.com/"),
     ("Python.org",       "https://Python.org/"),
     ("Marmiton.org",     "http://marmiton.org/"),
@@ -30,19 +30,19 @@ LINKS = (
 
 MENU_LINKS = (
     ("Sources (GitHub)", "https://GitHub.com/Naereen/cuisine"),
-    ("Mon site",         "http://perso.crans.org/besson/"),
+    ("Mon site",         "//perso.crans.org/besson/"),
 )
 
 # Social widget
 SOCIAL = (
-    ("github",       "https://GitHub.com/Naereen"),
-    ("bitbucket",    "https://Bitbucket.org/lbesson"),
-    ("facebook",     "https://www.Facebook.com/naereencorp.lbesson"),
-    ("address-card", "http://perso.crans.org/besson/callme.html"),
-    ("wikipedia-w",  "https://fr.wikipedia.org/wiki/User:Naereen"),
-    ("envelope",     "mailto:naereen at crans dot org"),
-    ("phone",        "tel:+33 6 28 41 22 57"),
-    ("rss",          "http://perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
+    ("github",           "https://GitHub.com/Naereen"),
+    ("bitbucket",        "https://Bitbucket.org/lbesson"),
+    ("facebook",         "https://www.Facebook.com/naereencorp.lbesson"),
+    ("address-card",     "//perso.crans.org/besson/callme.html"),
+    ("wikipedia-w",      "https://fr.wikipedia.org/wiki/User:Naereen"),
+    ("envelope",         "mailto:naereen at crans dot org"),
+    ("phone",            "tel:+33 6 28 41 22 57"),
+    ("rss",              "//perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
 )
 # Icons : mapping of font-awesome icons to URL
 ICONS = SOCIAL
@@ -104,8 +104,6 @@ PLUGIN_PATHS = [
 PLUGINS = [
     # https://github.com/getpelican/pelican-plugins/tree/master/global_license
     "global_license",
-    # https://github.com/getpelican/pelican-plugins/tree/master/headerid
-    "headerid",
     # https://github.com/getpelican/pelican-plugins/tree/master/neighbors
     "neighbors",
     # https://github.com/getpelican/pelican-plugins/tree/master/random_article
