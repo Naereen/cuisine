@@ -98,7 +98,7 @@ THEME = "themes/alchemy"
 
 # Plugins from https://github.com/getpelican/pelican-plugins
 PLUGIN_PATHS = [
-    "plugins/pelican-plugins"
+    "plugins"
 ]
 
 PLUGINS = [
@@ -108,12 +108,8 @@ PLUGINS = [
     "headerid",
     # https://github.com/getpelican/pelican-plugins/tree/master/neighbors
     "neighbors",
-    # # https://github.com/kura/pelican-githubprojects/
-    # "pelican-githubprojects",
     # https://github.com/getpelican/pelican-plugins/tree/master/random_article
     "random_article",
-    # # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
-    # "tag_cloud",
 ]
 
 # # FIXME need to "global_license" extension, I don't know how it works
