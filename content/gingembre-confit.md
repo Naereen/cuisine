@@ -23,7 +23,7 @@ Recette pour de la confiture de gingembre.
 7. Bien mélanger, ramener à petite ébullition (**attention**, ça déborde vite !),
 8. Rajouter du sucre à confiture ou de l'eau selon la consistance du sirop (il doit être bien épais et visqueux, mais pas trop cristallisé),
 9. Laisser cuire à petit feu <i class="fa fa-thermometer-half" aria-hidden="true"></i> un bon moment, 20 minutes au moins, pour ramollir le gingembre, diffuser son goût dans le sirop, et imprégner chaque morceau de sucre,
-10. Éteindre le feu, laisser refroidir un peu, puis mettre en pot.
+10. Éteindre le feu, laisser refroidir un peu, puis mettre en pot,
 11. Quelques heures plus tard... dégustez sur un morceau de pain frais ou dans un yaourt, comme une confiture !
 
 ## Photo

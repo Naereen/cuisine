@@ -22,7 +22,7 @@ Recette pour de la confiture de noix.
 6. Bien mélanger, ramener à petite ébullition (**attention**, ça déborde vite !),
 7. Rajouter du sucre à confiture ou de l'eau selon la consistance du sirop (il doit être bien épais et visqueux, mais pas trop cristallisé),
 8. Laisser cuire à petit feu un bon moment, 15 minutes au moins, pour ramollir les noix,
-9. Éteindre le feu, laisser refroidir un peu, puis mettre en pot.
+9. Éteindre le feu, laisser refroidir un peu, puis mettre en pot,
 10. Quelques heures plus tard... dégustez sur un morceau de pain frais ou dans un yaourt, comme une confiture !
 
 ## Photo
