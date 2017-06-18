@@ -112,15 +112,8 @@ PLUGINS = [
     "random_article",
 ]
 
-# # FIXME need to "global_license" extension, I don't know how it works
-# LICENSE = "MIT License"
-
-# # FIXME need the "pelican-githubprojects" extension
-# GITHUB_USER = "naereen"
-# TEMPLATE_PAGES = {
-#     "templates/github-projects.html":
-#         "pages/github-projects.html",
-# }
+# "global_license" extension, I don't know how it works
+LICENSE = "<a href='https://lbesson.MIT-License.org/'>Licence MIT</a>"
 
 # URL for the random page
 RANDOM = "random.html"
