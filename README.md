@@ -3,7 +3,7 @@
 
 Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/cuisine/) sur [mon site web](http://perso.crans.org/besson/), qui contient un joli petit site web montrant mes recettes de cuisine favorites !
 
-![screenshot.png](screenshot.png)
+[![screenshot.png](screenshot.png)](http://perso.crans.org/besson/cuisine/)
 
 - Des boissons :tea: :tropical_drink: :wine_glass:
 - Des plats :spaghetti: :stew: :egg:
