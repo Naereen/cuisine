@@ -25,7 +25,7 @@ Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/c
 
 - [Pelican](http://getpelican.com/) pour la génération du site :hammer:,
 - [Thème](themes/alchemy) : [`pelican-alchemy`](https://nairobilug.github.io/pelican-alchemy/) :sparkles: (version un peu modifiée, traduite en français :fr:), par [@nairobilug](https://GitHub.com/nairobilug/),
-- [Greffons](plugins/) : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors) :left_right_arrow:, [`global_license`](https://github.com/getpelican/pelican-plugins/tree/master/global_license), [`random_article`](https://github.com/getpelican/pelican-plugins/tree/master/random_article) :shuffle:,
+- [Greffons](plugins/) : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors) :left_right_arrow:, [`global_license`](https://github.com/getpelican/pelican-plugins/tree/master/global_license), [`random_article`](https://github.com/getpelican/pelican-plugins/tree/master/random_article),
 - Mes propres photos :camera: pour chaque recettes (bientôt),
 - Quelques liens vers [marmiton.org](http://marmiton.org/) pour certaines recettes,
 - Et ... de l'amour !
