@@ -1,6 +1,6 @@
 Title: Gâteau au chocolat
 Category: Recette
-Tags: recette, plat, facile
+Tags: recette, dessert, gateau, facile
 Summary: Recette pour gâteau au chocolat
 
 Recette pour gâteau au chocolat.
