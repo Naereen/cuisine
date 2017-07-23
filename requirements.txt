@@ -1,0 +1,2 @@
+typogrify >= 2.0
+pelican >= 3.7
