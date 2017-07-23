@@ -7,7 +7,7 @@ Recette pour bûche glacée aux marrons (spécial Noël).
 
 - *Préparation* : 15 minutes.
 - *Ustensil nécessaire* : broyeur (*mixeur*).
-- *Cuisson* : aucune, 24 h au frigo.
+- *Cuisson* : aucune, 24 h au frigo  <i class="fa fa-thermometer-empty" aria-hidden="true"></i>.
 
 ## Ingrédients
 - 200 g de beurre non salé,

@@ -25,11 +25,12 @@ Recette pour gâteau aux noix.
 7. Enfin ajouter la levure,
 8. Bien mélanger,
 9. Verser dans un moule bien beurré,
-10. Faire cuire 30-40 minutes dans un four au thermostat 6.
+10. Faire cuire 30-40 minutes dans un four au thermostat 6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>.
 
 ## Photo
 [![TODO]({filename}images/blank.png)](TODO)
 
 ## Remarques
+- <i class="fa fa-cuttlery" aria-hidden="true"></i> Servir tiède avec une boule de glace vanille ! *Miam !*
 - C'est un de mes gâteaux préférés !
 - Suggestion : casser les noix la veille devant [un film](http://perso.crans.org/besson/top10.fr.html#mes-10-films-preferes), ça fait gagner du temps le lendemain !

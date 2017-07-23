@@ -26,10 +26,10 @@ Recette pour gâteau au chocolat.
 4. Éventuellement, ajouter la crème de cassis ou la poudre d'amande,
 5. Dans un moule beurré ou en silicone, éventuellement mettre de la confiture au fond, et verser la pâte,
 6. *Optionnel* : ajouter des amandes effilées sur le dessus,
-7. Faire cuire maximum 25 minutes dans un four à 180°C / T6, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
+7. Faire cuire maximum 25 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
 
 ## Photo
 [![TODO]({filename}images/blank.png)](TODO)
 
 ## Remarques
-- Servir tiède avec une boule de glace vanille ou de la crème anglaise ! *Miam !*
+- <i class="fa fa-cuttlery" aria-hidden="true"></i> Servir tiède avec une boule de glace vanille ou de la crème anglaise ! *Miam !*
