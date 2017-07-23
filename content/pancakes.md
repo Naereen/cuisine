@@ -37,7 +37,7 @@ Recette pour des pancakes (crêpes américaines).
 - Faire cuire aussi longtemps des deux côtés.
 
 ## Service
-- <i class="fa fa-cuttlery" aria-hidden="true"></i> Service tiède,
+- <i class="fa fa-cutlery" aria-hidden="true"></i> Service tiède,
 - Avec de la confiture, du miel, du sucre et citron, du sucre glace, du miel, des pâtes à tartiner (chocolat, spéculoos, etc), ou bien-sûr du sirop d'érable,
 - Des fruits rouges (frais ou décongelés) se marient très bien avec les pancakes.
 - Pour un brunch gourmand, servir avec des lardons cuits aux miels, du gruyère rappé ou du parmesan.

@@ -31,6 +31,6 @@ Recette pour gâteau aux noix. :cake: + :chestnut: = :yum:
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- <i class="fa fa-cuttlery" aria-hidden="true"></i> Servir tiède avec une boule de glace vanille ! *Miam !*
+- <i class="fa fa-cutlery" aria-hidden="true"></i> Servir tiède avec une boule de glace vanille ! *Miam !*
 - C'est un de mes gâteaux préférés !
 - Suggestion : casser les noix la veille devant [un film](http://perso.crans.org/besson/top10.fr.html#mes-10-films-preferes), ça fait gagner du temps le lendemain !

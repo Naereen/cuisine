@@ -35,4 +35,4 @@ Recette pour gâteau à la fleur d'oranger.
 
 ## Remarques
 - Pour la cuisson, je commence avec 10 minutes au four moyen <i class="fa fa-thermometer-half" aria-hidden="true"></i> puis 15 minutes au four à la température max <i class="fa fa-thermometer-full" aria-hidden="true"></i>, pour faire griller le dessus du gâteau.
-- <i class="fa fa-cuttlery" aria-hidden="true"></i> Servir tiède avec une boule de glace pistache ou de la crème anglaise ! *Miam !*
+- <i class="fa fa-cutlery" aria-hidden="true"></i> Servir tiède avec une boule de glace pistache ou de la crème anglaise ! *Miam !*

@@ -32,4 +32,4 @@ Recette pour gâteau au chocolat.
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- <i class="fa fa-cuttlery" aria-hidden="true"></i> Servir tiède avec une boule de glace vanille ou de la crème anglaise ! *Miam !*
+- <i class="fa fa-cutlery" aria-hidden="true"></i> Servir tiède avec une boule de glace vanille ou de la crème anglaise ! *Miam !*
