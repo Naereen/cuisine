@@ -5,8 +5,8 @@ Summary: Recette pour gâteau à la fleur d'oranger
 
 Recette pour gâteau à la fleur d'oranger.
 
-- Préparation : 15 minutes.
-- Cuisson : 30-35 minutes.
+- *Préparation* : 15 minutes.
+- *Cuisson* : 30-35 minutes.
 
 ## Ingrédients
 - 240 g de sucre blanc,

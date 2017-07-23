@@ -5,8 +5,8 @@ Summary: Recette pour gâteau au chocolat
 
 Recette pour gâteau au chocolat.
 
-- Préparation : 10 minutes.
-- Cuisson : 25-30 minutes.
+- *Préparation* : 10 minutes.
+- *Cuisson* : 25-30 minutes.
 
 ## Ingrédients
 - 200 g de chocolat noir pour dessert,
