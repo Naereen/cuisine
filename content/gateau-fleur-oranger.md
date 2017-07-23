@@ -1,6 +1,6 @@
 Title: Gâteau à la fleur d'oranger
 Category: Recette
-Tags: recette, plat, moyen
+Tags: recette, dessert, gateau, moyen
 Summary: Recette pour gâteau à la fleur d'oranger
 
 Recette pour gâteau à la fleur d'oranger.
