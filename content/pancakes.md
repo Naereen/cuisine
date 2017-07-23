@@ -5,9 +5,9 @@ Summary: Recette pour pancakes (crêpes américaines)
 
 Recette pour des pancakes (crêpes américaines).
 
-- Préparation : 15 minutes.
-- Cuisson : 30-35 minutes.
-- Quantité : pour deux personnes, environ 12 pancakes de la taille d'un couvercle de pot de confiture.
+- *Préparation* : 15 minutes.
+- *Cuisson* : 30-35 minutes.
+- *Quantité* : pour deux personnes, environ 12 pancakes de la taille d'un couvercle de pot de confiture.
 
 ## Ingrédients
 - 1 œuf moyen
@@ -37,7 +37,7 @@ Recette pour des pancakes (crêpes américaines).
 - Faire cuire aussi longtemps des deux côtés.
 
 ## Service
-- <i class="fa fa-cutlery" aria-hidden="true"></i> Service tiède,
+- :cutlery: Service tiède,
 - Avec de la confiture, du miel, du sucre et citron, du sucre glace, du miel, des pâtes à tartiner (chocolat, spéculoos, etc), ou bien-sûr du sirop d'érable,
 - Des fruits rouges (frais ou décongelés) se marient très bien avec les pancakes.
 - Pour un brunch gourmand, servir avec des lardons cuits aux miels, du gruyère rappé ou du parmesan.

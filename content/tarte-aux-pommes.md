@@ -31,4 +31,4 @@ Recette pour tartes aux pommes.
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- <i class="fa fa-cutlery" aria-hidden="true"></i> Servir tiède avec une boule de glace vanille ou de la chantilly ! *Miam !*
+- :cutlery: Servir tiède avec une boule de glace vanille ou de la chantilly ! *Miam !*
