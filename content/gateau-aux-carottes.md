@@ -3,7 +3,7 @@ Category: Recette
 Tags: recette, dessert, gateau, difficile
 Summary: Le gâteau au carottes, :cake: « carrot cake » comme disent les anglais
 
-Recette pour gâteau au carottes :cake:.
+Recette pour gâteau au carottes :cake: !
 
 - *Préparation* : 20 minutes.
 - *Cuisson* : 40-50 minutes.
