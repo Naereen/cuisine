@@ -33,7 +33,7 @@ Recette pour lasagnes au saumon et poireaux :fish: :herb:.
 
 ## Remarques
 - :cutlery: Servir chaud avec du fromage rapé en plus pour les amateurs.
-- :wine_glass: Servir avec un vin blanc sec, un Sylvaner par exemple.
+- :wine_glass: Servir avec un vin blanc sec, un [Sylvaner](https://fr.wikipedia.org/wiki/Sylvaner_d'Alsace) par exemple.
 
 ## Variantes
 - Les poireaux peuvent être remplacés par des épinards, à faire cuire rapidement à la casserole en enlevant bien le jus.
