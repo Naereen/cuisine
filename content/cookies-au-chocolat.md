@@ -3,7 +3,7 @@ Category: Recette
 Tags: recette, dessert, gateau, facile
 Summary: Recette pour cookies au chocolat
 
-Recette pour cookies au chocolat :cookies: :chocolat_bar: !
+Recette pour cookies au chocolat :cookie: :chocolat_bar: !
 
 - *Préparation* : 15 minutes.
 - *Cuisson* : 10 minutes.
@@ -37,5 +37,5 @@ Recette pour cookies au chocolat :cookies: :chocolat_bar: !
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- :cookies: De tels cookies se conservent bien, plusieurs jours dans une boite fermée.
+- :cookie: De tels cookies se conservent bien, plusieurs jours dans une boite fermée.
 - :cutlery: Grignoter encore tièdes avec une boule de glace vanille ! *Miam !*
