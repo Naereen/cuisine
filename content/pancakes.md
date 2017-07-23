@@ -3,7 +3,7 @@ Category: Recette
 Tags: recette, dessert, moyen
 Summary: Recette pour pancakes (crêpes américaines)
 
-Recette pour des pancakes (crêpes américaines)
+Recette pour des pancakes (crêpes américaines).
 
 - Préparation : 15 minutes.
 - Cuisson : 30-35 minutes.
