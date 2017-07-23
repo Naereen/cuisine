@@ -5,6 +5,8 @@ Summary: Recette pour bûche glacée aux marrons (spécial Noël)
 
 Recette pour bûche glacée aux marrons (spécial Noël).
 
+:chestnut: :chocolate_bar: :snowman: ... Super à Noël :christmas_tree: :santa:
+
 - *Préparation* : 15 minutes.
 - *Ustensil nécessaire* : broyeur (*mixeur*).
 - *Cuisson* : aucune, 24 h au frigo  <i class="fa fa-thermometer-empty" aria-hidden="true"></i>.
@@ -29,7 +31,7 @@ Recette pour bûche glacée aux marrons (spécial Noël).
 11. *Bonus* : on peut la recouvrir de sucre glace sur le dessus pour faire comme de la neige, ou servir avec des cerises griottes au vin ou au sirop sur le dessus.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](TODO)
+[![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
 - Après l'avoir sorti du congélateur, il ne faut surtout pas la remettre ! Par contre elle se conserve au frigo plusieurs jours.

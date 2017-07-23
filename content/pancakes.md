@@ -43,7 +43,7 @@ Recette pour des pancakes (crêpes américaines).
 - Pour un brunch gourmand, servir avec des lardons cuits aux miels, du gruyère rappé ou du parmesan.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](TODO)
+[![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
 - Assez long à cuire si vous prévoyez d'en faire pour 8 personnes...

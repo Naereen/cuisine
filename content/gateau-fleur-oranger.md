@@ -31,7 +31,7 @@ Recette pour gâteau à la fleur d'oranger.
 7. Faire cuire maximum 25 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](TODO)
+[![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
 - Pour la cuisson, je commence avec 10 minutes au four moyen <i class="fa fa-thermometer-half" aria-hidden="true"></i> puis 15 minutes au four à la température max <i class="fa fa-thermometer-full" aria-hidden="true"></i>, pour faire griller le dessus du gâteau.

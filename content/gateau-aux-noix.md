@@ -3,7 +3,7 @@ Category: Recette
 Tags: recette, dessert, difficile
 Summary: Recette pour gâteau aux noix
 
-Recette pour gâteau aux noix.
+Recette pour gâteau aux noix. :cake: + :chestnut: = :yum:
 
 - *Préparation* : 10 minutes (si les noix sont déjà cassées, sinon plus).
 - *Cuisson* : 35-40 minutes.
@@ -28,7 +28,7 @@ Recette pour gâteau aux noix.
 10. Faire cuire 30-40 minutes dans un four au thermostat 6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](TODO)
+[![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
 - <i class="fa fa-cuttlery" aria-hidden="true"></i> Servir tiède avec une boule de glace vanille ! *Miam !*
