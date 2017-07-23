@@ -3,7 +3,7 @@ Category: Recette
 Tags: recette, plat, poisson, moyen
 Summary: Recette pour lasagnes au saumon et poireaux
 
-Recette pour lasagnes au saumon et poireaux :fish::herb:.
+Recette pour lasagnes au saumon et poireaux :fish: :herb:.
 
 - *Préparation* : 25 minutes.
 - *Cuisson* : 30-40 minutes.

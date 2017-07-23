@@ -18,14 +18,15 @@ Recette pour gâteau aux noix. :cake: + :chestnut: = :yum:
 ## Préparation
 1. Casser les noix en petits morceaux, et garder quelques cerneaux entiers. Sinon, acheter des noix déjà cassées en cerneaux, et les briser presque tous,
 2. Dans un grand bol ou petit saladier, ajouter la farine, en mélangeant bien pour enrober les noix de farine,
-3. Casser les œufs dans un autre saladier,
-4. Ajouter le sucre et bien mélanger pour obtenir un mélange blanc orangé uniforme,
-5. Ajouter le beurre fondu,
-6. Ajouter les noix et la farine,
-7. Enfin ajouter la levure,
-8. Bien mélanger,
-9. Verser dans un moule bien beurré,
-10. Faire cuire 30-40 minutes dans un four au thermostat 6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>.
+3. Faire fondre le beurre, avec une cuillère à café d'eau, au four micro-ondes (max 2 minutes à puissance moyenne),
+4. Casser les œufs dans un autre saladier,
+5. Ajouter le sucre et bien mélanger pour obtenir un mélange blanc orangé uniforme,
+6. Ajouter le beurre fondu,
+7. Ajouter les noix et la farine,
+8. Enfin ajouter la levure,
+9. Bien mélanger,
+10. Verser dans un moule bien beurré,
+11. Faire cuire 30-40 minutes dans un four au thermostat 6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
 
 ## Photo
 [![TODO]({filename}images/blank.png)](#)
