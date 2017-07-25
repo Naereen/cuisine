@@ -39,7 +39,7 @@ SOCIAL = (
     ("bitbucket",        "https://Bitbucket.org/lbesson"),
     ("facebook",         "https://www.Facebook.com/naereencorp.lbesson"),
     ("address-card",     "//perso.crans.org/besson/callme.html"),
-    ("wikipedia-w",      "https://fr.wikipedia.org/wiki/User:Naereen"),
+    ("wikipedia-w",      "https://en.wikipedia.org/wiki/User:Naereen"),
     ("envelope",         "mailto:naereen at crans dot org"),
     ("phone",            "tel:+33 6 28 41 22 57"),
     ("rss",              "//perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
