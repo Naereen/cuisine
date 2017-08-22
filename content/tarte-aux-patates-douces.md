@@ -1,9 +1,9 @@
-Title: Tartes aux patates douces
+Title: Tarte aux patates douces
 Category: Recette
 Tags: recette, dessert, gateau, facile
-Summary: Recette pour tartes aux patates douces :sweet_potato:
+Summary: Recette pour tarte aux patates douces :sweet_potato:
 
-Recette pour tartes aux patates douces :sweet_potato:.
+Recette pour tarte aux patates douces :sweet_potato:.
 
 - *Préparation* : 20-25 minutes.
 - *Cuisson* : 25-30 minutes.

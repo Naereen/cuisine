@@ -1,9 +1,9 @@
-Title: Tartes aux pommes
+Title: Tarte aux pommes
 Category: Recette
 Tags: recette, dessert, gateau, facile
-Summary: Recette pour tartes aux pommes
+Summary: Recette pour tarte aux pommes
 
-Recette pour tartes aux pommes.
+Recette pour tarte aux pommes.
 
 - *Préparation* : 20-25 minutes.
 - *Cuisson* : 25-30 minutes.
