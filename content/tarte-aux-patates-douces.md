@@ -9,7 +9,7 @@ Recette pour tarte aux patates douces :sweet_potato:.
 - *Cuisson* : 25-30 minutes.
 
 ## Ingrédients
-- 1 bâte brisée ou sablée (déjà faite),
+- 1 pâte brisée ou sablée (déjà faite),
 - 500 g de patates douces, oranges ou blanches (ça fait entre 2 et 3),
 - 200 g de sucre roux (cassonade),
 - 2 œufs moyens,

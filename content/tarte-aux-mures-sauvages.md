@@ -9,7 +9,7 @@ Recette pour tarte aux mûres sauvages.
 - *Cuisson* : 25-30 minutes.
 
 ## Ingrédients
-- 1 bâte sablée (déjà faite),
+- 1 pâte sablée (déjà faite),
 - 400 à 600g de mûres sauvages (ou surgelées, si vous n'avez pas la chance de trouver des mûres sauvages),
 - 60 g de sucre roux (cassonade), voir plus si vous préférez moins sentir le fruit,
 - 1 œuf moyen,

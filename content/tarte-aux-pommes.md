@@ -9,7 +9,7 @@ Recette pour tarte aux pommes.
 - *Cuisson* : 25-30 minutes.
 
 ## Ingrédients
-- 1 bâte brisée ou sablée (déjà faite),
+- 1 pâte brisée ou sablée (déjà faite),
 - 5 ou 6 pommes de bonne taille (golden, ou autres),
 - 75 g de sucre roux (cassonade),
 - 2 œufs moyens,
