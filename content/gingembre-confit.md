@@ -5,6 +5,9 @@ Summary: Recette pour de la confiture de gingembre.
 
 Recette pour de la confiture de gingembre.
 
+- *Préparation* : 1 heures
+- *Cuisson* : 2 heures max.
+
 ## Ingrédients
 - [Gingembre](https://fr.wikipedia.org/wiki/Gingembre) frais, environ une grosse racine pour un pot de 400g de confiture,
 - [Jus de citron](https://fr.wikipedia.org/wiki/Citron), un peu,
@@ -39,11 +42,11 @@ Recette pour de la confiture de gingembre.
 - Le faire sans eau, sans fruits secs, et avec uniquement du sucre roux
 - Pour faire du gingembre confit "sec", comme on trouve dans les restaurants chinois par exemple.
 - **Attention** à ne pas faire brûler la casserole lors de la cuisson, et étaler sur une plaque recouverte de papier sulfurisé une fois terminé.
-- Après refroidissement, mouiller d'eau froide les morceaux et les plongers dans du sucre roux cristals.
-- Ça se concerve bien aussi !
+- Après refroidissement, mouiller d'eau froide les morceaux et les plonger dans du sucre roux cristal.
+- Ça se conserve bien aussi !
 
 ## À propos
 > J'adore le gingembre (ça me rappelle l'Inde), ce n'est pas trop cher, et ça se trouve toute l'année.
-> En plus, ça se concerve bien une fois acheté (donc on peut faire la confiture quand on a le temps), et j'aime bien l'éplucher (devant [une bonne série](https://fr.wikipedia.org/wiki/Kaamelott) par exemple).
-> 
+> En plus, ça se conserve bien une fois acheté (donc on peut faire la confiture quand on a le temps), et j'aime bien l'éplucher (devant [une bonne série](https://fr.wikipedia.org/wiki/Kaamelott) par exemple).
+
 > J'ai essayé ça en octobre 2013 pour la première fois, pour l'offrir à des amis. Ça a eu du succès, j'ai continué souvent :-)
