@@ -13,7 +13,7 @@ Pour 1.25 litre d'alcool :
 
 - 400 g de framboises (achetez les au marché en cagette, et pas au super marché !),
 - 75 cl d'un bon vin blanc *sec* (il ne faut pas qu'il soit trop sucré),
-- 800 kg de sucre blanc.
+- 800 g de sucre blanc.
 
 ## Préparation
 1. Ne pas laver les framboises, mais les écraser dans une passoire fine,
