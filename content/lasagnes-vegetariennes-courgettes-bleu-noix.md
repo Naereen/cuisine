@@ -1,6 +1,6 @@
 Title: Lasagnes végétariennes, courgettes bleu crème et noix
 Category: Recette
-Tags: recette, plat, végétarienne, difficile
+Tags: recette, plat, végétarien, difficile
 Summary: Recette pour lasagnes végétariennes, courgettes bleu crème et noix
 
 Recette pour lasagnes végétariennes, courgettes bleu crème et noix.
