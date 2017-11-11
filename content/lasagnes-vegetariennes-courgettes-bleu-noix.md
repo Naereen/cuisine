@@ -16,12 +16,12 @@ Recette pour lasagnes végétariennes, courgettes bleu crème et noix.
 - Des noix de Grenoble, cassées en petit morceau,
 - De la crème liquide, légère ou pas selon la préférence, ou de la béchamel,
 - Sel, poivre,
-- Gruyère rapé.
+- Gruyère rappé.
 
 ## Préparation
 1. Éplucher les courgettes, les couper en tranche en longueur,
 2. Trancher l'oignon en petit morceau,
-3. Dans un grand plat, faire une couche de pattes, puis une couche de courgettes, d'oignon, de crême, de fromage rapé, de bleu et de noix,
+3. Dans un grand plat, faire une couche de pattes, puis une couche de courgettes, d'oignon, de crème, de fromage rappé, de bleu et de noix,
 4. Continuer à faire des couches comme ça jusqu'à presque remplir le plat,
 5. Pour la dernière couche, juste des pattes, et recouvrir de crème, de poivre et de gruyère,
 6. Si possible, mettre quelques cerneaux de noix sur le dessus pour la décoration, et éventuellement du persil,
@@ -32,5 +32,5 @@ Recette pour lasagnes végétariennes, courgettes bleu crème et noix.
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- :cutlery: Servir chaud avec du fromage rapé en plus pour les amateurs.
+- :cutlery: Servir chaud avec du fromage rappé en plus pour les amateurs.
 - :wine_glass: Servir avec un vin blanc sec, un [Sylvaner](https://fr.wikipedia.org/wiki/Sylvaner_d'Alsace) par exemple.

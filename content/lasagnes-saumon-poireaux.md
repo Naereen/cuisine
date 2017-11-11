@@ -16,7 +16,7 @@ Recette pour lasagnes au saumon et poireaux :fish: :herb:.
 - Un paquet de 100 à 200 g de saumon fumé (bas de gamme),
 - De la crème liquide, légère ou pas selon la préférence, ou de la béchamel,
 - Sel, poivre,
-- Gruyère rapé.
+- Gruyère rappé.
 
 ## Préparation
 1. Faire cuire rapidement le filet de saumon à la poêle, avec un peu de beurre, et le séparer en petits morceaux,
@@ -32,7 +32,7 @@ Recette pour lasagnes au saumon et poireaux :fish: :herb:.
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- :cutlery: Servir chaud avec du fromage rapé en plus pour les amateurs.
+- :cutlery: Servir chaud avec du fromage rappé en plus pour les amateurs.
 - :wine_glass: Servir avec un vin blanc sec, un [Sylvaner](https://fr.wikipedia.org/wiki/Sylvaner_d'Alsace) par exemple.
 
 ## Variantes
