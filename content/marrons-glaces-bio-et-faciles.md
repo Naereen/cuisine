@@ -1,9 +1,9 @@
 Title: Marrons glacés bio et faciles
 Category: Recette
 Tags: recette, dessert, sucrerie, difficile, long
-Summary: Recette pour des marrons glacés bio et faciles. Long mais facile à faire, se conservent longtemps et si délicieux ! La parfaite sucrerie d'automne !
+Summary: Recette pour des marrons glacés 🌰 + ❄. bio et faciles. Long mais facile à faire, se conservent longtemps et si délicieux ! La parfaite sucrerie d'automne et de Noël ☃!
 
-Recette pour des marrons glacés bio et faciles, une sucrerie délicieuse et typique de l'Ardèche et des périodes automnales et de Noël : des châtaignes confites dans un sirop de sucre aromatisé à la vanille.
+Recette pour des marrons glacés 🌰 + ❄ bio et faciles, une sucrerie délicieuse et typique de l'Ardèche et des périodes automnales et de Noël ☃ : des châtaignes confites dans un sirop de sucre aromatisé à la vanille.
 
 - *Préparation* : au moins 2 heures pour 1 kg de marrons.
 - *Cuisson* : au moins 4 fois 10 minutes, réparties sur 4 jours consécutifs (toutes les 24h).
