@@ -1,7 +1,7 @@
 Title: Nouilles au gingembre
 Category: Recette
 Tags: recette, plat, végétarien, facile
-Summary: Recette pour des nouilles :shallow_pan_of_food: au gingembre :hot_pepper:. Quand je manque de temps le soir pendant une période chargée mais que je veux quand même manger chaud :hotsprings: !
+Summary: Recette pour des nouilles au gingembre. Quand je manque de temps le soir pendant une période chargée mais que je veux quand même manger chaud :hotsprings: !
 
 Recette pour des nouilles au gingembre.
 

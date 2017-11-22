@@ -1,7 +1,7 @@
 Title: Nouilles au gingembre et à la ratatouille maison
 Category: Recette
 Tags: recette, plat, végétarien, moyen
-Summary: Recette pour des nouilles :shallow_pan_of_food: au gingembre :hot_pepper:. Quand je manque de temps le soir pendant une période chargée mais que je veux quand même manger chaud :hotsprings: et avec des légumes !
+Summary: Recette pour des nouilles au gingembre. Quand je manque de temps le soir pendant une période chargée mais que je veux quand même manger chaud :hotsprings: et avec des légumes !
 
 Recette pour des nouilles au gingembre et à la ratatouille.
 
