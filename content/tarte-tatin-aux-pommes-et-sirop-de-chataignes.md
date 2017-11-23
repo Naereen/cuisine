@@ -1,9 +1,9 @@
 Title: Tarte tatin aux pommes et sirop de châtaigne
 Category: Recette
 Tags: recette, dessert, gateau, facile
-Summary: Recette pour tarte tatin aux pommes et sirop de châtaigne :apple: :chestnut:. Rapide, simple et délicieuse !
+Summary: Recette pour tarte tatin aux pommes :apple: et sirop de châtaigne 🌰. Rapide, simple et délicieuse !
 
-Recette pour tarte tatin aux pommes et sirop de châtaigne :apple: :chestnut:. Rapide, simple et délicieuse !
+Recette pour tarte tatin aux pommes :apple: et sirop de châtaigne 🌰. Rapide, simple et délicieuse !
 
 - *Préparation* : 10 minutes.
 - *Cuisson* : 25-30 minutes.
