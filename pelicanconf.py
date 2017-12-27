@@ -22,6 +22,7 @@ AUTHOR_FEED_RSS       = None
 # Blogroll
 LINKS = (
     ("Sources (GitHub)", "https://GitHub.com/Naereen/cuisine"),
+    ("Prochaines idées", "https://GitHub.com/Naereen/cuisine/issues/"),
     ("Mon site",         "//perso.crans.org/besson/"),
     ("Pelican",          "http://GetPelican.com/"),
     ("Python.org",       "https://Python.org/"),
