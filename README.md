@@ -14,10 +14,8 @@ Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/c
 ## Recettes à faire / faites
 
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/cuisine.svg)](https://GitHub.com/Naereen/cuisine/issues/) / [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/cuisine.svg)](https://GitHub.com/Naereen/cuisine/issues/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
-> Ce n'est pas encore très fourni...
-> En attendant, allez voir [mon site](http://perso.crans.org/besson/), [mon compte Bitbucket](https://bitbucket.org/lbesson/) ou [mon compte GitHub](https://github.com/Naereen/).
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 ----
 
@@ -34,7 +32,7 @@ Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/c
 
 ## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/slides.svg)](https://github.com/Naereen/cuisine/blob/master/LICENSE)
 Ce dépôt git et tous les fichiers contenus sont publiés librement sous les termes de la [Licence MIT](https://lbesson.mit-license.org/) (voir le fichier [LICENSE](LICENSE)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2017.
+© [Lilian Besson](https://GitHub.com/Naereen), 2017-2018.
 
 [![Website perso.crans.org/besson/cuisine](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/besson/cuisine/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/cuisine/graphs/commit-activity)
