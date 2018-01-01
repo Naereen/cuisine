@@ -11,6 +11,8 @@ sys.path.append(os.curdir)
 
 from pelicanconf import *
 
+SITEURL = "//localhost/cuisine"
+# XXX to build the site locally, comment this line
 SITEURL = "//perso.crans.org/besson/cuisine"
 RELATIVE_URLS = False
 
