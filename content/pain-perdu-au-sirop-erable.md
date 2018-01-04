@@ -5,8 +5,8 @@ Summary: Recette pour du pain perdu au sirop d'érable, le parfait petit-déjeun
 
 Recette pour pain perdu au sirop d'érable.
 
-- *Préparation* : 15-20 minutes.
-- *Cuisson* : 25-30 minutes.
+- *Préparation* : 3 minutes.
+- *Cuisson* : 6-9 minutes.
 
 ## Ingrédients
 > Ces quantités sont pour une personne.
