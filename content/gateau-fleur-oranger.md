@@ -26,9 +26,9 @@ Recette pour gâteau à la fleur d'oranger.
 5. Ajouter l'arôme de fleur d'oranger,
 6. Monter les blancs en neige (avec une pincée de sel),
 7. Intégrer les blancs à la préparation, délicatement, bien mélanger,
-5. Dans un moule beurré ou en silicone, verser la pâte,
-6. *Optionnel* : ajouter la cassonade et les amandes effilées sur le dessus,
-7. Faire cuire maximum 25 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
+8. Dans un moule beurré ou en silicone, verser la pâte,
+9. *Optionnel* : ajouter la cassonade et les amandes effilées sur le dessus,
+10. Faire cuire maximum 25 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
 
 ## Photo
 [![TODO]({filename}images/blank.png)](#)

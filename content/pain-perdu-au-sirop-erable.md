@@ -15,12 +15,12 @@ Recette pour pain perdu au sirop d'érable.
 - 1 œuf,
 - 10 cL de lait,
 - 2 cuillère à soupe de sucre roux.
-- [Cannelle](https://fr.wikipedia.org/wiki/Cannelle) en poudre, un peu.
 
 ## Préparation
 1. Faire chauffer une poêle, et ajouter une noix de beurre,
-2. Dans un bol, battre l'œuf, ajouter le lait et le sucre, bien mélanger, et ajouter un peu de cannelle,
-3. Couper les tranches de pain en 4 morceaux (j'aime bien faire des triangles plutôt que des carrés), et tremper le pain dans le mélange œuf-lait-sucre,
+2. Dans un bol, battre l'œuf, ajouter le lait et le sucre, bien mélanger,
+3. Couper les tranches de pain en 4 morceaux, et tremper le pain dans le mélange œuf-lait-sucre,
+    > J'aime bien faire des triangles plutôt que des carrés.
 4. Quand la poêle est bien chaude et le beurre bulle un petit peu, ajouter les tranches de pain bien imbibées,
 5. Faire cuire à feu moyen, et retourner une fois (environ 2 à 3 minutes par côté),
 6. Quand tous les morceaux sont bien cuits (avec une belle couleur marron), ajouter une cuillère à soupe de sirop d'érable.
