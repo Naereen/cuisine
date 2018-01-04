@@ -112,9 +112,9 @@ Markdown can also contain images.
 
 ![images/icon.png](images/icon.png)
 
-And raw HTML can also be included.
+And raw HTML can also be included (this image is right aligned with `style="margin-right:0;"`).
 
-<center><img src="images/icon.png" width="50%"></center>
+<img style="display: block; margin-right: 0;" src="images/icon.png" width="50%">
 
 ## Finally
 

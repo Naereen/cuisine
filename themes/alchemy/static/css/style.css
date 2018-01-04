@@ -68,6 +68,10 @@ p {
     font-feature-settings: "liga", "onum", "pnum", "kern"
 }
 
+body img {
+    display: block;
+    margin: 0 auto;
+}
 
 /* ------------------------------------------------------------------------- */
 
