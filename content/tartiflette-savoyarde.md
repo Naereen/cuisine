@@ -1,9 +1,9 @@
 Title: Tartiflette savoyarde
 Category: Recette
 Tags: recette, plat, facile
-Summary: Recette pour tartiflette savoyarde
+Summary: Recette de la fameuse tartiflette savoyarde, un bon plat bien consistant et savoureux ([c'est pas faux](https://kaamelott-soundboard.2ec0b4.fr/#son/cest_pas_faux1)) à cuisiner pour se réchauffer en plein hiver
 
-Recette pour tartiflette savoyarde.
+Recette de la fameuse tartiflette savoyarde, un bon plat bien consistant et savoureux ([c'est pas faux](https://kaamelott-soundboard.2ec0b4.fr/#son/cest_pas_faux1)) à cuisiner pour se réchauffer en plein hiver.
 
 - *Préparation* : 15-20 minutes.
 - *Cuisson* : 45-55 minutes.
