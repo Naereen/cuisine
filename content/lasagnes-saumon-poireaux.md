@@ -32,7 +32,7 @@ Recette pour lasagnes au saumon et poireaux :fish: :herb:.
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- :cutlery: Servir chaud avec du fromage rappé en plus pour les amateurs.
+- :cutlery: Servir chaud, avec du fromage rappé en plus pour les amateurs.
 - :wine_glass: Servir avec un vin blanc sec, un [Sylvaner](https://fr.wikipedia.org/wiki/Sylvaner_d'Alsace) par exemple.
 
 ## Variantes

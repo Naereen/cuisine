@@ -1,6 +1,6 @@
 Title: Vin chaud de Noël
 Category: Recette
-Tags: recette, alcool, sucrerie, moyen
+Tags: recette, alcool, sucrerie, facile
 Summary: Recette pour du vin chaud de Noël, à faire pendant les fêtes de fin d'année !
 
 Recette pour du vin chaud de Noël, pour un goûter sucré et qui réchauffe.
