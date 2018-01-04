@@ -14,8 +14,8 @@ Le génépi est un alcool typique des Hautes-Alpes, fait à partir d'une plante 
 ## Préparation
 > C'est la fameuse recette "40 brins, 40 sucres, 40 jours".
 
-1. Allez promener en montagne en plein été, tout début août, dans des endroits appropriés (au dessus de 2500m). J'aime bien le cirque de Rochebrune ou [le col de Malrit, au fond de la vallée des Fonds](https://www.google.fr/maps/place/Col+de+Malrit/@44.8333373,6.8651302,2365m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4789d91c568f0375:0xbbeb652732058092!8m2!3d44.833323!4d6.873885?hl=fr) près de Briançon. Regardez sur Internet ([par exemple, Google images](https://www.genepi05.fr/wp-content/uploads/2015/07/Photo-100-1-750x410.jpg)) pour apprendre à reconnaître le [vrai génépi jaune](https://www.genepi05.fr/jaune-et-noir/). Attention, maximum 50 brins par personne et par jour !<br>
-   <center>![Photo montrant des brins de génépi jaune](https://www.genepi05.fr/wp-content/uploads/2015/07/Photo-100-1-750x410.jpg)</center><br>
+1. Allez promener en montagne en plein été, tout début août, dans des endroits appropriés (au dessus de 2500m). J'aime bien le cirque de Rochebrune ou [le col de Malrit, au fond de la vallée des Fonds](https://www.google.fr/maps/place/Col+de+Malrit/@44.8333373,6.8651302,2365m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4789d91c568f0375:0xbbeb652732058092!8m2!3d44.833323!4d6.873885?hl=fr) près de Briançon. Regardez sur Internet ([par exemple, Google images](https://www.genepi05.fr/wp-content/uploads/2015/07/Photo-100-1-750x410.jpg)) pour apprendre à reconnaître le [vrai génépi jaune](https://www.genepi05.fr/jaune-et-noir/). Attention, maximum 50 brins par personne et par jour !
+   <br><br><center>![Photo montrant des brins de génépi jaune](https://www.genepi05.fr/wp-content/uploads/2015/07/Photo-100-1-750x410.jpg)</center><br>
 2. Au retour de la promenade, ne perdez pas de temps, nettoyez les brins à l'eau clair. Comptez 1 litre d'alcool pour 40 brins.
 3. Nettoyez les bouteilles.
 4. Dans une bouteille d'un litre, mettez 40 morceaux de sucre (200 grammes), 40 brins de génépi, et remplissez d'alcool au maximum (ça devrait prendre moins d'un litre d'alcool).
