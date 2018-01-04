@@ -12,12 +12,13 @@
 }
 
 body {
-    background-color: #f5f5f5;
     line-height: 1;
     font-size: large;
     text-align: justify;
     text-align-last: left;
     text-justify: inter-word;
+    background-color: #f5f5f5;
+    background: url(restaurant.png) #f5f5f5;
 }
 
 a {
@@ -72,6 +73,7 @@ p {
 
 .container {
     max-width: 1100px;
+    /* background: #f5f5f5; */
 }
 
 .header,
