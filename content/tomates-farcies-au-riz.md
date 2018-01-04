@@ -1,6 +1,6 @@
 Title: Tomates farcies au riz (recette grecque)
 Category: Recette
-Tags: recette, plat, moyen
+Tags: recette, plat, végétarien, moyen
 Summary: Recette pour tomates farcies au riz (recette grecque)
 
 Recette pour tomates farcies au riz (recette grecque).
