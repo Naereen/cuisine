@@ -72,6 +72,9 @@ body img, body iframe {
     display: block;
     margin: 0 auto;
 }
+body img {
+    border-radius: 10px 10px 10px 10px;
+}
 
 /* ------------------------------------------------------------------------- */
 
@@ -91,6 +94,7 @@ body img, body iframe {
 
 .header img {
     margin-bottom: 1rem;
+    border-radius: 15px 80px 30px 5px;
 }
 
 .header .title {

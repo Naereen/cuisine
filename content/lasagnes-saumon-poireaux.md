@@ -11,8 +11,8 @@ Recette pour lasagnes au saumon et poireaux :fish: :herb:.
 ## Ingrédients
 - Des pâtes à lasagne (une demi-boite au moins),
 - Du beurre salé,
-- 3 à 4 blancs de poireaux (c'est un [poireaux sans les feuilles](https://veekun.com/dex/pokemon/farfetch%27d) ![comme ce Pokémon](https://cdn.bulbagarden.net/upload/a/aa/Spr_5b_083.png) ) !
-- 1 bon morceau de saumon en filet (pour 3 personnes, entre 200 et 300 g, ![comme ce Pokémon](https://cdn.bulbagarden.net/upload/2/24/Spr_5b_129_m.png)),
+- 3 à 4 blancs de poireaux (c'est un [poireaux sans les feuilles](https://veekun.com/dex/pokemon/farfetch%27d) <img style="display: inline; margin: 0;" title="comme ce Pokémon" src="https://cdn.bulbagarden.net/upload/a/aa/Spr_5b_083.png">) !
+- 1 bon morceau de saumon en filet (pour 3 personnes, entre 200 et 300 g, <img style="display: inline; margin: 0;" title="comme ce Pokémon" src="https://cdn.bulbagarden.net/upload/2/24/Spr_5b_129_m.png">),
 - Un paquet de 100 à 200 g de saumon fumé (bas de gamme),
 - De la crème liquide, légère ou pas selon la préférence, ou de la béchamel,
 - Sel, poivre,
