@@ -170,6 +170,21 @@ body img {
     .header,
     .footer {
         text-align: center;
+        text-align-last: center;
+    }
+    .header .title {
+        font-size: 120%;
+    }
+    .list-inline {
+        font-size: 0.85rem;
+        text-align: center;
+        text-align-last: center;
+    }
+    .header img {
+        max-width: 65%;
+    }
+    .header ul {
+        font-size: 1.05rem;
     }
     .teaser header li {
         display: inline-block;

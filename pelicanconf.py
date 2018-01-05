@@ -25,8 +25,8 @@ LINKS = (
     ("Prochaines idées", "https://github.com/Naereen/cuisine/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"),
     ("Mon site",         "//perso.crans.org/besson/"),
     ("Pelican",          "http://GetPelican.com/"),
-    ("Python.org",       "https://Python.org/"),
-    ("Marmiton.org",     "http://marmiton.org/"),
+    ("Python",       "https://Python.org/"),
+    ("Marmiton",     "http://marmiton.org/"),
 )
 
 MENU_LINKS = (
