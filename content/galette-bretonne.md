@@ -1,6 +1,6 @@
 Title: Galettes bretonnes
 Category: Recette
-Tags: recette, plat, moyen
+Tags: recette, plat, breton, moyen
 Summary: Recette pour des galettes bretonnes, le plat typique de la Bretagne, facile à cuisiner, rapide à cuire et délicieux dans l'assiette !
 
 Recette pour des galettes bretonnes : le plat typique de la Bretagne, facile à cuisiner, rapide à cuire et délicieux dans l'assiette !

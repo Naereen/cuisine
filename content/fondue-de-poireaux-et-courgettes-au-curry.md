@@ -1,6 +1,6 @@
 Title: Fondue de poireaux et courgettes au curry
 Category: Recette
-Tags: recette, plat, vegetarien, moyen
+Tags: recette, plat, végétarien, moyen
 Summary: Recette pour fondue de poireaux et courgettes au curry, un plat rapide et diététique, à apprécier seul ou avec du riz :rice: !
 
 Recette pour fondue de poireaux et courgettes au curry, un plat rapide et diététique, à apprécier seul ou avec du riz :rice: !
