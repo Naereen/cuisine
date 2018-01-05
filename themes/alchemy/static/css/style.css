@@ -21,6 +21,10 @@ body {
     background: url(restaurant.png) #f5f5f5;
 }
 
+.list-inline {
+    text-align: left;
+}
+
 a {
     color: #333;
 }
