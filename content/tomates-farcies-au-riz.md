@@ -25,7 +25,7 @@ Recette pour des tomates farcies au riz (recette grecque).
 ## Préparation
 1. Dans un saladier, mélanger le riz, la crème, du gruyère rappé,
 2. Nettoyer les tomates, couper retirer le haut des tomates et les vider (dans le saladier). Conserver le dessus,
-3. Trancher l'oignon en petit morceau, mélanger à la farce. Bien mélanger la farce, et si besoin rajouter un peu d'huile et de crème pour la rendre plus liquide. Saler et poivrer.
+3. Trancher l'oignon en petit morceau, mélanger à la farce. Bien mélanger la farce, et si besoin rajouter un peu d'huile et de crème pour la rendre plus liquide. Saler et poivrer, et ajouter des herbes de Provence,
 4. Dans un grand plat qui passe au four, poser les tomates,
 5. Les remplir de la farce, et éventuellement mettre la fin de la farce au fond du plat (ça cuira quand même), et refermer les tomates avec les dessus que vous avez mis de côté en étape 2.
 6. Mettre au four,
