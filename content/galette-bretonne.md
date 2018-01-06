@@ -23,7 +23,8 @@ Recette pour des galettes bretonnes : le plat typique de la Bretagne, facile à 
 2. Ajouter l'œuf et le sel,
 3. Bien travailler cette pâte en ajoutant petit à petit de l'eau, en mélangeant avec un fouet,
 4. Ne pas mettre trop d'eau, la pâte doit être collante et fluide mais pas trop.
-    > Comme Perceval et Karadoc qui font des potions,  *« J'en met combien ? Ben vous en mettez pas trop. »*.
+
+> Comme Perceval et Karadoc qui font des potions,  *« J'en met combien ? Ben vous en mettez pas trop. »* -- Kaamelott, Livre I.
 
 ## Cuisson
 1. Dans une poêle bien chaude <i class="fa fa-thermometer-full" aria-hidden="true"></i>, anti-adhérente,
