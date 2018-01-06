@@ -13,6 +13,7 @@ Recette pour des galettes bretonnes : le plat typique de la Bretagne, facile à 
 - 1 œuf moyen,
 - 13 g de farine blanche (trois cuillère à soupe),
 - 125 g de farine de blé noir,
+- 40 cL d'eau (plus ou moins),
 - sel.
 
 > Pour plus d'une personne, comptez ces quantités et multipliez...
@@ -20,13 +21,16 @@ Recette pour des galettes bretonnes : le plat typique de la Bretagne, facile à 
 ## Préparation
 1. Dans un gros saladier, mélanger les deux farines,
 2. Ajouter l'œuf et le sel,
-3. Bien travailler cette pâte, en mélangeant avec un fouet, puis la délayer avec un peu d'eau.
+3. Bien travailler cette pâte en ajoutant petit à petit de l'eau, en mélangeant avec un fouet,
+4. Ne pas mettre trop d'eau, la pâte doit être collante et fluide mais pas trop.
+    > Comme Perceval et Karadoc qui font des potions,  *« J'en met combien ? Ben vous en mettez pas trop. »*.
 
 ## Cuisson
 1. Dans une poêle bien chaude <i class="fa fa-thermometer-full" aria-hidden="true"></i>, anti-adhérente,
 2. Ajouter une noix de beurre,
 3. Étendre une mince couche de cette préparation dans la poêle,
-4. Laisser cuire et dorer le côté poêle, puis retourner.
+4. Laisser cuire et dorer le côté poêle, puis retourner,
+5. On peut garnir directement dans la poêle, la "galette complète" est avec du fromage rappé (gruyère), du jambon et un œuf.
 
 ## Service
 - :cutlery: Service bien chaud, avec une petite salade verte,
