@@ -1,9 +1,9 @@
 Title: Tomates farcies au riz (recette grecque)
 Category: Recette
 Tags: recette, plat, végétarien, moyen
-Summary: Recette pour tomates farcies au riz (recette grecque)
+Summary: Recette pour des tomates farcies au riz (recette grecque)
 
-Recette pour tomates farcies au riz (recette grecque).
+Recette pour des tomates farcies au riz (recette grecque).
 
 - *Préparation* : 10 minutes
 - *Cuisson* : 30-45 minutes.
