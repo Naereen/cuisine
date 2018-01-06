@@ -147,4 +147,5 @@ IGNORE_FILES = [
     "__pycache__",
     "content/template.md",
     "template.md",
+    "issues/",
 ]
