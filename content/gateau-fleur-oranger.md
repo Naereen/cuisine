@@ -1,9 +1,9 @@
 Title: Gâteau à la fleur d'oranger
 Category: Recette
 Tags: recette, dessert, gateau, moyen
-Summary: Recette pour gâteau à la fleur d'oranger
+Summary: Recette d'un gâteau à la fleur d'oranger, savoureux et original
 
-Recette pour gâteau à la fleur d'oranger.
+Recette d'un gâteau à la fleur d'oranger, savoureux et original.
 
 - *Préparation* : 15 minutes.
 - *Cuisson* : 30-35 minutes.
