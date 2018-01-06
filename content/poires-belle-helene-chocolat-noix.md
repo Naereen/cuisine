@@ -12,8 +12,10 @@ Recette pour des poires belle-Hélène à la noix, un dessert frais et fort en c
 
 - 200 g de chocolat noir pour dessert,
 - 10 g de beurre *salé*,
-- une grosse boite de conserve de demi poires au jus,
+- une grosse boite de conserve de demi poires au jus. Normalement il y a exactement 10 demi-poires !
 - quelques cerneaux de noix pour décorer.
+
+> Note : si vous êtes moins nombreux, vous pouvez au choix acheter une boite de conserve plus petite, ou ne videz pas le jus et sortez seulement `2 n` demi-poires pour `n` personnes (où `n < 5`), et conservez le reste au frigo (pas longtemps).
 
 ## Préparation
 1. Faire fondre le chocolat et le beurre, avec une cuillère à café d'eau, dans une casserole à feu moyen,
