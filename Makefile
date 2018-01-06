@@ -59,6 +59,9 @@ clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 	[ ! -d __pycache__ ] || rm -rf __pycache__
 
+sigal:
+	cd content/images ; sigal build . ../../output/images/ ; cd ../../
+
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
