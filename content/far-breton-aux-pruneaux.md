@@ -18,19 +18,17 @@ Recette du fameux far breton aux pruneaux, un gateau au lait typique de la Breta
 - des pruneaux d'Agen dénoyautés.
 
 ## Préparation
-1. Séparer les jaunes et les blancs des œufs,
-2. Dans un grand saladier, mélanger les jaunes d'œufs, le sucre et une cuillère à soupe d'eau, en un mélange blanc bien lisse,
-3. Faire fondre le beurre au micro-ondes,
-4. Ajouter la farine et la levure, le beurre fondu, et bien mélanger,
-5. Ajouter l'arôme de fleur d'oranger,
-6. Monter les blancs en neige (avec une pincée de sel),
-7. Intégrer les blancs à la préparation, délicatement, bien mélanger,
-8. Dans un moule beurré ou en silicone, verser la pâte,
-10. Faire cuire maximum 60 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 25 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
+1. Mélanger la farine et le sucre dans un grand saladier,
+2. Battre les œufs en omelette, ajouter le sel. Former un puits dans le saladier, et ajouter les œufs au mélange. Bien mélanger,
+   [![far-breton-aux-pruneaux-1.jpg]({filename}images/far-breton-aux-pruneaux-1.jpg){width=60%}]({filename}images/far-breton-aux-pruneaux-1.jpg)
+3. Ajouter l'huile, mélanger, puis ajouter progressivement le litre de lait en mélangeant bien, jusqu'à obtenir une pâte bien homogène,
+4. Préparer environ 200 g de pruneaux (ça en fait une quinzaine) : les rouler dans un peu de farine, puis les couper en 2 ou 3 morceaux,
+5. Dans un plat à gratin, verser la pâte, puis bien répartir les pruneaux,
+6. Faire cuire maximum 60 minutes dans un four à 200°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 35 minutes (planter un couteau dans le far breton, la lame doit ressortir presque sèche). Le dessus doit être bien doré !
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![far-breton-aux-pruneaux-2.jpg]({filename}images/far-breton-aux-pruneaux-2.jpg){width=60%}]({filename}images/far-breton-aux-pruneaux-2.jpg)
 
 ## Remarques
-- Pour la cuisson, je commence avec 20 minutes au four moyen <i class="fa fa-thermometer-half" aria-hidden="true"></i> puis 30 minutes au four à la température max <i class="fa fa-thermometer-full" aria-hidden="true"></i>, pour faire griller le dessus du gâteau.
-- :wine_glass: Servir avec un bon cidre sec.
+- Pour la cuisson, je commence avec 30 minutes au four moyen <i class="fa fa-thermometer-half" aria-hidden="true"></i> puis 30 minutes au four à la température max <i class="fa fa-thermometer-full" aria-hidden="true"></i>, pour faire griller le dessus du gâteau.
+- :wine_glass: Servir avec un bon cidre doux.
