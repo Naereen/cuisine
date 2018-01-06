@@ -29,6 +29,7 @@ ifeq ($(RELATIVE), 1)
 	PELICANOPTS += --relative-urls
 endif
 
+full:	clean html publish sigal rsync_upload_force
 all:	clean html rsync_upload
 
 help:
@@ -101,6 +102,9 @@ rsync_upload: publish
 	# rsync -e "ssh -p $(SSH_PORT)" -P -rvzc $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 	CP $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
+rsync_upload_force:
+	CP $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+
 rsync_upload_delete: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
@@ -111,4 +115,4 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-.PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload ftp_upload github
+.PHONY: html sigal help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload ftp_upload github
