@@ -9,13 +9,16 @@ Recette du fameux far breton aux pruneaux, un gateau au lait typique de la Breta
 - *Cuisson* : 50-60 minutes.
 
 ## Ingrédients
+> Pour un far pour 6 personnes.
+
 - 250 g de sucre blanc,
 - 250 g de farine blanche normale,
 - 4 œufs moyens,
 - 1 pincée de sel,
 - 1 cuillère à soupe d'huile végétale (e.g., tournesol),
-- 1 litre de lait (de vache ou un substitut végétalien),
-- des pruneaux d'Agen dénoyautés.
+- 1 litre de lait (de vache ou un substitut végétalien).
+
+> On peut en mettre moins (75 cL par exemple) pour obtenir un far plus compact et moins léger (même temps de cuisson). Notez que si votre plat à gratin est trop petit, diminuer la quantité de lait est une bonne idée.
 
 ## Préparation
 1. Mélanger la farine et le sucre dans un grand saladier,
