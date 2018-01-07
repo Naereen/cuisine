@@ -115,6 +115,9 @@ body img {
     font-size: 1.25rem;
     font-weight: 300;
 }
+.header img {
+    max-width: 80%;
+}
 
 .main {
     background-color: #fff;
@@ -123,6 +126,9 @@ body img {
 
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .1);
+}
+.footer p {
+    text-align-last: right;
 }
 
 .highlight pre {

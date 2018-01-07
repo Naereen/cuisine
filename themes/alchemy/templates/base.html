@@ -68,7 +68,7 @@
         <div class="col-sm-{% if SITEIMAGE %}8{% else %}12{% endif %}">
           <h1 class="title"><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
           {% if SITESUBTITLE %}
-          <p class="text-muted">{{ SITESUBTITLE }}</p>
+          <p class="text-muted"><em>{{ SITESUBTITLE }}</em></p>
           {% endif %}
           {% if LINKS or (DISPLAY_PAGES_ON_MENU and pages) or ICONS %}
           <ul class="list-inline">
@@ -111,7 +111,7 @@
   <footer class="footer">
     <div class="container">
       <div class="row">
-       <ul class="col-sm-6 list-inline">
+        <ul class="col-sm-6 list-inline">
           {% if not HIDE_AUTHORS %}
           <li class="list-inline-item"><a href="{{ SITEURL }}/authors.html"><i class="fa fa-user-o" aria-hidden="true"></i> Auteurs</a></li>
           {% endif %}
@@ -123,7 +123,7 @@
           <li class="list-inline-item"><a href="{{ SITEURL }}/{{ RANDOM }}"><i class="fa fa-random" aria-hidden="true"></i> Recette aléatoire ?</a></li>
         </ul>
         <p class="col-sm-6 text-sm-right text-muted">
-          Sous {{ LICENSE }}
+          Texte, images et code sous {{ LICENSE }}
           / <a href="https://getpelican.com" target="_blank">&#128296; Généré par Pelican</a>
           / <a href="https://python.org/">qui utilise Python &#128013;</a>
           / et le <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">thème &#x2728; Alchemy</a>.
