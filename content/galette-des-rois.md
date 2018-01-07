@@ -19,15 +19,17 @@ Ma recette de la galette des rois, le traditionnel dessert dégusté lors de l'�
 - quelques gouttes d'arôme d'amandes amères.
 
 ## Préparation
-1. Faire préchauffer le four à 210°C (Thermostat 7),
+1. Faire préchauffer le four à 180°C (Thermostat 6),
 2. Préparer la *frangipane* : dans un saladier, mélanger l'œuf et le sucre, ajouter la pincée de sel, puis la poudre d'amandes, et bien mélanger. Enfin, rajouter l'arôme d'amandes amères, et bien mélanger,
 3. Dans un plat à tarte, étendre une première pâte feuilletée (sur son papier sulfurisé), piquer le fond avec une fourchette,
 4. Bien étaler la *frangipane* dans le fond, et ajouter la seconde pâte feuilletée sur le dessus,
    [![galette-des-rois-1.jpg]({filename}images/galette-des-rois-1.jpg){width=60%}]({filename}images/galette-des-rois-1.jpg)
 5. Avec le jaune d'œuf et un pinceau de cuisine (ou une fourchette), dorer le dessus de la galette, bien uniformément, et enfin percer de petits trous dans la pâte du dessus (sinon la galette va gonfler et se dessécher !).
-6. Faire cuire maximum 40 minutes dans un four à 200°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 25 minutes (planter un couteau, la lame doit ressortir presque [blanche et sèche](https://youtu.be/oTcvz3jDqzc?t=8)). Le dessus doit être bien doré mais pas trop sec !
+6. Faire cuire maximum 30 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 25 minutes (planter un couteau, la lame doit ressortir presque [blanche et sèche](https://youtu.be/oTcvz3jDqzc?t=8)). Le dessus doit être bien doré mais pas trop sec !
 
 ## Photo
+> Ce premier essai avait trop cuit... J'ai un four pourri :cry: !
+
 [![galette-des-rois-2.jpg]({filename}images/galette-des-rois-2.jpg){width=60%}]({filename}images/galette-des-rois-2.jpg)
 
 ## Remarques
