@@ -22,13 +22,16 @@ Recette pour tarte aux pommes.
 2. Éplucher les pommes, les couper en tranches,
 3. Mélanger le sucre (65 g), la crème, les œufs et la cannelle dans un bol,
 4. *Optionnel* : mettre de la confiture au font de la pâte (si pas beaucoup de pommes par exemple),
-5. Disposer les tranches de pommes en rond (les puristes le feront en spirale !),
+5. Disposer les tranches de pommes en rond (les puristes le feront en spirale !),<br><br>
+   [![tarte-aux-pommes-1.jpg]({filename}images/tarte-aux-pommes-1.jpg){width=60%}]({filename}images/tarte-aux-pommes-1.jpg)<br>
 6. Version la préparation, bien étaler,
 7. Saupoudrer avec un peu de sucre roux,
 7. Faire cuire maximum 25 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (le dessus ne doit pas cramer !).
+   [![tarte-aux-pommes-2.jpg]({filename}images/tarte-aux-pommes-2.jpg){width=60%}]({filename}images/tarte-aux-pommes-2.jpg)
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![tarte-aux-pommes-3.jpg]({filename}images/tarte-aux-pommes-3.jpg){width=60%}]({filename}images/tarte-aux-pommes-3.jpg)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace vanille ou de la chantilly ! *Miam !*
+- Dans un *plat à tarte*, rond, c'est plus joli... Dans un vrai four, ça cuit mieux et plus uniformément... *Je fais ce que je peux !*
