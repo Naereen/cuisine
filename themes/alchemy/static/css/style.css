@@ -72,7 +72,7 @@ p {
     font-feature-settings: "liga", "onum", "pnum", "kern"
 }
 
-body img, body iframe {
+body figure, body img, body iframe {
     display: block;
     margin: 0 auto;
 }
