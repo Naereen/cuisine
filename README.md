@@ -30,14 +30,14 @@ Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/c
 
 ----
 
-## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/slides.svg)](https://github.com/Naereen/cuisine/blob/master/LICENSE)
+## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/cuisine.svg)](https://github.com/Naereen/cuisine/blob/master/LICENSE)
 Ce dépôt git et tous les fichiers contenus sont publiés librement sous les termes de la [Licence MIT](https://lbesson.mit-license.org/) (voir le fichier [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2017-2018.
 
 [![Website perso.crans.org/besson/cuisine](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/besson/cuisine/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/cuisine/graphs/commit-activity)
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
-[![GitHub licence](https://img.shields.io/github/license/Naereen/slides.svg)](https://github.com/Naereen/cuisine/blob/master/LICENSE)
+[![GitHub licence](https://img.shields.io/github/license/Naereen/cuisine.svg)](https://github.com/Naereen/cuisine/blob/master/LICENSE)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/cuisine/README.md?pixel)](https://GitHub.com/Naereen/cuisine/)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
