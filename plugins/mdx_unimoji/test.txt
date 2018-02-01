@@ -1,0 +1,3687 @@
+
+
+For emoji #0 '😆' :
+  - 'xD' should convert to '😆' : 'xD'
+  - 'XD' should convert to '😆' : 'XD'
+  - ': contented :' should convert to '😆' : ':contented:'
+  - ': satisfied :' should convert to '😆' : ':satisfied:'
+
+For emoji #1 '😊' :
+  - ':)' should convert to '😊' : ':)'
+  - ':-)' should convert to '😊' : ':-)'
+  - ':]' should convert to '😊' : ':]'
+  - ':-]' should convert to '😊' : ':-]'
+  - '=)' should convert to '😊' : '=)'
+  - '=]' should convert to '😊' : '=]'
+  - '^^' should convert to '😊' : '^^'
+  - '^_^' should convert to '😊' : '^_^'
+  - ': smile :' should convert to '😊' : ':smile:'
+  - ': crush :' should convert to '😊' : ':crush:'
+  - ': embarrassed :' should convert to '😊' : ':embarrassed:'
+  - ': shy :' should convert to '😊' : ':shy:'
+  - ': blush :' should convert to '😊' : ':blush:'
+
+For emoji #2 '😃' :
+  - ': smiley :' should convert to '😃' : ':smiley:'
+
+For emoji #3 '😏' :
+  - ':>' should convert to '😏' : ':>'
+  - ':->' should convert to '😏' : ':->'
+  - ': mean :' should convert to '😏' : ':mean:'
+  - ': smug :' should convert to '😏' : ':smug:'
+  - ': smirk :' should convert to '😏' : ':smirk:'
+
+For emoji #4 '😍' :
+  - ': crush :' should convert to '😍' : ':crush:'
+  - ': heart_eyes :' should convert to '😍' : ':heart_eyes:'
+
+For emoji #5 '😘' :
+  - '';*' should convert to '😘' : '';*'
+  - ';-*' should convert to '😘' : ';-*'
+  - ': kiss :' should convert to '😘' : ':kiss:'
+  - ': kissing_heart :' should convert to '😘' : ':kissing_heart:'
+
+For emoji #6 '😚' :
+  - ':*' should convert to '😚' : ':*'
+  - ':-*' should convert to '😚' : ':-*'
+  - ': kissing_closed_eyes :' should convert to '😚' : ':kissing_closed_eyes:'
+
+For emoji #7 '😳' :
+  - ':$' should convert to '😳' : ':$'
+  - ':-$' should convert to '😳' : ':-$'
+  - ': flustered :' should convert to '😳' : ':flustered:'
+  - ': embarassed :' should convert to '😳' : ':embarassed:'
+  - ': flattered :' should convert to '😳' : ':flattered:'
+  - ': flushed :' should convert to '😳' : ':flushed:'
+
+For emoji #8 '😌' :
+  - ': relaxed :' should convert to '😌' : ':relaxed:'
+  - ': phew :' should convert to '😌' : ':phew:'
+  - ': massage :' should convert to '😌' : ':massage:'
+  - ': happiness :' should convert to '😌' : ':happiness:'
+  - ': relieved :' should convert to '😌' : ':relieved:'
+
+For emoji #9 '😁' :
+  - ': grin :' should convert to '😁' : ':grin:'
+
+For emoji #10 '😉' :
+  - ';)' should convert to '😉' : ';)'
+  - ';-)' should convert to '😉' : ';-)'
+  - ';]' should convert to '😉' : ';]'
+  - ';-]' should convert to '😉' : ';-]'
+  - ': flirt :' should convert to '😉' : ':flirt:'
+  - ': mischievous :' should convert to '😉' : ':mischievous:'
+  - ': secret :' should convert to '😉' : ':secret:'
+  - ': wink :' should convert to '😉' : ':wink:'
+
+For emoji #11 '😜' :
+  - ';p' should convert to '😜' : ';p'
+  - ';-p' should convert to '😜' : ';-p'
+  - ';P' should convert to '😜' : ';P'
+  - ';-P' should convert to '😜' : ';-P'
+  - ': childish :' should convert to '😜' : ':childish:'
+  - ': mischievous :' should convert to '😜' : ':mischievous:'
+  - ': stuck_out_tongue_winking_eye :' should convert to '😜' : ':stuck_out_tongue_winking_eye:'
+
+For emoji #12 '😝' :
+  - ': mischievous :' should convert to '😝' : ':mischievous:'
+  - ': stuck_out_tongue_closed_eyes :' should convert to '😝' : ':stuck_out_tongue_closed_eyes:'
+
+For emoji #13 '😀' :
+  - ': smiling :' should convert to '😀' : ':smiling:'
+  - ': grinning :' should convert to '😀' : ':grinning:'
+
+For emoji #14 '😗' :
+  - ': 3 :' should convert to '😗' : ':3:'
+  - ': kissing :' should convert to '😗' : ':kissing:'
+
+For emoji #15 '😙' :
+  - ': smooch :' should convert to '😙' : ':smooch:'
+  - ': kissing_smiling_eyes :' should convert to '😙' : ':kissing_smiling_eyes:'
+
+For emoji #16 '😛' :
+  - ':p' should convert to '😛' : ':p'
+  - ':-p' should convert to '😛' : ':-p'
+  - ':P' should convert to '😛' : ':P'
+  - ':-P' should convert to '😛' : ':-P'
+  - '=p' should convert to '😛' : '=p'
+  - '=P' should convert to '😛' : '=P'
+  - ': childish :' should convert to '😛' : ':childish:'
+  - ': playful :' should convert to '😛' : ':playful:'
+  - ': mischievous :' should convert to '😛' : ':mischievous:'
+  - ': stuck_out_tongue :' should convert to '😛' : ':stuck_out_tongue:'
+
+For emoji #17 '😴' :
+  - ': asleep :' should convert to '😴' : ':asleep:'
+  - ': tired :' should convert to '😴' : ':tired:'
+  - ': sleepy :' should convert to '😴' : ':sleepy:'
+  - ': night :' should convert to '😴' : ':night:'
+  - ': zzz :' should convert to '😴' : ':zzz:'
+  - ': sleeping :' should convert to '😴' : ':sleeping:'
+
+For emoji #18 '😟' :
+  - ': frustrated :' should convert to '😟' : ':frustrated:'
+  - ': scared :' should convert to '😟' : ':scared:'
+  - ': concern :' should convert to '😟' : ':concern:'
+  - ': nervous :' should convert to '😟' : ':nervous:'
+  - ': worried :' should convert to '😟' : ':worried:'
+
+For emoji #19 '😦' :
+  - ': aw :' should convert to '😦' : ':aw:'
+  - ': what :' should convert to '😦' : ':what:'
+  - ': frowning :' should convert to '😦' : ':frowning:'
+
+For emoji #20 '😧' :
+  - ': stunned :' should convert to '😧' : ':stunned:'
+  - ': nervous :' should convert to '😧' : ':nervous:'
+  - ': anguished :' should convert to '😧' : ':anguished:'
+
+For emoji #21 '😮' :
+  - ': surprise :' should convert to '😮' : ':surprise:'
+  - ': impressed :' should convert to '😮' : ':impressed:'
+  - ': wow :' should convert to '😮' : ':wow:'
+  - ': open_mouth :' should convert to '😮' : ':open_mouth:'
+
+For emoji #22 '😬' :
+  - ': grimace :' should convert to '😬' : ':grimace:'
+  - ': teeth :' should convert to '😬' : ':teeth:'
+  - ': grimacing :' should convert to '😬' : ':grimacing:'
+
+For emoji #23 '😕' :
+  - ': baffled :' should convert to '😕' : ':baffled:'
+  - ': puzzled :' should convert to '😕' : ':puzzled:'
+  - ': indifference :' should convert to '😕' : ':indifference:'
+  - ': huh :' should convert to '😕' : ':huh:'
+  - ': weird :' should convert to '😕' : ':weird:'
+  - ': hmmm :' should convert to '😕' : ':hmmm:'
+  - ': confused :' should convert to '😕' : ':confused:'
+
+For emoji #24 '😯' :
+  - ': woo :' should convert to '😯' : ':woo:'
+  - ': shh :' should convert to '😯' : ':shh:'
+  - ': conceal :' should convert to '😯' : ':conceal:'
+  - ': hide :' should convert to '😯' : ':hide:'
+
+For emoji #25 '😑' :
+  - '-_-' should convert to '😑' : '-_-'
+  - ': deadpan :' should convert to '😑' : ':deadpan:'
+  - ': indifferent :' should convert to '😑' : ':indifferent:'
+  - ': meh :' should convert to '😑' : ':meh:'
+  - ': expressionless :' should convert to '😑' : ':expressionless:'
+
+For emoji #26 '😒' :
+  - ':/' should convert to '😒' : ':/'
+  - ':-/' should convert to '😒' : ':-/'
+  - ':\' should convert to '😒' : ':\'
+  - ':-\' should convert to '😒' : ':-\'
+  - '=/' should convert to '😒' : '=/'
+  - '=\' should convert to '😒' : '=\'
+  - ':L' should convert to '😒' : ':L'
+  - ': sarcasm :' should convert to '😒' : ':sarcasm:'
+  - ': indifference :' should convert to '😒' : ':indifference:'
+  - ': bored :' should convert to '😒' : ':bored:'
+  - ': straight :' should convert to '😒' : ':straight:'
+  - ': serious :' should convert to '😒' : ':serious:'
+  - ': unamused :' should convert to '😒' : ':unamused:'
+
+For emoji #27 '😅' :
+  - ': relief :' should convert to '😅' : ':relief:'
+  - ': laugh :' should convert to '😅' : ':laugh:'
+  - ': sweat_smile :' should convert to '😅' : ':sweat_smile:'
+
+For emoji #28 '😓' :
+  - ':-X' should convert to '😓' : ':-X'
+  - ':X' should convert to '😓' : ':X'
+  - ':-#' should convert to '😓' : ':-#'
+  - ':#' should convert to '😓' : ':#'
+  - ':-&' should convert to '😓' : ':-&'
+  - ':&' should convert to '😓' : ':&'
+  - ': stressed :' should convert to '😓' : ':stressed:'
+  - ': tired :' should convert to '😓' : ':tired:'
+  - ': exercise :' should convert to '😓' : ':exercise:'
+  - ': sweat :' should convert to '😓' : ':sweat:'
+
+For emoji #29 '😥' :
+  - ': phew :' should convert to '😥' : ':phew:'
+  - ': sweat :' should convert to '😥' : ':sweat:'
+  - ': nervous :' should convert to '😥' : ':nervous:'
+  - ': disappointed_relieved :' should convert to '😥' : ':disappointed_relieved:'
+
+For emoji #30 '😩' :
+  - ': tired :' should convert to '😩' : ':tired:'
+  - ': sleepy :' should convert to '😩' : ':sleepy:'
+  - ': frustrated :' should convert to '😩' : ':frustrated:'
+  - ': upset :' should convert to '😩' : ':upset:'
+  - ': weary :' should convert to '😩' : ':weary:'
+
+For emoji #31 '😔' :
+  - ': depressed :' should convert to '😔' : ':depressed:'
+  - ': okay :' should convert to '😔' : ':okay:'
+  - ': upset :' should convert to '😔' : ':upset:'
+  - ': pensive :' should convert to '😔' : ':pensive:'
+
+For emoji #32 '😞' :
+  - ':(' should convert to '😞' : ':('
+  - ':-(' should convert to '😞' : ':-('
+  - ';(' should convert to '😞' : ';('
+  - ';-(' should convert to '😞' : ';-('
+  - '=(' should convert to '😞' : '=('
+  - '=[' should convert to '😞' : '=['
+  - ': lonely :' should convert to '😞' : ':lonely:'
+  - ': upset :' should convert to '😞' : ':upset:'
+  - ': depressed :' should convert to '😞' : ':depressed:'
+  - ': disappointed :' should convert to '😞' : ':disappointed:'
+
+For emoji #33 '😖' :
+  - ':s' should convert to '😖' : ':s'
+  - ':-s' should convert to '😖' : ':-s'
+  - ':S' should convert to '😖' : ':S'
+  - ':-S' should convert to '😖' : ':-S'
+  - ': confused :' should convert to '😖' : ':confused:'
+  - ': sick :' should convert to '😖' : ':sick:'
+  - ': unwell :' should convert to '😖' : ':unwell:'
+  - ': oops :' should convert to '😖' : ':oops:'
+  - ': confounded :' should convert to '😖' : ':confounded:'
+
+For emoji #34 '😨' :
+  - ': scared :' should convert to '😨' : ':scared:'
+  - ': afraid :' should convert to '😨' : ':afraid:'
+  - ': nervous :' should convert to '😨' : ':nervous:'
+  - ': scared :' should convert to '😨' : ':scared:'
+  - ': terrified :' should convert to '😨' : ':terrified:'
+  - ': oops :' should convert to '😨' : ':oops:'
+  - ': huh :' should convert to '😨' : ':huh:'
+  - ': fearful :' should convert to '😨' : ':fearful:'
+
+For emoji #35 '😰' :
+  - ': scared :' should convert to '😰' : ':scared:'
+  - ': frightened :' should convert to '😰' : ':frightened:'
+  - ': nervous :' should convert to '😰' : ':nervous:'
+  - ': scared :' should convert to '😰' : ':scared:'
+  - ': cold_sweat :' should convert to '😰' : ':cold_sweat:'
+
+For emoji #36 '😣' :
+  - 'x(' should convert to '😣' : 'x('
+  - 'X(' should convert to '😣' : 'X('
+  - ': sick :' should convert to '😣' : ':sick:'
+  - ': no :' should convert to '😣' : ':no:'
+  - ': upset :' should convert to '😣' : ':upset:'
+  - ': oops :' should convert to '😣' : ':oops:'
+  - ': persevere :' should convert to '😣' : ':persevere:'
+
+For emoji #37 '😢' :
+  - ':,(' should convert to '😢' : ':,('
+  - ':'(' should convert to '😢' : ':'('
+  - '=,(' should convert to '😢' : '=,('
+  - '='(' should convert to '😢' : '='('
+  - ': tear :' should convert to '😢' : ':tear:'
+  - ': tears :' should convert to '😢' : ':tears:'
+  - ': depressed :' should convert to '😢' : ':depressed:'
+  - ': upset :' should convert to '😢' : ':upset:'
+  - ': cry :' should convert to '😢' : ':cry:'
+
+For emoji #38 '😭' :
+  - ': sad :' should convert to '😭' : ':sad:'
+  - ': cry :' should convert to '😭' : ':cry:'
+  - ': tears :' should convert to '😭' : ':tears:'
+  - ': upset :' should convert to '😭' : ':upset:'
+  - ': depressed :' should convert to '😭' : ':depressed:'
+  - ': sob :' should convert to '😭' : ':sob:'
+
+For emoji #39 '😂' :
+  - ':,D' should convert to '😂' : ':,D'
+  - ':'D' should convert to '😂' : ':'D'
+  - '=,D' should convert to '😂' : '=,D'
+  - '='D' should convert to '😂' : '='D'
+  - ': happytears :' should convert to '😂' : ':happytears:'
+  - ': cry :' should convert to '😂' : ':cry:'
+  - ': tears :' should convert to '😂' : ':tears:'
+  - ': weep :' should convert to '😂' : ':weep:'
+  - ': haha :' should convert to '😂' : ':haha:'
+  - ': joy :' should convert to '😂' : ':joy:'
+
+For emoji #40 '😲' :
+  - ':O' should convert to '😲' : ':O'
+  - ':-O' should convert to '😲' : ':-O'
+  - '8-O' should convert to '😲' : '8-O'
+  - '=O' should convert to '😲' : '=O'
+  - ': xox :' should convert to '😲' : ':xox:'
+  - ': surprised :' should convert to '😲' : ':surprised:'
+  - ': poisoned :' should convert to '😲' : ':poisoned:'
+  - ': astonished :' should convert to '😲' : ':astonished:'
+
+For emoji #41 '😱' :
+  - ': halloween :' should convert to '😱' : ':halloween:'
+  - ': scary :' should convert to '😱' : ':scary:'
+  - ': scared :' should convert to '😱' : ':scared:'
+  - ': terrified :' should convert to '😱' : ':terrified:'
+  - ': munch :' should convert to '😱' : ':munch:'
+  - ': omg :' should convert to '😱' : ':omg:'
+  - ': scream :' should convert to '😱' : ':scream:'
+
+For emoji #42 '😫' :
+  - ': sick :' should convert to '😫' : ':sick:'
+  - ': whine :' should convert to '😫' : ':whine:'
+  - ': upset :' should convert to '😫' : ':upset:'
+  - ': frustrated :' should convert to '😫' : ':frustrated:'
+  - ': tired_face :' should convert to '😫' : ':tired_face:'
+
+For emoji #43 '😠' :
+  - '>:(' should convert to '😠' : '>:('
+  - '>=(' should convert to '😠' : '>=('
+  - ': mad :' should convert to '😠' : ':mad:'
+  - ': annoyed :' should convert to '😠' : ':annoyed:'
+  - ': frustrated :' should convert to '😠' : ':frustrated:'
+  - ': angry :' should convert to '😠' : ':angry:'
+
+For emoji #44 '😡' :
+  - ': furious :' should convert to '😡' : ':furious:'
+  - ': mad :' should convert to '😡' : ':mad:'
+  - ': hate :' should convert to '😡' : ':hate:'
+  - ': despise :' should convert to '😡' : ':despise:'
+  - ': rage :' should convert to '😡' : ':rage:'
+
+For emoji #45 '😤' :
+  - ': gas :' should convert to '😤' : ':gas:'
+  - ': phew :' should convert to '😤' : ':phew:'
+  - ': proud :' should convert to '😤' : ':proud:'
+  - ': pride :' should convert to '😤' : ':pride:'
+  - ': triumph :' should convert to '😤' : ':triumph:'
+
+For emoji #46 '😪' :
+  - ': tired :' should convert to '😪' : ':tired:'
+  - ': zzz :' should convert to '😪' : ':zzz:'
+  - ': rest :' should convert to '😪' : ':rest:'
+  - ': nap :' should convert to '😪' : ':nap:'
+  - ': sleepy :' should convert to '😪' : ':sleepy:'
+
+For emoji #47 '😋' :
+  - ': delicious :' should convert to '😋' : ':delicious:'
+  - ': tongue :' should convert to '😋' : ':tongue:'
+  - ': silly :' should convert to '😋' : ':silly:'
+  - ': yummy :' should convert to '😋' : ':yummy:'
+  - ': yum :' should convert to '😋' : ':yum:'
+
+For emoji #48 '😷' :
+  - ': sick :' should convert to '😷' : ':sick:'
+  - ': ill :' should convert to '😷' : ':ill:'
+  - ': disease :' should convert to '😷' : ':disease:'
+  - ': mask :' should convert to '😷' : ':mask:'
+
+For emoji #49 '😎' :
+  - '8)' should convert to '😎' : '8)'
+  - '8-)' should convert to '😎' : '8-)'
+  - ': shades :' should convert to '😎' : ':shades:'
+  - ': sunglasses :' should convert to '😎' : ':sunglasses:'
+
+For emoji #50 '😵' :
+  - 'x-O' should convert to '😵' : 'x-O'
+  - 'X-O' should convert to '😵' : 'X-O'
+  - ': ko :' should convert to '😵' : ':ko:'
+  - ': spent :' should convert to '😵' : ':spent:'
+  - ': unconscious :' should convert to '😵' : ':unconscious:'
+  - ': xox :' should convert to '😵' : ':xox:'
+  - ': dizzy_face :' should convert to '😵' : ':dizzy_face:'
+
+For emoji #51 '👿' :
+  - ': devil :' should convert to '👿' : ':devil:'
+  - ': horns :' should convert to '👿' : ':horns:'
+  - ': imp :' should convert to '👿' : ':imp:'
+
+For emoji #52 '😈' :
+  - '3:)' should convert to '😈' : '3:)'
+  - '3:-)' should convert to '😈' : '3:-)'
+  - '>:)' should convert to '😈' : '>:)'
+  - '>:-)' should convert to '😈' : '>:-)'
+  - '>;)' should convert to '😈' : '>;)'
+  - '>;-)' should convert to '😈' : '>;-)'
+  - ': devil :' should convert to '😈' : ':devil:'
+  - ': horns :' should convert to '😈' : ':horns:'
+  - ': smiling_imp :' should convert to '😈' : ':smiling_imp:'
+
+For emoji #53 '😐' :
+  - ': indifference :' should convert to '😐' : ':indifference:'
+  - ': meh :' should convert to '😐' : ':meh:'
+  - ': neutral_face :' should convert to '😐' : ':neutral_face:'
+
+For emoji #54 '😶' :
+  - ': hellokitty :' should convert to '😶' : ':hellokitty:'
+  - ': silent :' should convert to '😶' : ':silent:'
+
+For emoji #55 '😇' :
+  - 'O:)' should convert to '😇' : 'O:)'
+  - 'O:-)' should convert to '😇' : 'O:-)'
+  - ': angel :' should convert to '😇' : ':angel:'
+  - ': heaven :' should convert to '😇' : ':heaven:'
+  - ': halo :' should convert to '😇' : ':halo:'
+  - ': innocent :' should convert to '😇' : ':innocent:'
+
+For emoji #56 '👽' :
+  - ': extraterrestrial :' should convert to '👽' : ':extraterrestrial:'
+  - ':UF:O' should convert to '👽' : ':UF:O'
+  - ': paul :' should convert to '👽' : ':paul:'
+  - ': weird :' should convert to '👽' : ':weird:'
+  - ': outer_space :' should convert to '👽' : ':outer_space:'
+  - ': alien :' should convert to '👽' : ':alien:'
+
+For emoji #57 '💛' :
+  - ': yellow_heart :' should convert to '💛' : ':yellow_heart:'
+
+For emoji #58 '💙' :
+  - ': blue_heart :' should convert to '💙' : ':blue_heart:'
+
+For emoji #59 '💜' :
+  - ': purple_heart :' should convert to '💜' : ':purple_heart:'
+
+For emoji #60 '❤' :
+  - '<3' should convert to '❤' : '<3'
+  - ': heart :' should convert to '❤' : ':heart:'
+
+For emoji #61 '💚' :
+  - ': green_heart :' should convert to '💚' : ':green_heart:'
+
+For emoji #62 '💔' :
+  - '</3' should convert to '💔' : '</3'
+  - ': sorry :' should convert to '💔' : ':sorry:'
+  - ': break :' should convert to '💔' : ':break:'
+  - ': broken_heart :' should convert to '💔' : ':broken_heart:'
+
+For emoji #63 '💓' :
+  - ': heartbeat :' should convert to '💓' : ':heartbeat:'
+
+For emoji #64 '💗' :
+  - ': heartpulse :' should convert to '💗' : ':heartpulse:'
+
+For emoji #65 '💕' :
+  - ': two_hearts :' should convert to '💕' : ':two_hearts:'
+
+For emoji #66 '💞' :
+  - ': revolving_hearts :' should convert to '💞' : ':revolving_hearts:'
+
+For emoji #67 '💘' :
+  - ': cupid :' should convert to '💘' : ':cupid:'
+
+For emoji #68 '💖' :
+  - ': sparkling_heart :' should convert to '💖' : ':sparkling_heart:'
+
+For emoji #69 '✨' :
+  - ': stars :' should convert to '✨' : ':stars:'
+  - ': shine :' should convert to '✨' : ':shine:'
+  - ': shiny :' should convert to '✨' : ':shiny:'
+  - ': awesome :' should convert to '✨' : ':awesome:'
+  - ': good :' should convert to '✨' : ':good:'
+  - ': magic :' should convert to '✨' : ':magic:'
+  - ': sparkles :' should convert to '✨' : ':sparkles:'
+
+For emoji #70 '⭐' :
+  - ': night :' should convert to '⭐' : ':night:'
+  - ': star :' should convert to '⭐' : ':star:'
+
+For emoji #71 '💫' :
+  - ': sparkle :' should convert to '💫' : ':sparkle:'
+  - ': shoot :' should convert to '💫' : ':shoot:'
+  - ': dizzy :' should convert to '💫' : ':dizzy:'
+
+For emoji #72 '💥' :
+  - ': explosion :' should convert to '💥' : ':explosion:'
+  - ': bomb :' should convert to '💥' : ':bomb:'
+  - ': explode :' should convert to '💥' : ':explode:'
+  - ': collision :' should convert to '💥' : ':collision:'
+  - ': blown :' should convert to '💥' : ':blown:'
+  - ': boom :' should convert to '💥' : ':boom:'
+  - ': accident :' should convert to '💥' : ':accident:'
+  - ': fight :' should convert to '💥' : ':fight:'
+  - ': boom :' should convert to '💥' : ':boom:'
+
+For emoji #73 '💢' :
+  - ': mad :' should convert to '💢' : ':mad:'
+  - ': anger :' should convert to '💢' : ':anger:'
+
+For emoji #74 '❗' :
+  - ': shocked :' should convert to '❗' : ':shocked:'
+  - ': surprised :' should convert to '❗' : ':surprised:'
+  - ': heavy_exclamation_mark :' should convert to '❗' : ':heavy_exclamation_mark:'
+
+For emoji #75 '❓' :
+  - ': doubt :' should convert to '❓' : ':doubt:'
+  - ': confused :' should convert to '❓' : ':confused:'
+  - ': question :' should convert to '❓' : ':question:'
+
+For emoji #76 '❕' :
+  - ': surprise :' should convert to '❕' : ':surprise:'
+  - ': punctuation :' should convert to '❕' : ':punctuation:'
+  - ': gray :' should convert to '❕' : ':gray:'
+  - ': wow :' should convert to '❕' : ':wow:'
+  - ': warning :' should convert to '❕' : ':warning:'
+  - ': grey_exclamation :' should convert to '❕' : ':grey_exclamation:'
+
+For emoji #77 '❔' :
+  - ': doubts :' should convert to '❔' : ':doubts:'
+  - ': gray :' should convert to '❔' : ':gray:'
+  - ': huh :' should convert to '❔' : ':huh:'
+  - ': grey_question :' should convert to '❔' : ':grey_question:'
+
+For emoji #78 '💤' :
+  - ': sleep :' should convert to '💤' : ':sleep:'
+  - ': bored :' should convert to '💤' : ':bored:'
+  - ': sleepy :' should convert to '💤' : ':sleepy:'
+  - ': tired :' should convert to '💤' : ':tired:'
+  - ': zzz :' should convert to '💤' : ':zzz:'
+
+For emoji #79 '💨' :
+  - ': wind :' should convert to '💨' : ':wind:'
+  - ': air :' should convert to '💨' : ':air:'
+  - ': fast :' should convert to '💨' : ':fast:'
+  - ': shoo :' should convert to '💨' : ':shoo:'
+  - ': fart :' should convert to '💨' : ':fart:'
+  - ': smoke :' should convert to '💨' : ':smoke:'
+  - ': puff :' should convert to '💨' : ':puff:'
+  - ': dash :' should convert to '💨' : ':dash:'
+
+For emoji #80 '💦' :
+  - ': drip :' should convert to '💦' : ':drip:'
+  - ': oops :' should convert to '💦' : ':oops:'
+  - ': sweat_drops :' should convert to '💦' : ':sweat_drops:'
+
+For emoji #81 '🎶' :
+  - ': notes :' should convert to '🎶' : ':notes:'
+
+For emoji #82 '🎵' :
+  - ': tone :' should convert to '🎵' : ':tone:'
+  - ': musical_note :' should convert to '🎵' : ':musical_note:'
+
+For emoji #83 '🔥' :
+  - ': cook :' should convert to '🔥' : ':cook:'
+  - ': flame :' should convert to '🔥' : ':flame:'
+  - ': fire :' should convert to '🔥' : ':fire:'
+
+For emoji #84 '💩' :
+  - ': poop :' should convert to '💩' : ':poop:'
+  - ': shit :' should convert to '💩' : ':shit:'
+
+For emoji #85 '👍' :
+  - ': thumbsup :' should convert to '👍' : ':thumbsup:'
+  - ': yes :' should convert to '👍' : ':yes:'
+  - ': agree :' should convert to '👍' : ':agree:'
+  - ': accept :' should convert to '👍' : ':accept:'
+  - ': cool :' should convert to '👍' : ':cool:'
+  - ': +1 :' should convert to '👍' : ':+1:'
+
+For emoji #86 '👎' :
+  - ': dislike :' should convert to '👎' : ':dislike:'
+  - ': no :' should convert to '👎' : ':no:'
+  - ': thumbsdown :' should convert to '👎' : ':thumbsdown:'
+  - ': -1 :' should convert to '👎' : ':-1:'
+
+For emoji #87 '👌' :
+  - ': limbs :' should convert to '👌' : ':limbs:'
+  - ': perfect :' should convert to '👌' : ':perfect:'
+  - ': ok_hand :' should convert to '👌' : ':ok_hand:'
+
+For emoji #88 '👊' :
+  - ': violence :' should convert to '👊' : ':violence:'
+  - ': fist :' should convert to '👊' : ':fist:'
+  - ': hit :' should convert to '👊' : ':hit:'
+  - ': attack :' should convert to '👊' : ':attack:'
+  - ': facepunch :' should convert to '👊' : ':facepunch:'
+
+For emoji #89 '✊' :
+  - ': grasp :' should convert to '✊' : ':grasp:'
+  - ': fist :' should convert to '✊' : ':fist:'
+
+For emoji #90 '✌' :
+  - ': peace :' should convert to '✌' : ':peace:'
+  - ': deuces :' should convert to '✌' : ':deuces:'
+  - ': ohyeah :' should convert to '✌' : ':ohyeah:'
+  - ': victory :' should convert to '✌' : ':victory:'
+  - ': two :' should convert to '✌' : ':two:'
+  - ': v :' should convert to '✌' : ':v:'
+
+For emoji #91 '👋' :
+  - ': hi :' should convert to '👋' : ':hi:'
+  - ': hello :' should convert to '👋' : ':hello:'
+  - ': bye :' should convert to '👋' : ':bye:'
+  - ': hands :' should convert to '👋' : ':hands:'
+  - ': gesture :' should convert to '👋' : ':gesture:'
+  - ': goodbye :' should convert to '👋' : ':goodbye:'
+  - ': solong :' should convert to '👋' : ':solong:'
+  - ': farewell :' should convert to '👋' : ':farewell:'
+  - ': palm :' should convert to '👋' : ':palm:'
+  - ': wave :' should convert to '👋' : ':wave:'
+
+For emoji #92 '✋' :
+  - ': raised_hand :' should convert to '✋' : ':raised_hand:'
+
+For emoji #93 '👐' :
+  - ': butterfly :' should convert to '👐' : ':butterfly:'
+  - ': open_hands :' should convert to '👐' : ':open_hands:'
+
+For emoji #94 '☝' :
+  - ': point_up :' should convert to '☝' : ':point_up:'
+
+For emoji #95 '👇' :
+  - ': point_down :' should convert to '👇' : ':point_down:'
+
+For emoji #96 '👈' :
+  - ': point_left :' should convert to '👈' : ':point_left:'
+
+For emoji #97 '👉' :
+  - ': point_right :' should convert to '👉' : ':point_right:'
+
+For emoji #98 '🙌' :
+  - '\o/' should convert to '🙌' : '\o/'
+  - ': gesture :' should convert to '🙌' : ':gesture:'
+  - ': hooray :' should convert to '🙌' : ':hooray:'
+  - ': yea :' should convert to '🙌' : ':yea:'
+  - ': celebration :' should convert to '🙌' : ':celebration:'
+  - ': raised_hands :' should convert to '🙌' : ':raised_hands:'
+
+For emoji #99 '🙏' :
+  - ': please :' should convert to '🙏' : ':please:'
+  - ': hope :' should convert to '🙏' : ':hope:'
+  - ': wish :' should convert to '🙏' : ':wish:'
+  - ': namaste :' should convert to '🙏' : ':namaste:'
+  - ': pray :' should convert to '🙏' : ':pray:'
+
+For emoji #100 '👏' :
+  - ': hands :' should convert to '👏' : ':hands:'
+  - ': praise :' should convert to '👏' : ':praise:'
+  - ': applause :' should convert to '👏' : ':applause:'
+  - ': congrats :' should convert to '👏' : ':congrats:'
+  - ': yay :' should convert to '👏' : ':yay:'
+  - ': clap :' should convert to '👏' : ':clap:'
+
+For emoji #101 '💪' :
+  - ': arm :' should convert to '💪' : ':arm:'
+  - ': flex :' should convert to '💪' : ':flex:'
+  - ': strong :' should convert to '💪' : ':strong:'
+  - ': muscle :' should convert to '💪' : ':muscle:'
+
+For emoji #102 '🏃' :
+  - ': running :' should convert to '🏃' : ':running:'
+
+For emoji #103 '👫' :
+  - ': date :' should convert to '👫' : ':date:'
+  - ': dating :' should convert to '👫' : ':dating:'
+  - ': marriage :' should convert to '👫' : ':marriage:'
+  - ': couple :' should convert to '👫' : ':couple:'
+
+For emoji #104 '👪' :
+  - ': parents :' should convert to '👪' : ':parents:'
+  - ': family :' should convert to '👪' : ':family:'
+
+For emoji #105 '👬' :
+  - ': gay :' should convert to '👬' : ':gay:'
+  - ': couple :' should convert to '👬' : ':couple:'
+  - ': bromance :' should convert to '👬' : ':bromance:'
+  - ': friendship :' should convert to '👬' : ':friendship:'
+  - ': two_men_holding_hands :' should convert to '👬' : ':two_men_holding_hands:'
+
+For emoji #106 '👭' :
+  - ': gay :' should convert to '👭' : ':gay:'
+  - ': friendship :' should convert to '👭' : ':friendship:'
+  - ': couple :' should convert to '👭' : ':couple:'
+  - ': lesbian :' should convert to '👭' : ':lesbian:'
+  - ': two_women_holding_hands :' should convert to '👭' : ':two_women_holding_hands:'
+
+For emoji #107 '💃' :
+  - ': dancer :' should convert to '💃' : ':dancer:'
+
+For emoji #108 '👯' :
+  - ': bunny :' should convert to '👯' : ':bunny:'
+  - ': girls :' should convert to '👯' : ':girls:'
+  - ': dancers :' should convert to '👯' : ':dancers:'
+
+For emoji #109 '🙆' :
+  - ': ok_woman :' should convert to '🙆' : ':ok_woman:'
+
+For emoji #110 '🙅' :
+  - ': nope :' should convert to '🙅' : ':nope:'
+  - ': no_good :' should convert to '🙅' : ':no_good:'
+
+For emoji #111 '💁' :
+  - ': information_desk_person :' should convert to '💁' : ':information_desk_person:'
+
+For emoji #112 '🙋' :
+  - ': raising_hand :' should convert to '🙋' : ':raising_hand:'
+
+For emoji #113 '👰' :
+  - ': couple :' should convert to '👰' : ':couple:'
+  - ': marriage :' should convert to '👰' : ':marriage:'
+  - ': wedding :' should convert to '👰' : ':wedding:'
+  - ': bride_with_veil :' should convert to '👰' : ':bride_with_veil:'
+
+For emoji #114 '🙎' :
+  - ': person_with_pouting_face :' should convert to '🙎' : ':person_with_pouting_face:'
+
+For emoji #115 '🙍' :
+  - ': depressed :' should convert to '🙍' : ':depressed:'
+  - ': discouraged :' should convert to '🙍' : ':discouraged:'
+  - ': person_frowning :' should convert to '🙍' : ':person_frowning:'
+
+For emoji #116 '🙇' :
+  - ': bow :' should convert to '🙇' : ':bow:'
+
+For emoji #117 '💏' :
+  - ': dating :' should convert to '💏' : ':dating:'
+  - ': marriage :' should convert to '💏' : ':marriage:'
+  - ': couplekiss :' should convert to '💏' : ':couplekiss:'
+
+For emoji #118 '💑' :
+  - ': dating :' should convert to '💑' : ':dating:'
+  - ': marriage :' should convert to '💑' : ':marriage:'
+  - ': couple_with_heart :' should convert to '💑' : ':couple_with_heart:'
+
+For emoji #119 '💆' :
+  - ': head :' should convert to '💆' : ':head:'
+  - ': massage :' should convert to '💆' : ':massage:'
+
+For emoji #120 '💇' :
+  - ': haircut :' should convert to '💇' : ':haircut:'
+
+For emoji #121 '💅' :
+  - ': manicure :' should convert to '💅' : ':manicure:'
+  - ': beauty :' should convert to '💅' : ':beauty:'
+  - ': finger :' should convert to '💅' : ':finger:'
+  - ': nail_care :' should convert to '💅' : ':nail_care:'
+
+For emoji #122 '👦' :
+  - ': boy :' should convert to '👦' : ':boy:'
+
+For emoji #123 '👧' :
+  - ': girl :' should convert to '👧' : ':girl:'
+
+For emoji #124 '👩' :
+  - ': girls :' should convert to '👩' : ':girls:'
+  - ': lady :' should convert to '👩' : ':lady:'
+  - ': woman :' should convert to '👩' : ':woman:'
+
+For emoji #125 '👨' :
+  - ': mustache :' should convert to '👨' : ':mustache:'
+  - ': dad :' should convert to '👨' : ':dad:'
+  - ': classy :' should convert to '👨' : ':classy:'
+  - ': sir :' should convert to '👨' : ':sir:'
+  - ': moustache :' should convert to '👨' : ':moustache:'
+  - ': man :' should convert to '👨' : ':man:'
+
+For emoji #126 '👶' :
+  - ': infant :' should convert to '👶' : ':infant:'
+  - ': child :' should convert to '👶' : ':child:'
+  - ': toddler :' should convert to '👶' : ':toddler:'
+  - ': baby :' should convert to '👶' : ':baby:'
+
+For emoji #127 '👵' :
+  - ': grandma :' should convert to '👵' : ':grandma:'
+  - ': granny :' should convert to '👵' : ':granny:'
+  - ': lady :' should convert to '👵' : ':lady:'
+  - ': older_woman :' should convert to '👵' : ':older_woman:'
+
+For emoji #128 '👴' :
+  - ': grandpa :' should convert to '👴' : ':grandpa:'
+  - ': grandad :' should convert to '👴' : ':grandad:'
+  - ': men :' should convert to '👴' : ':men:'
+  - ': older_man :' should convert to '👴' : ':older_man:'
+
+For emoji #129 '👱' :
+  - ': blonde :' should convert to '👱' : ':blonde:'
+  - ': person_with_blond_hair :' should convert to '👱' : ':person_with_blond_hair:'
+
+For emoji #130 '👲' :
+  - ': man_with_gua_pi_mao :' should convert to '👲' : ':man_with_gua_pi_mao:'
+
+For emoji #131 '👳' :
+  - ': indian :' should convert to '👳' : ':indian:'
+  - ': hinduism :' should convert to '👳' : ':hinduism:'
+  - ': arabs :' should convert to '👳' : ':arabs:'
+  - ': man_with_turban :' should convert to '👳' : ':man_with_turban:'
+
+For emoji #132 '👷' :
+  - ': wip :' should convert to '👷' : ':wip:'
+  - ': build :' should convert to '👷' : ':build:'
+  - ': construction_worker :' should convert to '👷' : ':construction_worker:'
+
+For emoji #133 '👮' :
+  - ': police :' should convert to '👮' : ':police:'
+  - ': policeman :' should convert to '👮' : ':policeman:'
+  - ': arrest :' should convert to '👮' : ':arrest:'
+  - ': 911 :' should convert to '👮' : ':911:'
+  - ': cop :' should convert to '👮' : ':cop:'
+
+For emoji #134 '👼' :
+  - ': heaven :' should convert to '👼' : ':heaven:'
+  - ': wings :' should convert to '👼' : ':wings:'
+  - ': halo :' should convert to '👼' : ':halo:'
+  - ': angel :' should convert to '👼' : ':angel:'
+
+For emoji #135 '👸' :
+  - ': blond :' should convert to '👸' : ':blond:'
+  - ': crown :' should convert to '👸' : ':crown:'
+  - ': royal :' should convert to '👸' : ':royal:'
+  - ': queen :' should convert to '👸' : ':queen:'
+  - ': princess :' should convert to '👸' : ':princess:'
+
+For emoji #136 '😺' :
+  - ':^D' should convert to '😺' : ':^D'
+  - '=^D' should convert to '😺' : '=^D'
+  - ': smiley_cat :' should convert to '😺' : ':smiley_cat:'
+
+For emoji #137 '😸' :
+  - ':^)' should convert to '😸' : ':^)'
+  - ':}' should convert to '😸' : ':}'
+  - ':-}' should convert to '😸' : ':-}'
+  - ':3' should convert to '😸' : ':3'
+  - ':-3' should convert to '😸' : ':-3'
+  - ': smile_cat :' should convert to '😸' : ':smile_cat:'
+
+For emoji #138 '😻' :
+  - ': heart_eyes_cat :' should convert to '😻' : ':heart_eyes_cat:'
+
+For emoji #139 '😽' :
+  - ': kissing_cat :' should convert to '😽' : ':kissing_cat:'
+
+For emoji #140 '😼' :
+  - ': smirk_cat :' should convert to '😼' : ':smirk_cat:'
+
+For emoji #141 '🙀' :
+  - ': munch :' should convert to '🙀' : ':munch:'
+  - ': scared :' should convert to '🙀' : ':scared:'
+  - ': scream_cat :' should convert to '🙀' : ':scream_cat:'
+
+For emoji #142 '😿' :
+  - ':^(' should convert to '😿' : ':^('
+  - ':{' should convert to '😿' : ':{'
+  - ': tears :' should convert to '😿' : ':tears:'
+  - ': weep :' should convert to '😿' : ':weep:'
+  - ': upset :' should convert to '😿' : ':upset:'
+  - ': crying_cat_face :' should convert to '😿' : ':crying_cat_face:'
+
+For emoji #143 '😹' :
+  - ': haha :' should convert to '😹' : ':haha:'
+  - ': tears :' should convert to '😹' : ':tears:'
+  - ': joy_cat :' should convert to '😹' : ':joy_cat:'
+
+For emoji #144 '😾' :
+  - ': pouting_cat :' should convert to '😾' : ':pouting_cat:'
+
+For emoji #145 '👹' :
+  - ': namahage :' should convert to '👹' : ':namahage:'
+  - ': monster :' should convert to '👹' : ':monster:'
+  - ': mask :' should convert to '👹' : ':mask:'
+  - ': halloween :' should convert to '👹' : ':halloween:'
+  - ': scary :' should convert to '👹' : ':scary:'
+  - ': creepy :' should convert to '👹' : ':creepy:'
+  - ': devil :' should convert to '👹' : ':devil:'
+  - ': demon :' should convert to '👹' : ':demon:'
+  - ': japanese_ogre :' should convert to '👹' : ':japanese_ogre:'
+
+For emoji #146 '👺' :
+  - ': tengu :' should convert to '👺' : ':tengu:'
+  - ': evil :' should convert to '👺' : ':evil:'
+  - ': mask :' should convert to '👺' : ':mask:'
+  - ': monster :' should convert to '👺' : ':monster:'
+  - ': scary :' should convert to '👺' : ':scary:'
+  - ': creepy :' should convert to '👺' : ':creepy:'
+  - ': japanese_goblin :' should convert to '👺' : ':japanese_goblin:'
+
+For emoji #147 '🙈' :
+  - ': haha :' should convert to '🙈' : ':haha:'
+  - ': see_no_evil :' should convert to '🙈' : ':see_no_evil:'
+
+For emoji #148 '🙉' :
+  - ': hear_no_evil :' should convert to '🙉' : ':hear_no_evil:'
+
+For emoji #149 '🙊' :
+  - ': omg :' should convert to '🙊' : ':omg:'
+  - ': speak_no_evil :' should convert to '🙊' : ':speak_no_evil:'
+
+For emoji #150 '💂' :
+  - ': royal :' should convert to '💂' : ':royal:'
+  - ': guardsman :' should convert to '💂' : ':guardsman:'
+
+For emoji #151 '💀' :
+  - ': scary :' should convert to '💀' : ':scary:'
+  - ': halloween :' should convert to '💀' : ':halloween:'
+  - ': dead :' should convert to '💀' : ':dead:'
+  - ': skeleton :' should convert to '💀' : ':skeleton:'
+  - ': creepy :' should convert to '💀' : ':creepy:'
+  - ': skull :' should convert to '💀' : ':skull:'
+
+For emoji #152 '🐾' :
+  - ': paw_prints :' should convert to '🐾' : ':paw_prints:'
+
+For emoji #153 '👄' :
+  - ': mouth :' should convert to '👄' : ':mouth:'
+  - ': kiss :' should convert to '👄' : ':kiss:'
+  - ': lips :' should convert to '👄' : ':lips:'
+
+For emoji #154 '💋' :
+  - ': lips :' should convert to '💋' : ':lips:'
+  - ': kiss :' should convert to '💋' : ':kiss:'
+
+For emoji #155 '💧' :
+  - ': drip :' should convert to '💧' : ':drip:'
+  - ': faucet :' should convert to '💧' : ':faucet:'
+  - ': droplet :' should convert to '💧' : ':droplet:'
+
+For emoji #156 '👂' :
+  - ': hear :' should convert to '👂' : ':hear:'
+  - ': listen :' should convert to '👂' : ':listen:'
+  - ': ear :' should convert to '👂' : ':ear:'
+
+For emoji #157 '👀' :
+  - ': eye-rolling :' should convert to '👀' : ':eye-rolling:'
+  - ': look :' should convert to '👀' : ':look:'
+  - ': watch :' should convert to '👀' : ':watch:'
+  - ': stalk :' should convert to '👀' : ':stalk:'
+  - ': peek :' should convert to '👀' : ':peek:'
+  - ': see :' should convert to '👀' : ':see:'
+  - ': eyes :' should convert to '👀' : ':eyes:'
+
+For emoji #158 '👃' :
+  - ': smell :' should convert to '👃' : ':smell:'
+  - ': sniff :' should convert to '👃' : ':sniff:'
+  - ': nose :' should convert to '👃' : ':nose:'
+
+For emoji #159 '👅' :
+  - ': mouth :' should convert to '👅' : ':mouth:'
+  - ': playful :' should convert to '👅' : ':playful:'
+  - ': tongue :' should convert to '👅' : ':tongue:'
+
+For emoji #160 '💌' :
+  - ': envelope :' should convert to '💌' : ':envelope:'
+  - ': love_letter :' should convert to '💌' : ':love_letter:'
+
+For emoji #161 '👤' :
+  - ': user :' should convert to '👤' : ':user:'
+  - ': person :' should convert to '👤' : ':person:'
+  - ': bust_in_silhouette :' should convert to '👤' : ':bust_in_silhouette:'
+
+For emoji #162 '👥' :
+  - ': group :' should convert to '👥' : ':group:'
+  - ': team :' should convert to '👥' : ':team:'
+  - ': busts_in_silhouette :' should convert to '👥' : ':busts_in_silhouette:'
+
+For emoji #163 '💬' :
+  - ': bubble :' should convert to '💬' : ':bubble:'
+  - ': message :' should convert to '💬' : ':message:'
+  - ': talk :' should convert to '💬' : ':talk:'
+  - ': chatting :' should convert to '💬' : ':chatting:'
+  - ': speech_balloon :' should convert to '💬' : ':speech_balloon:'
+
+For emoji #164 '💭' :
+  - ': cloud :' should convert to '💭' : ':cloud:'
+  - ': speech :' should convert to '💭' : ':speech:'
+  - ': thinking :' should convert to '💭' : ':thinking:'
+  - ': thought_balloon :' should convert to '💭' : ':thought_balloon:'
+
+For emoji #165 '☀' :
+  - ': brightness :' should convert to '☀' : ':brightness:'
+  - ': sunny :' should convert to '☀' : ':sunny:'
+
+For emoji #166 '☂' :
+  - ': rain :' should convert to '☂' : ':rain:'
+  - ': rainy :' should convert to '☂' : ':rainy:'
+  - ': umbrella :' should convert to '☂' : ':umbrella:'
+
+For emoji #167 '☁' :
+  - ': sky :' should convert to '☁' : ':sky:'
+  - ': cloud :' should convert to '☁' : ':cloud:'
+
+For emoji #168 '❄' :
+  - ': snowflake :' should convert to '❄' : ':snowflake:'
+
+For emoji #169 '☃' :
+  - ': frozen :' should convert to '☃' : ':frozen:'
+  - ': snowman :' should convert to '☃' : ':snowman:'
+  - ': snowmen :' should convert to '☃' : ':snowmen:'
+
+For emoji #170 '⚡' :
+  - ': lightning :' should convert to '⚡' : ':lightning:'
+  - ': thunder :' should convert to '⚡' : ':thunder:'
+  - ': lightning :' should convert to '⚡' : ':lightning:'
+  - ': bolt :' should convert to '⚡' : ':bolt:'
+  - ': fast :' should convert to '⚡' : ':fast:'
+  - ': zap :' should convert to '⚡' : ':zap:'
+
+For emoji #171 '🌀' :
+  - ': swirl :' should convert to '🌀' : ':swirl:'
+  - ': cloud :' should convert to '🌀' : ':cloud:'
+  - ': cyclone :' should convert to '🌀' : ':cyclone:'
+
+For emoji #172 '🌁' :
+  - ': fog :' should convert to '🌁' : ':fog:'
+  - ': mountain :' should convert to '🌁' : ':mountain:'
+  - ': foggy :' should convert to '🌁' : ':foggy:'
+
+For emoji #173 '🌊' :
+  - ': waves :' should convert to '🌊' : ':waves:'
+  - ': wave :' should convert to '🌊' : ':wave:'
+  - ': tsunami :' should convert to '🌊' : ':tsunami:'
+  - ': disaster :' should convert to '🌊' : ':disaster:'
+  - ': ocean :' should convert to '🌊' : ':ocean:'
+
+For emoji #174 '🐱' :
+  - ': meow :' should convert to '🐱' : ':meow:'
+  - ': cat :' should convert to '🐱' : ':cat:'
+
+For emoji #175 '🐶' :
+  - ': friend :' should convert to '🐶' : ':friend:'
+  - ': woof :' should convert to '🐶' : ':woof:'
+  - ': puppy :' should convert to '🐶' : ':puppy:'
+  - ': faithful :' should convert to '🐶' : ':faithful:'
+  - ': dog :' should convert to '🐶' : ':dog:'
+
+For emoji #176 '🐭' :
+  - ': cheese :' should convert to '🐭' : ':cheese:'
+  - ': mouse :' should convert to '🐭' : ':mouse:'
+
+For emoji #177 '🐹' :
+  - ': hamster :' should convert to '🐹' : ':hamster:'
+
+For emoji #178 '🐰' :
+  - ': rabbit :' should convert to '🐰' : ':rabbit:'
+
+For emoji #179 '🐺' :
+  - ': wild :' should convert to '🐺' : ':wild:'
+  - ': audrey :' should convert to '🐺' : ':audrey:'
+  - ': lulu :' should convert to '🐺' : ':lulu:'
+
+For emoji #180 '🐸' :
+  - ': croak :' should convert to '🐸' : ':croak:'
+  - ': frog :' should convert to '🐸' : ':frog:'
+
+For emoji #181 '🐯' :
+  - ': cat :' should convert to '🐯' : ':cat:'
+  - ': danger :' should convert to '🐯' : ':danger:'
+  - ': wild :' should convert to '🐯' : ':wild:'
+  - ': roar :' should convert to '🐯' : ':roar:'
+  - ': tiger :' should convert to '🐯' : ':tiger:'
+
+For emoji #182 '🐨' :
+  - ': koala :' should convert to '🐨' : ':koala:'
+
+For emoji #183 '🐻' :
+  - ': wild :' should convert to '🐻' : ':wild:'
+  - ': bear :' should convert to '🐻' : ':bear:'
+
+For emoji #184 '🐷' :
+  - ': oink :' should convert to '🐷' : ':oink:'
+  - ': pig :' should convert to '🐷' : ':pig:'
+
+For emoji #185 '🐽' :
+  - ': oink :' should convert to '🐽' : ':oink:'
+  - ': pig_nose :' should convert to '🐽' : ':pig_nose:'
+
+For emoji #186 '🐮' :
+  - ': beef :' should convert to '🐮' : ':beef:'
+  - ': ox :' should convert to '🐮' : ':ox:'
+  - ': moo :' should convert to '🐮' : ':moo:'
+  - ': milk :' should convert to '🐮' : ':milk:'
+  - ': cow :' should convert to '🐮' : ':cow:'
+
+For emoji #187 '🐗' :
+  - ': boar :' should convert to '🐗' : ':boar:'
+
+For emoji #188 '🐵' :
+  - ': ape :' should convert to '🐵' : ':ape:'
+  - ': monkey_face :' should convert to '🐵' : ':monkey_face:'
+
+For emoji #189 '🐒' :
+  - ': ape :' should convert to '🐒' : ':ape:'
+  - ': monkey :' should convert to '🐒' : ':monkey:'
+
+For emoji #190 '🐴' :
+  - ': brown :' should convert to '🐴' : ':brown:'
+  - ': unicorn :' should convert to '🐴' : ':unicorn:'
+  - ': horse :' should convert to '🐴' : ':horse:'
+
+For emoji #191 '🐎' :
+  - ': gamble :' should convert to '🐎' : ':gamble:'
+  - ': luck :' should convert to '🐎' : ':luck:'
+  - ': racehorse :' should convert to '🐎' : ':racehorse:'
+
+For emoji #192 '🐫' :
+  - ': desert :' should convert to '🐫' : ':desert:'
+  - ': hump :' should convert to '🐫' : ':hump:'
+  - ': camel :' should convert to '🐫' : ':camel:'
+
+For emoji #193 '🐑' :
+  - ': wool :' should convert to '🐑' : ':wool:'
+  - ': shipit :' should convert to '🐑' : ':shipit:'
+  - ': sheep :' should convert to '🐑' : ':sheep:'
+
+For emoji #194 '🐘' :
+  - ': nose :' should convert to '🐘' : ':nose:'
+  - ': thailand :' should convert to '🐘' : ':thailand:'
+  - ': elephant :' should convert to '🐘' : ':elephant:'
+
+For emoji #195 '🐼' :
+  - ': panda_face :' should convert to '🐼' : ':panda_face:'
+
+For emoji #196 '🐍' :
+  - ': serpent :' should convert to '🐍' : ':serpent:'
+  - ': evil :' should convert to '🐍' : ':evil:'
+  - ': hiss :' should convert to '🐍' : ':hiss:'
+  - ': snake :' should convert to '🐍' : ':snake:'
+
+For emoji #197 '🐦' :
+  - ': fly :' should convert to '🐦' : ':fly:'
+  - ': tweet :' should convert to '🐦' : ':tweet:'
+  - ': bird :' should convert to '🐦' : ':bird:'
+
+For emoji #198 '🐤' :
+  - ': baby_chick :' should convert to '🐤' : ':baby_chick:'
+
+For emoji #199 '🐥' :
+  - ': baby :' should convert to '🐥' : ':baby:'
+  - ': hatched_chick :' should convert to '🐥' : ':hatched_chick:'
+
+For emoji #200 '🐣' :
+  - ': bird-egg :' should convert to '🐣' : ':bird-egg:'
+  - ': egg :' should convert to '🐣' : ':egg:'
+  - ': born :' should convert to '🐣' : ':born:'
+  - ': baby :' should convert to '🐣' : ':baby:'
+  - ': hatching_chick :' should convert to '🐣' : ':hatching_chick:'
+
+For emoji #201 '🐔' :
+  - ': cluck :' should convert to '🐔' : ':cluck:'
+  - ': chicken :' should convert to '🐔' : ':chicken:'
+
+For emoji #202 '🐧' :
+  - ': penguin :' should convert to '🐧' : ':penguin:'
+
+For emoji #203 '🐢' :
+  - ': tortoise :' should convert to '🐢' : ':tortoise:'
+  - ': turtle :' should convert to '🐢' : ':turtle:'
+
+For emoji #204 '🐛' :
+  - ': worm :' should convert to '🐛' : ':worm:'
+  - ': bug :' should convert to '🐛' : ':bug:'
+
+For emoji #205 '🐝' :
+  - ': honeybee :' should convert to '🐝' : ':honeybee:'
+
+For emoji #206 '🐜' :
+  - ': insect :' should convert to '🐜' : ':insect:'
+  - ': ant :' should convert to '🐜' : ':ant:'
+
+For emoji #207 '🐞' :
+  - ': beetle :' should convert to '🐞' : ':beetle:'
+
+For emoji #208 '🐌' :
+  - ': slow :' should convert to '🐌' : ':slow:'
+  - ': shell :' should convert to '🐌' : ':shell:'
+  - ': snail :' should convert to '🐌' : ':snail:'
+
+For emoji #209 '🐙' :
+  - ': creature :' should convert to '🐙' : ':creature:'
+  - ': octopus :' should convert to '🐙' : ':octopus:'
+
+For emoji #210 '🐠' :
+  - ': swim :' should convert to '🐠' : ':swim:'
+  - ': nemo :' should convert to '🐠' : ':nemo:'
+  - ': tropical_fish :' should convert to '🐠' : ':tropical_fish:'
+
+For emoji #211 '🐟' :
+  - ': fish :' should convert to '🐟' : ':fish:'
+
+For emoji #212 '🐳' :
+  - ': whale :' should convert to '🐳' : ':whale:'
+
+For emoji #213 '🐬' :
+  - ': fish :' should convert to '🐬' : ':fish:'
+  - ': flipper :' should convert to '🐬' : ':flipper:'
+  - ': fins :' should convert to '🐬' : ':fins:'
+  - ': dolphin :' should convert to '🐬' : ':dolphin:'
+
+For emoji #214 '🐏' :
+  - ': sheep :' should convert to '🐏' : ':sheep:'
+  - ': ram :' should convert to '🐏' : ':ram:'
+
+For emoji #215 '🐀' :
+  - ': mouse :' should convert to '🐀' : ':mouse:'
+  - ': rodent :' should convert to '🐀' : ':rodent:'
+  - ': rat :' should convert to '🐀' : ':rat:'
+
+For emoji #216 '🐃' :
+  - ': ox :' should convert to '🐃' : ':ox:'
+  - ': cow :' should convert to '🐃' : ':cow:'
+  - ': water_buffalo :' should convert to '🐃' : ':water_buffalo:'
+
+For emoji #217 '🐉' :
+  - ': dragon :' should convert to '🐉' : ':dragon:'
+
+For emoji #218 '🐐' :
+  - ': goat :' should convert to '🐐' : ':goat:'
+
+For emoji #219 '🐓' :
+  - ': rooster :' should convert to '🐓' : ':rooster:'
+
+For emoji #220 '🐂' :
+  - ': cow :' should convert to '🐂' : ':cow:'
+  - ': beef :' should convert to '🐂' : ':beef:'
+  - ': ox :' should convert to '🐂' : ':ox:'
+
+For emoji #221 '🐲' :
+  - ': dragon_face :' should convert to '🐲' : ':dragon_face:'
+
+For emoji #222 '🐡' :
+  - ': blowfish :' should convert to '🐡' : ':blowfish:'
+
+For emoji #223 '🐊' :
+  - ': alligator :' should convert to '🐊' : ':alligator:'
+  - ': reptile :' should convert to '🐊' : ':reptile:'
+  - ': crocodile :' should convert to '🐊' : ':crocodile:'
+
+For emoji #224 '🐪' :
+  - ': desert :' should convert to '🐪' : ':desert:'
+  - ': hump :' should convert to '🐪' : ':hump:'
+  - ': dromedary_camel :' should convert to '🐪' : ':dromedary_camel:'
+
+For emoji #225 '🐆' :
+  - ': leopard :' should convert to '🐆' : ':leopard:'
+
+For emoji #226 '🐩' :
+  - ': dog :' should convert to '🐩' : ':dog:'
+  - ': 101 :' should convert to '🐩' : ':101:'
+  - ': poodle :' should convert to '🐩' : ':poodle:'
+
+For emoji #227 '💐' :
+  - ': bouquet :' should convert to '💐' : ':bouquet:'
+
+For emoji #228 '🌸' :
+  - ': flower :' should convert to '🌸' : ':flower:'
+  - ': cherry_blossom :' should convert to '🌸' : ':cherry_blossom:'
+
+For emoji #229 '🌷' :
+  - ': tulip :' should convert to '🌷' : ':tulip:'
+
+For emoji #230 '🍀' :
+  - ': lucky :' should convert to '🍀' : ':lucky:'
+  - ': four_leaf_clover :' should convert to '🍀' : ':four_leaf_clover:'
+
+For emoji #231 '🌹' :
+  - ': rose :' should convert to '🌹' : ':rose:'
+
+For emoji #232 '🌻' :
+  - ': fall :' should convert to '🌻' : ':fall:'
+  - ': sunflower :' should convert to '🌻' : ':sunflower:'
+
+For emoji #233 '🌺' :
+  - ': beach :' should convert to '🌺' : ':beach:'
+  - ': hibiscus :' should convert to '🌺' : ':hibiscus:'
+
+For emoji #234 '🍁' :
+  - ': canada :' should convert to '🍁' : ':canada:'
+  - ': fall :' should convert to '🍁' : ':fall:'
+  - ': maple_leaf :' should convert to '🍁' : ':maple_leaf:'
+
+For emoji #235 '🍃' :
+  - ': tree :' should convert to '🍃' : ':tree:'
+  - ': grass :' should convert to '🍃' : ':grass:'
+  - ': lawn :' should convert to '🍃' : ':lawn:'
+  - ': leaves :' should convert to '🍃' : ':leaves:'
+
+For emoji #236 '🍂' :
+  - ': leaves :' should convert to '🍂' : ':leaves:'
+  - ': fallen_leaf :' should convert to '🍂' : ':fallen_leaf:'
+
+For emoji #237 '🌿' :
+  - ': medicine :' should convert to '🌿' : ':medicine:'
+  - ': weed :' should convert to '🌿' : ':weed:'
+  - ': grass :' should convert to '🌿' : ':grass:'
+  - ': lawn :' should convert to '🌿' : ':lawn:'
+  - ': herb :' should convert to '🌿' : ':herb:'
+
+For emoji #238 '🍄' :
+  - ': mushroom :' should convert to '🍄' : ':mushroom:'
+
+For emoji #239 '🌵' :
+  - ': cactus :' should convert to '🌵' : ':cactus:'
+
+For emoji #240 '🌴' :
+  - ': beach :' should convert to '🌴' : ':beach:'
+  - ': palm_tree :' should convert to '🌴' : ':palm_tree:'
+
+For emoji #241 '🌲' :
+  - ': evergreen_tree :' should convert to '🌲' : ':evergreen_tree:'
+
+For emoji #242 '🌳' :
+  - ': deciduous_tree :' should convert to '🌳' : ':deciduous_tree:'
+
+For emoji #243 '🌰' :
+  - ': squirrel :' should convert to '🌰' : ':squirrel:'
+  - ': chestnut :' should convert to '🌰' : ':chestnut:'
+
+For emoji #244 '🌱' :
+  - ': grass :' should convert to '🌱' : ':grass:'
+  - ': lawn :' should convert to '🌱' : ':lawn:'
+  - ': seedling :' should convert to '🌱' : ':seedling:'
+
+For emoji #245 '🌼' :
+  - ': blossom :' should convert to '🌼' : ':blossom:'
+
+For emoji #246 '🌾' :
+  - ': ear_of_rice :' should convert to '🌾' : ':ear_of_rice:'
+
+For emoji #247 '🐚' :
+  - ': beach :' should convert to '🐚' : ':beach:'
+  - ': shell :' should convert to '🐚' : ':shell:'
+
+For emoji #248 '🌐' :
+  - ': earth :' should convert to '🌐' : ':earth:'
+  - ': international :' should convert to '🌐' : ':international:'
+  - ': world :' should convert to '🌐' : ':world:'
+  - ': internet :' should convert to '🌐' : ':internet:'
+  - ': interweb :' should convert to '🌐' : ':interweb:'
+  - ': i18n :' should convert to '🌐' : ':i18n:'
+  - ': globe_with_meridians :' should convert to '🌐' : ':globe_with_meridians:'
+
+For emoji #249 '🌞' :
+  - ': sky :' should convert to '🌞' : ':sky:'
+  - ': sun_with_face :' should convert to '🌞' : ':sun_with_face:'
+
+For emoji #250 '🌝' :
+  - ': full_moon_with_face :' should convert to '🌝' : ':full_moon_with_face:'
+
+For emoji #251 '🌚' :
+  - ': new_moon_with_face :' should convert to '🌚' : ':new_moon_with_face:'
+
+For emoji #252 '🌑' :
+  - ': new_moon :' should convert to '🌑' : ':new_moon:'
+
+For emoji #253 '🌒' :
+  - ': waxing_crescent_moon :' should convert to '🌒' : ':waxing_crescent_moon:'
+
+For emoji #254 '🌓' :
+  - ': first_quarter_moon :' should convert to '🌓' : ':first_quarter_moon:'
+
+For emoji #255 '🌔' :
+  - ': waxing_gibbous_moon :' should convert to '🌔' : ':waxing_gibbous_moon:'
+
+For emoji #256 '🌕' :
+  - ': full_moon :' should convert to '🌕' : ':full_moon:'
+
+For emoji #257 '🌖' :
+  - ': waxing_gibbous_moon :' should convert to '🌖' : ':waxing_gibbous_moon:'
+  - ': waning_gibbous_moon :' should convert to '🌖' : ':waning_gibbous_moon:'
+
+For emoji #258 '🌗' :
+  - ': last_quarter_moon :' should convert to '🌗' : ':last_quarter_moon:'
+
+For emoji #259 '🌘' :
+  - ': waning_crescent_moon :' should convert to '🌘' : ':waning_crescent_moon:'
+
+For emoji #260 '🌜' :
+  - ': last_quarter_moon_with_face :' should convert to '🌜' : ':last_quarter_moon_with_face:'
+
+For emoji #261 '🌛' :
+  - ': first_quarter_moon_with_face :' should convert to '🌛' : ':first_quarter_moon_with_face:'
+
+For emoji #262 '🌙' :
+  - ': night :' should convert to '🌙' : ':night:'
+  - ': sleep :' should convert to '🌙' : ':sleep:'
+  - ': sky :' should convert to '🌙' : ':sky:'
+  - ': evening :' should convert to '🌙' : ':evening:'
+  - ': crescent_moon :' should convert to '🌙' : ':crescent_moon:'
+
+For emoji #263 '🌍' :
+  - ': europe :' should convert to '🌍' : ':europe:'
+  - ': emea :' should convert to '🌍' : ':emea:'
+  - ': globe :' should convert to '🌍' : ':globe:'
+  - ': world :' should convert to '🌍' : ':world:'
+  - ': international :' should convert to '🌍' : ':international:'
+  - ': earth_africa :' should convert to '🌍' : ':earth_africa:'
+
+For emoji #264 '🌎' :
+  - ': globe :' should convert to '🌎' : ':globe:'
+  - ': world :' should convert to '🌎' : ':world:'
+  - ': USA :' should convert to '🌎' : ':USA:'
+  - ': international :' should convert to '🌎' : ':international:'
+  - ': earth_americas :' should convert to '🌎' : ':earth_americas:'
+
+For emoji #265 '🌏' :
+  - ': globe :' should convert to '🌏' : ':globe:'
+  - ': world :' should convert to '🌏' : ':world:'
+  - ': east :' should convert to '🌏' : ':east:'
+  - ': international :' should convert to '🌏' : ':international:'
+  - ': earth_asia :' should convert to '🌏' : ':earth_asia:'
+
+For emoji #266 '🌋' :
+  - ': disaster :' should convert to '🌋' : ':disaster:'
+  - ': volcano :' should convert to '🌋' : ':volcano:'
+
+For emoji #267 '🌌' :
+  - ': space :' should convert to '🌌' : ':space:'
+  - ': stars :' should convert to '🌌' : ':stars:'
+  - ': milky_way :' should convert to '🌌' : ':milky_way:'
+
+For emoji #268 '⛅' :
+  - ': cloudy :' should convert to '⛅' : ':cloudy:'
+  - ': fall :' should convert to '⛅' : ':fall:'
+  - ': partly_sunny :' should convert to '⛅' : ':partly_sunny:'
+
+For emoji #269 '🎍' :
+  - ': panda :' should convert to '🎍' : ':panda:'
+  - ': bamboo :' should convert to '🎍' : ':bamboo:'
+
+For emoji #270 '💝' :
+  - ': gift_heart :' should convert to '💝' : ':gift_heart:'
+
+For emoji #271 '🎎' :
+  - ': toy :' should convert to '🎎' : ':toy:'
+  - ': kimono :' should convert to '🎎' : ':kimono:'
+  - ': dolls :' should convert to '🎎' : ':dolls:'
+
+For emoji #272 '🎒' :
+  - ': student :' should convert to '🎒' : ':student:'
+  - ': education :' should convert to '🎒' : ':education:'
+  - ': bag :' should convert to '🎒' : ':bag:'
+  - ': school_satchel :' should convert to '🎒' : ':school_satchel:'
+
+For emoji #273 '🎓' :
+  - ': edu :' should convert to '🎓' : ':edu:'
+  - ': university :' should convert to '🎓' : ':university:'
+  - ': college :' should convert to '🎓' : ':college:'
+  - ': degree :' should convert to '🎓' : ':degree:'
+  - ': graduation :' should convert to '🎓' : ':graduation:'
+  - ': cap :' should convert to '🎓' : ':cap:'
+  - ': hat :' should convert to '🎓' : ':hat:'
+  - ': learn :' should convert to '🎓' : ':learn:'
+  - ': education :' should convert to '🎓' : ':education:'
+  - ': mortar_board :' should convert to '🎓' : ':mortar_board:'
+
+For emoji #274 '🎏' :
+  - ': fish :' should convert to '🎏' : ':fish:'
+  - ': koinobori :' should convert to '🎏' : ':koinobori:'
+  - ': carp :' should convert to '🎏' : ':carp:'
+  - ': banner :' should convert to '🎏' : ':banner:'
+  - ': flags :' should convert to '🎏' : ':flags:'
+
+For emoji #275 '🎆' :
+  - ': carnival :' should convert to '🎆' : ':carnival:'
+  - ': congratulations :' should convert to '🎆' : ':congratulations:'
+  - ': fireworks :' should convert to '🎆' : ':fireworks:'
+
+For emoji #276 '🎇' :
+  - ': stars :' should convert to '🎇' : ':stars:'
+  - ': night :' should convert to '🎇' : ':night:'
+  - ': sparkler :' should convert to '🎇' : ':sparkler:'
+
+For emoji #277 '🎐' :
+  - ': ding :' should convert to '🎐' : ':ding:'
+  - ': bell :' should convert to '🎐' : ':bell:'
+  - ': wind_chime :' should convert to '🎐' : ':wind_chime:'
+
+For emoji #278 '🎑' :
+  - ': japan :' should convert to '🎑' : ':japan:'
+  - ': asia :' should convert to '🎑' : ':asia:'
+  - ': tsukimi :' should convert to '🎑' : ':tsukimi:'
+  - ': rice_scene :' should convert to '🎑' : ':rice_scene:'
+
+For emoji #279 '🎃' :
+  - ': halloween :' should convert to '🎃' : ':halloween:'
+  - ': light :' should convert to '🎃' : ':light:'
+  - ': pumpkin :' should convert to '🎃' : ':pumpkin:'
+  - ': creepy :' should convert to '🎃' : ':creepy:'
+  - ': fall :' should convert to '🎃' : ':fall:'
+  - ': jack_o_lantern :' should convert to '🎃' : ':jack_o_lantern:'
+
+For emoji #280 '👻' :
+  - ': boom :' should convert to '👻' : ':boom:'
+  - ': halloween :' should convert to '👻' : ':halloween:'
+  - ': spooky :' should convert to '👻' : ':spooky:'
+  - ': scary :' should convert to '👻' : ':scary:'
+  - ': ghost :' should convert to '👻' : ':ghost:'
+
+For emoji #281 '🎅' :
+  - ': xmas :' should convert to '🎅' : ':xmas:'
+  - ': christmas :' should convert to '🎅' : ':christmas:'
+  - ': santa :' should convert to '🎅' : ':santa:'
+
+For emoji #282 '🎄' :
+  - ': december :' should convert to '🎄' : ':december:'
+  - ': celebration :' should convert to '🎄' : ':celebration:'
+  - ': christmas_tree :' should convert to '🎄' : ':christmas_tree:'
+
+For emoji #283 '🎁' :
+  - ': present :' should convert to '🎁' : ':present:'
+  - ': gift :' should convert to '🎁' : ':gift:'
+
+For emoji #284 '🔔' :
+  - ': notification :' should convert to '🔔' : ':notification:'
+  - ': chime :' should convert to '🔔' : ':chime:'
+  - ': bell :' should convert to '🔔' : ':bell:'
+
+For emoji #285 '🔕' :
+  - ': mute :' should convert to '🔕' : ':mute:'
+  - ': quiet :' should convert to '🔕' : ':quiet:'
+  - ': silent :' should convert to '🔕' : ':silent:'
+  - ': no_bell :' should convert to '🔕' : ':no_bell:'
+
+For emoji #286 '🎋' :
+  - ': branch :' should convert to '🎋' : ':branch:'
+  - ': tanabata_tree :' should convert to '🎋' : ':tanabata_tree:'
+
+For emoji #287 '🎉' :
+  - ': contulations :' should convert to '🎉' : ':contulations:'
+  - ': tada :' should convert to '🎉' : ':tada:'
+
+For emoji #288 '🎊' :
+  - ': celebration :' should convert to '🎊' : ':celebration:'
+  - ': confetti_ball :' should convert to '🎊' : ':confetti_ball:'
+
+For emoji #289 '🎈' :
+  - ': celebration :' should convert to '🎈' : ':celebration:'
+  - ': balloon :' should convert to '🎈' : ':balloon:'
+
+For emoji #290 '🔮' :
+  - ': disco :' should convert to '🔮' : ':disco:'
+  - ': fortune_teller :' should convert to '🔮' : ':fortune_teller:'
+  - ': crystal_ball :' should convert to '🔮' : ':crystal_ball:'
+
+For emoji #291 '💿' :
+  - ': dvd :' should convert to '💿' : ':dvd:'
+  - ': disk :' should convert to '💿' : ':disk:'
+  - ': disc :' should convert to '💿' : ':disc:'
+  - ': cd :' should convert to '💿' : ':cd:'
+
+For emoji #292 '📀' :
+  - ': cd :' should convert to '📀' : ':cd:'
+  - ': disk :' should convert to '📀' : ':disk:'
+  - ': disc :' should convert to '📀' : ':disc:'
+  - ': dvd :' should convert to '📀' : ':dvd:'
+
+For emoji #293 '💾' :
+  - ': floppy_disk :' should convert to '💾' : ':floppy_disk:'
+
+For emoji #294 '📷' :
+  - ': gadgets :' should convert to '📷' : ':gadgets:'
+  - ': camera :' should convert to '📷' : ':camera:'
+
+For emoji #295 '📹' :
+  - ': film :' should convert to '📹' : ':film:'
+  - ': record :' should convert to '📹' : ':record:'
+  - ': video_camera :' should convert to '📹' : ':video_camera:'
+
+For emoji #296 '🎥' :
+  - ': film :' should convert to '🎥' : ':film:'
+  - ': record :' should convert to '🎥' : ':record:'
+  - ': movie_camera :' should convert to '🎥' : ':movie_camera:'
+
+For emoji #297 '💻' :
+  - ': tech :' should convert to '💻' : ':tech:'
+  - ': laptop :' should convert to '💻' : ':laptop:'
+  - ': screen :' should convert to '💻' : ':screen:'
+  - ': display :' should convert to '💻' : ':display:'
+  - ': monitor :' should convert to '💻' : ':monitor:'
+  - ': computer :' should convert to '💻' : ':computer:'
+
+For emoji #298 '📺' :
+  - ': television :' should convert to '📺' : ':television:'
+  - ': program :' should convert to '📺' : ':program:'
+  - ': show :' should convert to '📺' : ':show:'
+  - ': tv :' should convert to '📺' : ':tv:'
+
+For emoji #299 '📱' :
+  - ': apple :' should convert to '📱' : ':apple:'
+  - ': gadgets :' should convert to '📱' : ':gadgets:'
+  - ': dial :' should convert to '📱' : ':dial:'
+  - ': iphone :' should convert to '📱' : ':iphone:'
+
+For emoji #300 '☎' :
+  - ': calling :' should convert to '☎' : ':calling:'
+  - ': telephone :' should convert to '☎' : ':telephone:'
+
+For emoji #301 '📞' :
+  - ': dial :' should convert to '📞' : ':dial:'
+  - ': telephone_receiver :' should convert to '📞' : ':telephone_receiver:'
+
+For emoji #302 '📟' :
+  - ': bbcall :' should convert to '📟' : ':bbcall:'
+  - ': pager :' should convert to '📟' : ':pager:'
+
+For emoji #303 '📠' :
+  - ': fax :' should convert to '📠' : ':fax:'
+
+For emoji #304 '💽' :
+  - ': data :' should convert to '💽' : ':data:'
+  - ': disk :' should convert to '💽' : ':disk:'
+  - ': minidisc :' should convert to '💽' : ':minidisc:'
+
+For emoji #305 '📼' :
+  - ': record :' should convert to '📼' : ':record:'
+  - ': video :' should convert to '📼' : ':video:'
+  - ': vhs :' should convert to '📼' : ':vhs:'
+
+For emoji #306 '🔉' :
+  - ': loud :' should convert to '🔉' : ':loud:'
+  - ': noise :' should convert to '🔉' : ':noise:'
+  - ': speaker :' should convert to '🔉' : ':speaker:'
+  - ': broadcast :' should convert to '🔉' : ':broadcast:'
+  - ': sound :' should convert to '🔉' : ':sound:'
+
+For emoji #307 '🔈' :
+  - ': silence :' should convert to '🔈' : ':silence:'
+  - ': broadcast :' should convert to '🔈' : ':broadcast:'
+  - ': speaker :' should convert to '🔈' : ':speaker:'
+
+For emoji #308 '🔇' :
+  - ': silence :' should convert to '🔇' : ':silence:'
+  - ': quiet :' should convert to '🔇' : ':quiet:'
+  - ': mute :' should convert to '🔇' : ':mute:'
+
+For emoji #309 '📢' :
+  - ': loudspeaker :' should convert to '📢' : ':loudspeaker:'
+
+For emoji #310 '📣' :
+  - ': speaker :' should convert to '📣' : ':speaker:'
+  - ': mega :' should convert to '📣' : ':mega:'
+
+For emoji #311 '⌛' :
+  - ': time :' should convert to '⌛' : ':time:'
+  - ': clock :' should convert to '⌛' : ':clock:'
+  - ': limit :' should convert to '⌛' : ':limit:'
+  - ': exam :' should convert to '⌛' : ':exam:'
+  - ': quiz :' should convert to '⌛' : ':quiz:'
+  - ': test :' should convert to '⌛' : ':test:'
+  - ': hourglass :' should convert to '⌛' : ':hourglass:'
+
+For emoji #312 '⏳' :
+  - ': time :' should convert to '⏳' : ':time:'
+  - ': countdown :' should convert to '⏳' : ':countdown:'
+  - ': hourglass_flowing_sand :' should convert to '⏳' : ':hourglass_flowing_sand:'
+
+For emoji #313 '⏰' :
+  - ': time :' should convert to '⏰' : ':time:'
+  - ': wake :' should convert to '⏰' : ':wake:'
+  - ': alarm_clock :' should convert to '⏰' : ':alarm_clock:'
+
+For emoji #314 '⌚' :
+  - ': clock :' should convert to '⌚' : ':clock:'
+  - ': time :' should convert to '⌚' : ':time:'
+  - ': watch :' should convert to '⌚' : ':watch:'
+
+For emoji #315 '📻' :
+  - ': podcast :' should convert to '📻' : ':podcast:'
+  - ': program :' should convert to '📻' : ':program:'
+  - ': radio :' should convert to '📻' : ':radio:'
+
+For emoji #316 '📡' :
+  - ': future :' should convert to '📡' : ':future:'
+  - ': radio :' should convert to '📡' : ':radio:'
+  - ': space :' should convert to '📡' : ':space:'
+  - ': satellite :' should convert to '📡' : ':satellite:'
+
+For emoji #317 '➿' :
+  - ': tape :' should convert to '➿' : ':tape:'
+  - ': cassette :' should convert to '➿' : ':cassette:'
+  - ': loop :' should convert to '➿' : ':loop:'
+
+For emoji #318 '🔍' :
+  - ': magnifying :' should convert to '🔍' : ':magnifying:'
+  - ': glass :' should convert to '🔍' : ':glass:'
+  - ': search :' should convert to '🔍' : ':search:'
+  - ': zoom :' should convert to '🔍' : ':zoom:'
+  - ': find :' should convert to '🔍' : ':find:'
+  - ': detective :' should convert to '🔍' : ':detective:'
+  - ': mag :' should convert to '🔍' : ':mag:'
+
+For emoji #319 '🔎' :
+  - ': mag_right :' should convert to '🔎' : ':mag_right:'
+
+For emoji #320 '🔓' :
+  - ': privacy :' should convert to '🔓' : ':privacy:'
+  - ': unlock :' should convert to '🔓' : ':unlock:'
+
+For emoji #321 '🔒' :
+  - ': password :' should convert to '🔒' : ':password:'
+  - ': padlock :' should convert to '🔒' : ':padlock:'
+  - ': lock :' should convert to '🔒' : ':lock:'
+
+For emoji #322 '🔏' :
+  - ': secret :' should convert to '🔏' : ':secret:'
+  - ': lock_with_ink_pen :' should convert to '🔏' : ':lock_with_ink_pen:'
+
+For emoji #323 '🔐' :
+  - ': closed_lock_with_key :' should convert to '🔐' : ':closed_lock_with_key:'
+
+For emoji #324 '🔑' :
+  - ': lock :' should convert to '🔑' : ':lock:'
+  - ': door :' should convert to '🔑' : ':door:'
+  - ': password :' should convert to '🔑' : ':password:'
+  - ': key :' should convert to '🔑' : ':key:'
+
+For emoji #325 '💡' :
+  - ': light :' should convert to '💡' : ':light:'
+  - ': electricity :' should convert to '💡' : ':electricity:'
+  - ': idea :' should convert to '💡' : ':idea:'
+  - ': bulb :' should convert to '💡' : ':bulb:'
+
+For emoji #326 '🔦' :
+  - ': dark :' should convert to '🔦' : ':dark:'
+  - ': camping :' should convert to '🔦' : ':camping:'
+  - ': sight :' should convert to '🔦' : ':sight:'
+  - ': night :' should convert to '🔦' : ':night:'
+  - ': flashlight :' should convert to '🔦' : ':flashlight:'
+
+For emoji #327 '🔆' :
+  - ': light :' should convert to '🔆' : ':light:'
+  - ': high_brightness :' should convert to '🔆' : ':high_brightness:'
+
+For emoji #328 '🔅' :
+  - ': afternoon :' should convert to '🔅' : ':afternoon:'
+  - ': warm :' should convert to '🔅' : ':warm:'
+  - ': low_brightness :' should convert to '🔅' : ':low_brightness:'
+
+For emoji #329 '🔌' :
+  - ': charger :' should convert to '🔌' : ':charger:'
+  - ': power :' should convert to '🔌' : ':power:'
+  - ': electric_plug :' should convert to '🔌' : ':electric_plug:'
+
+For emoji #330 '🔋' :
+  - ': power :' should convert to '🔋' : ':power:'
+  - ': energy :' should convert to '🔋' : ':energy:'
+  - ': sustain :' should convert to '🔋' : ':sustain:'
+  - ': battery :' should convert to '🔋' : ':battery:'
+
+For emoji #331 '📲' :
+  - ': iphone :' should convert to '📲' : ':iphone:'
+  - ': incoming :' should convert to '📲' : ':incoming:'
+  - ': calling :' should convert to '📲' : ':calling:'
+
+For emoji #332 '✉' :
+  - ': message :' should convert to '✉' : ':message:'
+  - ': envelope :' should convert to '✉' : ':envelope:'
+
+For emoji #333 '📫' :
+  - ': inbox :' should convert to '📫' : ':inbox:'
+  - ': mailbox :' should convert to '📫' : ':mailbox:'
+
+For emoji #334 '📮' :
+  - ': envelope :' should convert to '📮' : ':envelope:'
+  - ': postbox :' should convert to '📮' : ':postbox:'
+
+For emoji #335 '🛀' :
+  - ': clean :' should convert to '🛀' : ':clean:'
+  - ': shower :' should convert to '🛀' : ':shower:'
+  - ': bathroom :' should convert to '🛀' : ':bathroom:'
+  - ': bath :' should convert to '🛀' : ':bath:'
+
+For emoji #336 '🛁' :
+  - ': clean :' should convert to '🛁' : ':clean:'
+  - ': shower :' should convert to '🛁' : ':shower:'
+  - ': bathroom :' should convert to '🛁' : ':bathroom:'
+  - ': bathtub :' should convert to '🛁' : ':bathtub:'
+
+For emoji #337 '🚿' :
+  - ': clean :' should convert to '🚿' : ':clean:'
+  - ': bathroom :' should convert to '🚿' : ':bathroom:'
+  - ': shower :' should convert to '🚿' : ':shower:'
+
+For emoji #338 '🚽' :
+  - ': restroom :' should convert to '🚽' : ':restroom:'
+  - ': wc :' should convert to '🚽' : ':wc:'
+  - ': washroom :' should convert to '🚽' : ':washroom:'
+  - ': bathroom :' should convert to '🚽' : ':bathroom:'
+  - ': potty :' should convert to '🚽' : ':potty:'
+  - ': toilet :' should convert to '🚽' : ':toilet:'
+
+For emoji #339 '🔧' :
+  - ': diy :' should convert to '🔧' : ':diy:'
+  - ': ikea :' should convert to '🔧' : ':ikea:'
+  - ': fix :' should convert to '🔧' : ':fix:'
+  - ': maintainer :' should convert to '🔧' : ':maintainer:'
+  - ': wrench :' should convert to '🔧' : ':wrench:'
+
+For emoji #340 '🔩' :
+  - ': handy :' should convert to '🔩' : ':handy:'
+  - ': fix :' should convert to '🔩' : ':fix:'
+  - ': nut_and_bolt :' should convert to '🔩' : ':nut_and_bolt:'
+
+For emoji #341 '🔨' :
+  - ': verdict :' should convert to '🔨' : ':verdict:'
+  - ': judge :' should convert to '🔨' : ':judge:'
+  - ': done :' should convert to '🔨' : ':done:'
+  - ': ruling :' should convert to '🔨' : ':ruling:'
+  - ': gavel :' should convert to '🔨' : ':gavel:'
+  - ': hammer :' should convert to '🔨' : ':hammer:'
+
+For emoji #342 '💺' :
+  - ': sit :' should convert to '💺' : ':sit:'
+  - ': airplane :' should convert to '💺' : ':airplane:'
+  - ': transport :' should convert to '💺' : ':transport:'
+  - ': bus :' should convert to '💺' : ':bus:'
+  - ': flight :' should convert to '💺' : ':flight:'
+  - ': fly :' should convert to '💺' : ':fly:'
+  - ': seat :' should convert to '💺' : ':seat:'
+
+For emoji #343 '💰' :
+  - ': payment :' should convert to '💰' : ':payment:'
+  - ': coins :' should convert to '💰' : ':coins:'
+  - ': sale :' should convert to '💰' : ':sale:'
+  - ': moneybag :' should convert to '💰' : ':moneybag:'
+
+For emoji #344 '💴' :
+  - ': currency :' should convert to '💴' : ':currency:'
+  - ': yen :' should convert to '💴' : ':yen:'
+
+For emoji #345 '💵' :
+  - ': bill :' should convert to '💵' : ':bill:'
+  - ': currency :' should convert to '💵' : ':currency:'
+  - ': dollar :' should convert to '💵' : ':dollar:'
+
+For emoji #346 '💷' :
+  - ': sterling :' should convert to '💷' : ':sterling:'
+  - ': bills :' should convert to '💷' : ':bills:'
+  - ': england :' should convert to '💷' : ':england:'
+  - ': currency :' should convert to '💷' : ':currency:'
+  - ': pound :' should convert to '💷' : ':pound:'
+
+For emoji #347 '💶' :
+  - ': currency :' should convert to '💶' : ':currency:'
+  - ': euro :' should convert to '💶' : ':euro:'
+
+For emoji #348 '💳' :
+  - ': payment :' should convert to '💳' : ':payment:'
+  - ': credit_card :' should convert to '💳' : ':credit_card:'
+
+For emoji #349 '💸' :
+  - ': bills :' should convert to '💸' : ':bills:'
+  - ': payment :' should convert to '💸' : ':payment:'
+  - ': sale :' should convert to '💸' : ':sale:'
+  - ': money_with_wings :' should convert to '💸' : ':money_with_wings:'
+
+For emoji #350 '📧' :
+  - ': send :' should convert to '📧' : ':send:'
+  - ': e :' should convert to '📧' : ':e:'
+
+For emoji #351 '📥' :
+  - ': inbox_tray :' should convert to '📥' : ':inbox_tray:'
+
+For emoji #352 '📤' :
+  - ': inbox :' should convert to '📤' : ':inbox:'
+  - ': outbox_tray :' should convert to '📤' : ':outbox_tray:'
+
+For emoji #353 '📨' :
+  - ': inbox :' should convert to '📨' : ':inbox:'
+  - ': incoming_envelope :' should convert to '📨' : ':incoming_envelope:'
+
+For emoji #354 '📯' :
+  - ': postal_horn :' should convert to '📯' : ':postal_horn:'
+
+For emoji #355 '📪' :
+  - ': inbox :' should convert to '📪' : ':inbox:'
+  - ': mailbox_closed :' should convert to '📪' : ':mailbox_closed:'
+
+For emoji #356 '📬' :
+  - ': mailbox_with_mail :' should convert to '📬' : ':mailbox_with_mail:'
+
+For emoji #357 '📭' :
+  - ': mailbox_with_no_mail :' should convert to '📭' : ':mailbox_with_no_mail:'
+
+For emoji #358 '📦' :
+  - ': box :' should convert to '📦' : ':box:'
+  - ': gift :' should convert to '📦' : ':gift:'
+  - ': cardboard :' should convert to '📦' : ':cardboard:'
+  - ': moving :' should convert to '📦' : ':moving:'
+  - ': package :' should convert to '📦' : ':package:'
+
+For emoji #359 '🚪' :
+  - ': house :' should convert to '🚪' : ':house:'
+  - ': entry :' should convert to '🚪' : ':entry:'
+  - ': exit :' should convert to '🚪' : ':exit:'
+  - ': door :' should convert to '🚪' : ':door:'
+
+For emoji #360 '🚬' :
+  - ': smoke :' should convert to '🚬' : ':smoke:'
+  - ': kills :' should convert to '🚬' : ':kills:'
+  - ': tobacco :' should convert to '🚬' : ':tobacco:'
+  - ': cigarette :' should convert to '🚬' : ':cigarette:'
+  - ': joint :' should convert to '🚬' : ':joint:'
+  - ': smoking :' should convert to '🚬' : ':smoking:'
+
+For emoji #361 '💣' :
+  - ': boom :' should convert to '💣' : ':boom:'
+  - ': explode :' should convert to '💣' : ':explode:'
+  - ': explosion :' should convert to '💣' : ':explosion:'
+  - ': terrorism :' should convert to '💣' : ':terrorism:'
+  - ': bomb :' should convert to '💣' : ':bomb:'
+
+For emoji #362 '🔫' :
+  - ': violence :' should convert to '🔫' : ':violence:'
+  - ': pistol :' should convert to '🔫' : ':pistol:'
+  - ': revolver :' should convert to '🔫' : ':revolver:'
+  - ': gun :' should convert to '🔫' : ':gun:'
+
+For emoji #363 '🔪' :
+  - ': knife :' should convert to '🔪' : ':knife:'
+  - ': blade :' should convert to '🔪' : ':blade:'
+  - ': cutlery :' should convert to '🔪' : ':cutlery:'
+  - ': kitchen :' should convert to '🔪' : ':kitchen:'
+  - ': hocho :' should convert to '🔪' : ':hocho:'
+
+For emoji #364 '💊' :
+  - ': medicine :' should convert to '💊' : ':medicine:'
+  - ': doctor :' should convert to '💊' : ':doctor:'
+  - ': pharmacy :' should convert to '💊' : ':pharmacy:'
+  - ': drug :' should convert to '💊' : ':drug:'
+  - ': pill :' should convert to '💊' : ':pill:'
+
+For emoji #365 '💉' :
+  - ': hospital :' should convert to '💉' : ':hospital:'
+  - ': drugs :' should convert to '💉' : ':drugs:'
+  - ': blood :' should convert to '💉' : ':blood:'
+  - ': medicine :' should convert to '💉' : ':medicine:'
+  - ': needle :' should convert to '💉' : ':needle:'
+  - ': doctor :' should convert to '💉' : ':doctor:'
+  - ': nurse :' should convert to '💉' : ':nurse:'
+  - ': syringe :' should convert to '💉' : ':syringe:'
+
+For emoji #366 '📄' :
+  - ': paper :' should convert to '📄' : ':paper:'
+  - ': information :' should convert to '📄' : ':information:'
+  - ': page_facing_up :' should convert to '📄' : ':page_facing_up:'
+  - ': documents :' should convert to '📄' : ':documents:'
+
+For emoji #367 '📃' :
+  - ': page_with_curl :' should convert to '📃' : ':page_with_curl:'
+
+For emoji #368 '📑' :
+  - ': favorite :' should convert to '📑' : ':favorite:'
+  - ': order :' should convert to '📑' : ':order:'
+  - ': tidy :' should convert to '📑' : ':tidy:'
+  - ': bookmark_tabs :' should convert to '📑' : ':bookmark_tabs:'
+
+For emoji #369 '📊' :
+  - ': bar_chart :' should convert to '📊' : ':bar_chart:'
+
+For emoji #370 '📈' :
+  - ': recovery :' should convert to '📈' : ':recovery:'
+  - ': success :' should convert to '📈' : ':success:'
+  - ': chart_with_upwards_trend :' should convert to '📈' : ':chart_with_upwards_trend:'
+
+For emoji #371 '📉' :
+  - ': recession :' should convert to '📉' : ':recession:'
+  - ': failure :' should convert to '📉' : ':failure:'
+  - ': chart_with_downwards_trend :' should convert to '📉' : ':chart_with_downwards_trend:'
+
+For emoji #372 '📜' :
+  - ': ancient :' should convert to '📜' : ':ancient:'
+  - ': history :' should convert to '📜' : ':history:'
+  - ': scroll :' should convert to '📜' : ':scroll:'
+
+For emoji #373 '📋' :
+  - ': clipboard :' should convert to '📋' : ':clipboard:'
+
+For emoji #374 '📆' :
+  - ': schedule :' should convert to '📆' : ':schedule:'
+  - ': date :' should convert to '📆' : ':date:'
+  - ': planning :' should convert to '📆' : ':planning:'
+  - ': calendar :' should convert to '📆' : ':calendar:'
+
+For emoji #375 '📅' :
+  - ': calendar :' should convert to '📅' : ':calendar:'
+  - ': date :' should convert to '📅' : ':date:'
+
+For emoji #376 '📇' :
+  - ': card_index :' should convert to '📇' : ':card_index:'
+
+For emoji #377 '📁' :
+  - ': file_folder :' should convert to '📁' : ':file_folder:'
+
+For emoji #378 '📂' :
+  - ': load :' should convert to '📂' : ':load:'
+  - ': open_file_folder :' should convert to '📂' : ':open_file_folder:'
+
+For emoji #379 '✂' :
+  - ': cut :' should convert to '✂' : ':cut:'
+  - ': scissors :' should convert to '✂' : ':scissors:'
+
+For emoji #380 '📌' :
+  - ': mark :' should convert to '📌' : ':mark:'
+  - ': here :' should convert to '📌' : ':here:'
+  - ': pushpin :' should convert to '📌' : ':pushpin:'
+
+For emoji #381 '📎' :
+  - ': paperclip :' should convert to '📎' : ':paperclip:'
+
+For emoji #382 '✒' :
+  - ': pen :' should convert to '✒' : ':pen:'
+  - ': writing :' should convert to '✒' : ':writing:'
+  - ': write :' should convert to '✒' : ':write:'
+  - ': black_nib :' should convert to '✒' : ':black_nib:'
+
+For emoji #383 '📏' :
+  - ': calculate :' should convert to '📏' : ':calculate:'
+  - ': length :' should convert to '📏' : ':length:'
+  - ': drawing :' should convert to '📏' : ':drawing:'
+  - ': architect :' should convert to '📏' : ':architect:'
+  - ': sketch :' should convert to '📏' : ':sketch:'
+  - ': straight_ruler :' should convert to '📏' : ':straight_ruler:'
+
+For emoji #384 '📐' :
+  - ': architect :' should convert to '📐' : ':architect:'
+  - ': sketch :' should convert to '📐' : ':sketch:'
+  - ': triangular_ruler :' should convert to '📐' : ':triangular_ruler:'
+
+For emoji #385 '📕' :
+  - ': learn :' should convert to '📕' : ':learn:'
+  - ': closed_book :' should convert to '📕' : ':closed_book:'
+
+For emoji #386 '📗' :
+  - ': study :' should convert to '📗' : ':study:'
+  - ': green_book :' should convert to '📗' : ':green_book:'
+
+For emoji #387 '📘' :
+  - ': learn :' should convert to '📘' : ':learn:'
+  - ': study :' should convert to '📘' : ':study:'
+  - ': blue_book :' should convert to '📘' : ':blue_book:'
+
+For emoji #388 '📙' :
+  - ': study :' should convert to '📙' : ':study:'
+  - ': orange_book :' should convert to '📙' : ':orange_book:'
+
+For emoji #389 '📓' :
+  - ': record :' should convert to '📓' : ':record:'
+  - ': notes :' should convert to '📓' : ':notes:'
+  - ': study :' should convert to '📓' : ':study:'
+  - ': notebook :' should convert to '📓' : ':notebook:'
+
+For emoji #390 '📔' :
+  - ': classroom :' should convert to '📔' : ':classroom:'
+  - ': notes :' should convert to '📔' : ':notes:'
+  - ': record :' should convert to '📔' : ':record:'
+  - ': study :' should convert to '📔' : ':study:'
+  - ': notebook_with_decorative_cover :' should convert to '📔' : ':notebook_with_decorative_cover:'
+
+For emoji #391 '📒' :
+  - ': notes :' should convert to '📒' : ':notes:'
+  - ': ledger :' should convert to '📒' : ':ledger:'
+
+For emoji #392 '📚' :
+  - ': literature :' should convert to '📚' : ':literature:'
+  - ': study :' should convert to '📚' : ':study:'
+  - ': books :' should convert to '📚' : ':books:'
+
+For emoji #393 '🔖' :
+  - ': favorite :' should convert to '🔖' : ':favorite:'
+  - ': label :' should convert to '🔖' : ':label:'
+  - ': bookmark :' should convert to '🔖' : ':bookmark:'
+
+For emoji #394 '📛' :
+  - ': fire :' should convert to '📛' : ':fire:'
+  - ': forbid :' should convert to '📛' : ':forbid:'
+  - ': name_badge :' should convert to '📛' : ':name_badge:'
+
+For emoji #395 '🔬' :
+  - ': laboratory :' should convert to '🔬' : ':laboratory:'
+  - ': experiment :' should convert to '🔬' : ':experiment:'
+  - ': zoomin :' should convert to '🔬' : ':zoomin:'
+  - ': science :' should convert to '🔬' : ':science:'
+  - ': study :' should convert to '🔬' : ':study:'
+  - ': microscope :' should convert to '🔬' : ':microscope:'
+
+For emoji #396 '🔭' :
+  - ': stars :' should convert to '🔭' : ':stars:'
+  - ': space :' should convert to '🔭' : ':space:'
+  - ': zoom :' should convert to '🔭' : ':zoom:'
+  - ': telescope :' should convert to '🔭' : ':telescope:'
+
+For emoji #397 '📰' :
+  - ': press :' should convert to '📰' : ':press:'
+  - ': headline :' should convert to '📰' : ':headline:'
+  - ': newspaper :' should convert to '📰' : ':newspaper:'
+
+For emoji #398 '🏈' :
+  - ': football :' should convert to '🏈' : ':football:'
+
+For emoji #399 '🏀' :
+  - ': basketball :' should convert to '🏀' : ':basketball:'
+
+For emoji #400 '⚽' :
+  - ': football :' should convert to '⚽' : ':football:'
+  - ': fifa :' should convert to '⚽' : ':fifa:'
+  - ': soccer :' should convert to '⚽' : ':soccer:'
+
+For emoji #401 '⚾' :
+  - ': baseball :' should convert to '⚾' : ':baseball:'
+
+For emoji #402 '🎾' :
+  - ': tennis :' should convert to '🎾' : ':tennis:'
+
+For emoji #403 '🏉' :
+  - ': team :' should convert to '🏉' : ':team:'
+  - ': rugby_football :' should convert to '🏉' : ':rugby_football:'
+
+For emoji #404 '🎳' :
+  - ': bowling :' should convert to '🎳' : ':bowling:'
+
+For emoji #405 '⛳' :
+  - ': flag :' should convert to '⛳' : ':flag:'
+  - ': hole :' should convert to '⛳' : ':hole:'
+  - ': golf :' should convert to '⛳' : ':golf:'
+
+For emoji #406 '🚵' :
+  - ': race :' should convert to '🚵' : ':race:'
+  - ': bike :' should convert to '🚵' : ':bike:'
+  - ': mountain_bicyclist :' should convert to '🚵' : ':mountain_bicyclist:'
+
+For emoji #407 '🚴' :
+  - ': bike :' should convert to '🚴' : ':bike:'
+  - ': exercise :' should convert to '🚴' : ':exercise:'
+  - ': hipster :' should convert to '🚴' : ':hipster:'
+  - ': bicyclist :' should convert to '🚴' : ':bicyclist:'
+
+For emoji #408 '🏇' :
+  - ': betting :' should convert to '🏇' : ':betting:'
+  - ': competition :' should convert to '🏇' : ':competition:'
+  - ': gambling :' should convert to '🏇' : ':gambling:'
+  - ': luck :' should convert to '🏇' : ':luck:'
+  - ': horse_racing :' should convert to '🏇' : ':horse_racing:'
+
+For emoji #409 '🏂' :
+  - ': snowboarder :' should convert to '🏂' : ':snowboarder:'
+
+For emoji #410 '🏊' :
+  - ': exercise :' should convert to '🏊' : ':exercise:'
+  - ': athlete :' should convert to '🏊' : ':athlete:'
+  - ': swimmer :' should convert to '🏊' : ':swimmer:'
+
+For emoji #411 '🏄' :
+  - ': beach :' should convert to '🏄' : ':beach:'
+  - ': surfer :' should convert to '🏄' : ':surfer:'
+
+For emoji #412 '🎿' :
+  - ': snow :' should convert to '🎿' : ':snow:'
+  - ': ski :' should convert to '🎿' : ':ski:'
+
+For emoji #413 '♠' :
+  - ': spades :' should convert to '♠' : ':spades:'
+
+For emoji #414 '♥' :
+  - ': hearts :' should convert to '♥' : ':hearts:'
+
+For emoji #415 '♣' :
+  - ': clubs :' should convert to '♣' : ':clubs:'
+
+For emoji #416 '♦' :
+  - ': diamonds :' should convert to '♦' : ':diamonds:'
+
+For emoji #417 '💎' :
+  - ': ruby :' should convert to '💎' : ':ruby:'
+  - ': diamond :' should convert to '💎' : ':diamond:'
+  - ': jewelry :' should convert to '💎' : ':jewelry:'
+  - ': gem :' should convert to '💎' : ':gem:'
+
+For emoji #418 '💍' :
+  - ': wedding :' should convert to '💍' : ':wedding:'
+  - ': propose :' should convert to '💍' : ':propose:'
+  - ': marriage :' should convert to '💍' : ':marriage:'
+  - ': diamond :' should convert to '💍' : ':diamond:'
+  - ': jewelry :' should convert to '💍' : ':jewelry:'
+  - ': gem :' should convert to '💍' : ':gem:'
+  - ': ring :' should convert to '💍' : ':ring:'
+
+For emoji #419 '🏆' :
+  - ': win :' should convert to '🏆' : ':win:'
+  - ': award :' should convert to '🏆' : ':award:'
+  - ': contest :' should convert to '🏆' : ':contest:'
+  - ': place :' should convert to '🏆' : ':place:'
+  - ': ftw :' should convert to '🏆' : ':ftw:'
+  - ': ceremony :' should convert to '🏆' : ':ceremony:'
+  - ': trophy :' should convert to '🏆' : ':trophy:'
+
+For emoji #420 '🎼' :
+  - ': treble :' should convert to '🎼' : ':treble:'
+  - ': clef :' should convert to '🎼' : ':clef:'
+  - ': musical_score :' should convert to '🎼' : ':musical_score:'
+
+For emoji #421 '🎹' :
+  - ': piano :' should convert to '🎹' : ':piano:'
+  - ': musical_keyboard :' should convert to '🎹' : ':musical_keyboard:'
+
+For emoji #422 '🎻' :
+  - ': orchestra :' should convert to '🎻' : ':orchestra:'
+  - ': symphony :' should convert to '🎻' : ':symphony:'
+  - ': violin :' should convert to '🎻' : ':violin:'
+
+For emoji #423 '👾' :
+  - ': arcade :' should convert to '👾' : ':arcade:'
+  - ': space_invader :' should convert to '👾' : ':space_invader:'
+
+For emoji #424 '🎮' :
+  - ': controller :' should convert to '🎮' : ':controller:'
+  - ': console :' should convert to '🎮' : ':console:'
+  - ': PS4 :' should convert to '🎮' : ':PS4:'
+  - ': video_game :' should convert to '🎮' : ':video_game:'
+
+For emoji #425 '🃏' :
+  - ': poker :' should convert to '🃏' : ':poker:'
+  - ': cards :' should convert to '🃏' : ':cards:'
+  - ': black_joker :' should convert to '🃏' : ':black_joker:'
+
+For emoji #426 '🎴' :
+  - ': sunset :' should convert to '🎴' : ':sunset:'
+  - ': flower_playing_cards :' should convert to '🎴' : ':flower_playing_cards:'
+
+For emoji #427 '🎲' :
+  - ': dice :' should convert to '🎲' : ':dice:'
+  - ': random :' should convert to '🎲' : ':random:'
+  - ': tabbletop :' should convert to '🎲' : ':tabbletop:'
+  - ': luck :' should convert to '🎲' : ':luck:'
+  - ': game_die :' should convert to '🎲' : ':game_die:'
+
+For emoji #428 '🎯' :
+  - ': dart :' should convert to '🎯' : ':dart:'
+
+For emoji #429 '🀄' :
+  - ': kanji :' should convert to '🀄' : ':kanji:'
+  - ': mahjong :' should convert to '🀄' : ':mahjong:'
+
+For emoji #430 '🎬' :
+  - ': movie :' should convert to '🎬' : ':movie:'
+  - ': film :' should convert to '🎬' : ':film:'
+  - ': record :' should convert to '🎬' : ':record:'
+  - ': clapper :' should convert to '🎬' : ':clapper:'
+
+For emoji #431 '📝' :
+  - ': write :' should convert to '📝' : ':write:'
+  - ': pencil :' should convert to '📝' : ':pencil:'
+
+For emoji #432 '📖' :
+  - ': open_book :' should convert to '📖' : ':open_book:'
+  - ': literature :' should convert to '📖' : ':literature:'
+  - ': learn :' should convert to '📖' : ':learn:'
+  - ': study :' should convert to '📖' : ':study:'
+  - ': book :' should convert to '📖' : ':book:'
+
+For emoji #433 '🎨' :
+  - ': design :' should convert to '🎨' : ':design:'
+  - ': paint :' should convert to '🎨' : ':paint:'
+  - ': draw :' should convert to '🎨' : ':draw:'
+  - ': art :' should convert to '🎨' : ':art:'
+
+For emoji #434 '🎤' :
+  - ': PA :' should convert to '🎤' : ':PA:'
+  - ': microphone :' should convert to '🎤' : ':microphone:'
+
+For emoji #435 '🎧' :
+  - ': gadgets :' should convert to '🎧' : ':gadgets:'
+  - ': headphones :' should convert to '🎧' : ':headphones:'
+
+For emoji #436 '🎺' :
+  - ': brass :' should convert to '🎺' : ':brass:'
+  - ': trumpet :' should convert to '🎺' : ':trumpet:'
+
+For emoji #437 '🎷' :
+  - ': jazz :' should convert to '🎷' : ':jazz:'
+  - ': blues :' should convert to '🎷' : ':blues:'
+  - ': saxophone :' should convert to '🎷' : ':saxophone:'
+
+For emoji #438 '🎸' :
+  - ': guitar :' should convert to '🎸' : ':guitar:'
+
+For emoji #439 '👞' :
+  - ': mans_shoe :' should convert to '👞' : ':mans_shoe:'
+
+For emoji #440 '👠' :
+  - ': pumps :' should convert to '👠' : ':pumps:'
+  - ': stiletto :' should convert to '👠' : ':stiletto:'
+  - ': high_heel :' should convert to '👠' : ':high_heel:'
+
+For emoji #441 '💄' :
+  - ': lipstick :' should convert to '💄' : ':lipstick:'
+
+For emoji #442 '👢' :
+  - ': shoes :' should convert to '👢' : ':shoes:'
+  - ': boot :' should convert to '👢' : ':boot:'
+
+For emoji #443 '👕' :
+  - ': casual :' should convert to '👕' : ':casual:'
+  - ': tee :' should convert to '👕' : ':tee:'
+
+For emoji #444 '👔' :
+  - ': shirt :' should convert to '👔' : ':shirt:'
+  - ': suitup :' should convert to '👔' : ':suitup:'
+  - ': formal :' should convert to '👔' : ':formal:'
+  - ': necktie :' should convert to '👔' : ':necktie:'
+
+For emoji #445 '👚' :
+  - ': womans_clothes :' should convert to '👚' : ':womans_clothes:'
+
+For emoji #446 '👗' :
+  - ': clothes :' should convert to '👗' : ':clothes:'
+  - ': dress :' should convert to '👗' : ':dress:'
+
+For emoji #447 '🎽' :
+  - ': pageant :' should convert to '🎽' : ':pageant:'
+  - ': running_shirt_with_sash :' should convert to '🎽' : ':running_shirt_with_sash:'
+
+For emoji #448 '👖' :
+  - ': jeans :' should convert to '👖' : ':jeans:'
+
+For emoji #449 '👘' :
+  - ': dress :' should convert to '👘' : ':dress:'
+  - ': kimono :' should convert to '👘' : ':kimono:'
+
+For emoji #450 '👙' :
+  - ': swimming :' should convert to '👙' : ':swimming:'
+  - ': bikini :' should convert to '👙' : ':bikini:'
+
+For emoji #451 '🎀' :
+  - ': decoration :' should convert to '🎀' : ':decoration:'
+  - ': bowtie :' should convert to '🎀' : ':bowtie:'
+  - ': ribbon :' should convert to '🎀' : ':ribbon:'
+
+For emoji #452 '🎩' :
+  - ': magic :' should convert to '🎩' : ':magic:'
+  - ': gentleman :' should convert to '🎩' : ':gentleman:'
+  - ': classy :' should convert to '🎩' : ':classy:'
+  - ': tophat :' should convert to '🎩' : ':tophat:'
+
+For emoji #453 '👑' :
+  - ': king :' should convert to '👑' : ':king:'
+  - ': kod :' should convert to '👑' : ':kod:'
+  - ': leader :' should convert to '👑' : ':leader:'
+  - ': royalty :' should convert to '👑' : ':royalty:'
+  - ': lord :' should convert to '👑' : ':lord:'
+  - ': crown :' should convert to '👑' : ':crown:'
+
+For emoji #454 '👒' :
+  - ': lady :' should convert to '👒' : ':lady:'
+  - ': womans_hat :' should convert to '👒' : ':womans_hat:'
+
+For emoji #455 '🌂' :
+  - ': drizzle :' should convert to '🌂' : ':drizzle:'
+  - ': closed_umbrella :' should convert to '🌂' : ':closed_umbrella:'
+
+For emoji #456 '💼' :
+  - ': work :' should convert to '💼' : ':work:'
+  - ': briefcase :' should convert to '💼' : ':briefcase:'
+
+For emoji #457 '👜' :
+  - ': accessory :' should convert to '👜' : ':accessory:'
+  - ': handbag :' should convert to '👜' : ':handbag:'
+
+For emoji #458 '👝' :
+  - ': bag :' should convert to '👝' : ':bag:'
+  - ': pouch :' should convert to '👝' : ':pouch:'
+
+For emoji #459 '👛' :
+  - ': pocketbook :' should convert to '👛' : ':pocketbook:'
+  - ': purse :' should convert to '👛' : ':purse:'
+
+For emoji #460 '👓' :
+  - ': eyesight :' should convert to '👓' : ':eyesight:'
+  - ': nerd :' should convert to '👓' : ':nerd:'
+  - ': dork :' should convert to '👓' : ':dork:'
+  - ': geek :' should convert to '👓' : ':geek:'
+  - ': eyeglasses :' should convert to '👓' : ':eyeglasses:'
+
+For emoji #461 '🎣' :
+  - ': hobby :' should convert to '🎣' : ':hobby:'
+  - ': fishing_pole_and_fish :' should convert to '🎣' : ':fishing_pole_and_fish:'
+
+For emoji #462 '☕' :
+  - ': cafe :' should convert to '☕' : ':cafe:'
+  - ': espresso :' should convert to '☕' : ':espresso:'
+  - ': coffee :' should convert to '☕' : ':coffee:'
+
+For emoji #463 '🍵' :
+  - ': bowl :' should convert to '🍵' : ':bowl:'
+  - ': tea :' should convert to '🍵' : ':tea:'
+
+For emoji #464 '🍶' :
+  - ': wine :' should convert to '🍶' : ':wine:'
+  - ': drunk :' should convert to '🍶' : ':drunk:'
+  - ': sake :' should convert to '🍶' : ':sake:'
+
+For emoji #465 '🍼' :
+  - ': container :' should convert to '🍼' : ':container:'
+  - ': milk :' should convert to '🍼' : ':milk:'
+  - ': baby_bottle :' should convert to '🍼' : ':baby_bottle:'
+
+For emoji #466 '🍺' :
+  - ': relax :' should convert to '🍺' : ':relax:'
+  - ': drunk :' should convert to '🍺' : ':drunk:'
+  - ': pub :' should convert to '🍺' : ':pub:'
+  - ': beer :' should convert to '🍺' : ':beer:'
+
+For emoji #467 '🍻' :
+  - ': beers :' should convert to '🍻' : ':beers:'
+
+For emoji #468 '🍸' :
+  - ': booze :' should convert to '🍸' : ':booze:'
+  - ': cocktail :' should convert to '🍸' : ':cocktail:'
+
+For emoji #469 '🍹' :
+  - ': tropical_drink :' should convert to '🍹' : ':tropical_drink:'
+
+For emoji #470 '🍷' :
+  - ': drunk :' should convert to '🍷' : ':drunk:'
+  - ': wine_glass :' should convert to '🍷' : ':wine_glass:'
+
+For emoji #471 '🍴' :
+  - ': cutlery :' should convert to '🍴' : ':cutlery:'
+  - ': kitchen :' should convert to '🍴' : ':kitchen:'
+  - ': fork_and_knife :' should convert to '🍴' : ':fork_and_knife:'
+
+For emoji #472 '🍕' :
+  - ': pizza :' should convert to '🍕' : ':pizza:'
+
+For emoji #473 '🍔' :
+  - 'meat' should convert to '🍔' : 'meat'
+  - ': fast_food :' should convert to '🍔' : ':fast_food:'
+  - ': beef :' should convert to '🍔' : ':beef:'
+  - ': cheeseburger :' should convert to '🍔' : ':cheeseburger:'
+  - ': mcdonalds :' should convert to '🍔' : ':mcdonalds:'
+  - ': burger :' should convert to '🍔' : ':burger:'
+  - ': king :' should convert to '🍔' : ':king:'
+
+For emoji #474 '🍟' :
+  - ': chips :' should convert to '🍟' : ':chips:'
+  - ': fast :' should convert to '🍟' : ':fast:'
+  - ': food :' should convert to '🍟' : ':food:'
+
+For emoji #475 '🍗' :
+  - ': drumstick :' should convert to '🍗' : ':drumstick:'
+  - ': turkey :' should convert to '🍗' : ':turkey:'
+  - ': poultry_leg :' should convert to '🍗' : ':poultry_leg:'
+
+For emoji #476 '🍖' :
+  - ': good :' should convert to '🍖' : ':good:'
+  - ': drumstick :' should convert to '🍖' : ':drumstick:'
+  - ': meat_on_bone :' should convert to '🍖' : ':meat_on_bone:'
+
+For emoji #477 '🍝' :
+  - ': noodles :' should convert to '🍝' : ':noodles:'
+  - ': noodle :' should convert to '🍝' : ':noodle:'
+  - ': spaghetti :' should convert to '🍝' : ':spaghetti:'
+
+For emoji #478 '🍛' :
+  - ': indian :' should convert to '🍛' : ':indian:'
+  - ': spicy :' should convert to '🍛' : ':spicy:'
+  - ': curry :' should convert to '🍛' : ':curry:'
+
+For emoji #479 '🍤' :
+  - ': seafood :' should convert to '🍤' : ':seafood:'
+  - ': appetizer :' should convert to '🍤' : ':appetizer:'
+  - ': fried_shrimp :' should convert to '🍤' : ':fried_shrimp:'
+
+For emoji #480 '🍱' :
+  - ': box :' should convert to '🍱' : ':box:'
+  - ': bento :' should convert to '🍱' : ':bento:'
+
+For emoji #481 '🍣' :
+  - ': fish :' should convert to '🍣' : ':fish:'
+  - ': rice :' should convert to '🍣' : ':rice:'
+  - ': sushi :' should convert to '🍣' : ':sushi:'
+
+For emoji #482 '🍥' :
+  - ':seafood' should convert to '🍥' : ':seafood'
+  - ': naruto :' should convert to '🍥' : ':naruto:'
+  - ': japan :' should convert to '🍥' : ':japan:'
+  - ': fish_cake :' should convert to '🍥' : ':fish_cake:'
+
+For emoji #483 '🍙' :
+  - ': rice_ball :' should convert to '🍙' : ':rice_ball:'
+
+For emoji #484 '🍘' :
+  - ': rice_cracker :' should convert to '🍘' : ':rice_cracker:'
+
+For emoji #485 '🍚' :
+  - ': china :' should convert to '🍚' : ':china:'
+  - ': asian :' should convert to '🍚' : ':asian:'
+  - ': rice :' should convert to '🍚' : ':rice:'
+
+For emoji #486 '🍜' :
+  - ': noodles :' should convert to '🍜' : ':noodles:'
+  - ': noodle :' should convert to '🍜' : ':noodle:'
+  - ': chipsticks :' should convert to '🍜' : ':chipsticks:'
+  - ': ramen :' should convert to '🍜' : ':ramen:'
+
+For emoji #487 '🍲' :
+  - ': soup :' should convert to '🍲' : ':soup:'
+  - ': stew :' should convert to '🍲' : ':stew:'
+
+For emoji #488 '🍢' :
+  - ': oden :' should convert to '🍢' : ':oden:'
+
+For emoji #489 '🍡' :
+  - ': barbecue :' should convert to '🍡' : ':barbecue:'
+  - ': dango :' should convert to '🍡' : ':dango:'
+
+For emoji #490 '🍳' :
+  - ': kitchen :' should convert to '🍳' : ':kitchen:'
+  - ': egg :' should convert to '🍳' : ':egg:'
+
+For emoji #491 '🍞' :
+  - ': toast :' should convert to '🍞' : ':toast:'
+  - ': bread :' should convert to '🍞' : ':bread:'
+
+For emoji #492 '🍩' :
+  - ': donut :' should convert to '🍩' : ':donut:'
+  - ': doughnut :' should convert to '🍩' : ':doughnut:'
+
+For emoji #493 '🍮' :
+  - ': custard :' should convert to '🍮' : ':custard:'
+
+For emoji #494 '🍦' :
+  - ': icecream :' should convert to '🍦' : ':icecream:'
+
+For emoji #495 '🍨' :
+  - ': ice_cream :' should convert to '🍨' : ':ice_cream:'
+
+For emoji #496 '🍧' :
+  - ': shaved_ice :' should convert to '🍧' : ':shaved_ice:'
+
+For emoji #497 '🎂' :
+  - ': cake :' should convert to '🎂' : ':cake:'
+  - ': celebration :' should convert to '🎂' : ':celebration:'
+  - ': birthday :' should convert to '🎂' : ':birthday:'
+
+For emoji #498 '🍰' :
+  - ': cake :' should convert to '🍰' : ':cake:'
+
+For emoji #499 '🍪' :
+  - ': oreo :' should convert to '🍪' : ':oreo:'
+  - ': chocolate :' should convert to '🍪' : ':chocolate:'
+  - ': cookie :' should convert to '🍪' : ':cookie:'
+
+For emoji #500 '🍫' :
+  - ': chocolate_bar :' should convert to '🍫' : ':chocolate_bar:'
+
+For emoji #501 '🍬' :
+  - ': candy :' should convert to '🍬' : ':candy:'
+
+For emoji #502 '🍭' :
+  - ': lollipop :' should convert to '🍭' : ':lollipop:'
+
+For emoji #503 '🍯' :
+  - ': bees :' should convert to '🍯' : ':bees:'
+  - ': kitchen :' should convert to '🍯' : ':kitchen:'
+  - ': honey_pot :' should convert to '🍯' : ':honey_pot:'
+
+For emoji #504 '🍎' :
+  - ': mac :' should convert to '🍎' : ':mac:'
+  - ': apple :' should convert to '🍎' : ':apple:'
+
+For emoji #505 '🍏' :
+  - ': green_apple :' should convert to '🍏' : ':green_apple:'
+
+For emoji #506 '🍊' :
+  - ': tangerine :' should convert to '🍊' : ':tangerine:'
+
+For emoji #507 '🍋' :
+  - ': lemon :' should convert to '🍋' : ':lemon:'
+
+For emoji #508 '🍒' :
+  - ': cherries :' should convert to '🍒' : ':cherries:'
+
+For emoji #509 '🍇' :
+  - ': wine :' should convert to '🍇' : ':wine:'
+  - ': grapes :' should convert to '🍇' : ':grapes:'
+
+For emoji #510 '🍉' :
+  - ': picnic :' should convert to '🍉' : ':picnic:'
+  - ': watermelon :' should convert to '🍉' : ':watermelon:'
+
+For emoji #511 '🍓' :
+  - ': strawberry :' should convert to '🍓' : ':strawberry:'
+
+For emoji #512 '🍑' :
+  - ': peach :' should convert to '🍑' : ':peach:'
+
+For emoji #513 '🍈' :
+  - ': melon :' should convert to '🍈' : ':melon:'
+
+For emoji #514 '🍌' :
+  - ': banana :' should convert to '🍌' : ':banana:'
+
+For emoji #515 '🍐' :
+  - ': pear :' should convert to '🍐' : ':pear:'
+
+For emoji #516 '🍍' :
+  - ': pineapple :' should convert to '🍍' : ':pineapple:'
+
+For emoji #517 '🍠' :
+  - ': sweet_potato :' should convert to '🍠' : ':sweet_potato:'
+
+For emoji #518 '🍆' :
+  - ': aubergine :' should convert to '🍆' : ':aubergine:'
+  - ': eggplant :' should convert to '🍆' : ':eggplant:'
+
+For emoji #519 '🍅' :
+  - ': tomato :' should convert to '🍅' : ':tomato:'
+
+For emoji #520 '🌽' :
+  - ': corn :' should convert to '🌽' : ':corn:'
+
+For emoji #521 '🏠' :
+  - ': house :' should convert to '🏠' : ':house:'
+
+For emoji #522 '🏡' :
+  - ': house_with_garden :' should convert to '🏡' : ':house_with_garden:'
+
+For emoji #523 '🏫' :
+  - ': student :' should convert to '🏫' : ':student:'
+  - ': education :' should convert to '🏫' : ':education:'
+  - ': learn :' should convert to '🏫' : ':learn:'
+  - ': teach :' should convert to '🏫' : ':teach:'
+  - ': school :' should convert to '🏫' : ':school:'
+
+For emoji #524 '🏢' :
+  - ': unit :' should convert to '🏢' : ':unit:'
+  - ': bureau :' should convert to '🏢' : ':bureau:'
+  - ': office :' should convert to '🏢' : ':office:'
+
+For emoji #525 '🏣' :
+  - ': post_office :' should convert to '🏣' : ':post_office:'
+
+For emoji #526 '🏥' :
+  - ': surgery :' should convert to '🏥' : ':surgery:'
+  - ': doctor :' should convert to '🏥' : ':doctor:'
+  - ': hospital :' should convert to '🏥' : ':hospital:'
+
+For emoji #527 '🏦' :
+  - ': cash :' should convert to '🏦' : ':cash:'
+  - ': enterprise :' should convert to '🏦' : ':enterprise:'
+  - ': bank :' should convert to '🏦' : ':bank:'
+
+For emoji #528 '🏪' :
+  - ': groceries :' should convert to '🏪' : ':groceries:'
+  - ': convenience_store :' should convert to '🏪' : ':convenience_store:'
+
+For emoji #529 '🏩' :
+  - ': dating :' should convert to '🏩' : ':dating:'
+  - ': love_hotel :' should convert to '🏩' : ':love_hotel:'
+
+For emoji #530 '🏨' :
+  - ': whotel :' should convert to '🏨' : ':whotel:'
+  - ': accomodation :' should convert to '🏨' : ':accomodation:'
+  - ': checkin :' should convert to '🏨' : ':checkin:'
+  - ': hotel :' should convert to '🏨' : ':hotel:'
+
+For emoji #531 '💒' :
+  - ': couple :' should convert to '💒' : ':couple:'
+  - ': marriage :' should convert to '💒' : ':marriage:'
+  - ': bride :' should convert to '💒' : ':bride:'
+  - ': groom :' should convert to '💒' : ':groom:'
+  - ': church :' should convert to '💒' : ':church:'
+  - ': wedding :' should convert to '💒' : ':wedding:'
+
+For emoji #532 '⛪' :
+  - ': religion :' should convert to '⛪' : ':religion:'
+  - ': christ :' should convert to '⛪' : ':christ:'
+  - ': church :' should convert to '⛪' : ':church:'
+
+For emoji #533 '🏬' :
+  - ': mall :' should convert to '🏬' : ':mall:'
+  - ': department_store :' should convert to '🏬' : ':department_store:'
+
+For emoji #534 '🏤' :
+  - ': european_post_office :' should convert to '🏤' : ':european_post_office:'
+
+For emoji #535 '🌇' :
+  - ': good_morning :' should convert to '🌇' : ':good_morning:'
+  - ': dawn :' should convert to '🌇' : ':dawn:'
+  - ': city_sunrise :' should convert to '🌇' : ':city_sunrise:'
+
+For emoji #536 '🌆' :
+  - ': evening :' should convert to '🌆' : ':evening:'
+  - ': sky :' should convert to '🌆' : ':sky:'
+  - ': buildings :' should convert to '🌆' : ':buildings:'
+  - ': city_sunset :' should convert to '🌆' : ':city_sunset:'
+
+For emoji #537 '🏯' :
+  - ': asia :' should convert to '🏯' : ':asia:'
+  - ': japanese_castle :' should convert to '🏯' : ':japanese_castle:'
+
+For emoji #538 '🏰' :
+  - ': royalty :' should convert to '🏰' : ':royalty:'
+  - ': history :' should convert to '🏰' : ':history:'
+  - ': european_castle :' should convert to '🏰' : ':european_castle:'
+
+For emoji #539 '⛺' :
+  - ': camping :' should convert to '⛺' : ':camping:'
+  - ': camp :' should convert to '⛺' : ':camp:'
+  - ': outdoors :' should convert to '⛺' : ':outdoors:'
+  - ': tent :' should convert to '⛺' : ':tent:'
+
+For emoji #540 '🏭' :
+  - ': industry :' should convert to '🏭' : ':industry:'
+  - ': pollution :' should convert to '🏭' : ':pollution:'
+  - ': smoke :' should convert to '🏭' : ':smoke:'
+  - ': factory :' should convert to '🏭' : ':factory:'
+
+For emoji #541 '🗼' :
+  - ': asia :' should convert to '🗼' : ':asia:'
+  - ': tokyo_tower :' should convert to '🗼' : ':tokyo_tower:'
+
+For emoji #542 '🗾' :
+  - ': nation :' should convert to '🗾' : ':nation:'
+  - ': country :' should convert to '🗾' : ':country:'
+  - ': asia :' should convert to '🗾' : ':asia:'
+  - ': island :' should convert to '🗾' : ':island:'
+  - ': japan :' should convert to '🗾' : ':japan:'
+
+For emoji #543 '🗻' :
+  - ': mountain :' should convert to '🗻' : ':mountain:'
+  - ': mount_fuji :' should convert to '🗻' : ':mount_fuji:'
+
+For emoji #544 '🌄' :
+  - ': view :' should convert to '🌄' : ':view:'
+  - ': sunrise_over_mountains :' should convert to '🌄' : ':sunrise_over_mountains:'
+
+For emoji #545 '🌅' :
+  - ': view :' should convert to '🌅' : ':view:'
+  - ': sunrise :' should convert to '🌅' : ':sunrise:'
+
+For emoji #546 '🌠' :
+  - ': night :' should convert to '🌠' : ':night:'
+  - ': falling :' should convert to '🌠' : ':falling:'
+  - ': sky :' should convert to '🌠' : ':sky:'
+  - ': bright :' should convert to '🌠' : ':bright:'
+  - ': stars :' should convert to '🌠' : ':stars:'
+
+For emoji #547 '🗽' :
+  - ': newyork :' should convert to '🗽' : ':newyork:'
+  - ': monument :' should convert to '🗽' : ':monument:'
+  - ': head :' should convert to '🗽' : ':head:'
+  - ': statue_of_liberty :' should convert to '🗽' : ':statue_of_liberty:'
+
+For emoji #548 '🌉' :
+  - ': sanfrancisco :' should convert to '🌉' : ':sanfrancisco:'
+  - ': bridge_at_night :' should convert to '🌉' : ':bridge_at_night:'
+
+For emoji #549 '🎠' :
+  - ': carnival :' should convert to '🎠' : ':carnival:'
+  - ': ride :' should convert to '🎠' : ':ride:'
+  - ': carousel_horse :' should convert to '🎠' : ':carousel_horse:'
+
+For emoji #550 '🌈' :
+  - ': unicorn :' should convert to '🌈' : ':unicorn:'
+  - ': sky :' should convert to '🌈' : ':sky:'
+  - ': color :' should convert to '🌈' : ':color:'
+  - ': rainbow :' should convert to '🌈' : ':rainbow:'
+
+For emoji #551 '🎡' :
+  - ': carnival :' should convert to '🎡' : ':carnival:'
+  - ': londoneye :' should convert to '🎡' : ':londoneye:'
+  - ': ferris_wheel :' should convert to '🎡' : ':ferris_wheel:'
+
+For emoji #552 '⛲' :
+  - ': fresh :' should convert to '⛲' : ':fresh:'
+  - ': fountain :' should convert to '⛲' : ':fountain:'
+
+For emoji #553 '🎢' :
+  - ': carnival :' should convert to '🎢' : ':carnival:'
+  - ': playground :' should convert to '🎢' : ':playground:'
+  - ': ride :' should convert to '🎢' : ':ride:'
+  - ': roller_coaster :' should convert to '🎢' : ':roller_coaster:'
+
+For emoji #554 '🚢' :
+  - ': titanic :' should convert to '🚢' : ':titanic:'
+  - ': deploy :' should convert to '🚢' : ':deploy:'
+  - ': cruise :' should convert to '🚢' : ':cruise:'
+  - ': ship :' should convert to '🚢' : ':ship:'
+
+For emoji #555 '🚤' :
+  - ': speedboat :' should convert to '🚤' : ':speedboat:'
+
+For emoji #556 '⛵' :
+  - ': sailboat :' should convert to '⛵' : ':sailboat:'
+
+For emoji #557 '🚣' :
+  - ': hobby :' should convert to '🚣' : ':hobby:'
+  - ': rowboat :' should convert to '🚣' : ':rowboat:'
+
+For emoji #558 '⚓' :
+  - ': ferry :' should convert to '⚓' : ':ferry:'
+  - ': boat :' should convert to '⚓' : ':boat:'
+  - ': anchor :' should convert to '⚓' : ':anchor:'
+
+For emoji #559 '🚀' :
+  - ': launch :' should convert to '🚀' : ':launch:'
+  - ': staffmode :' should convert to '🚀' : ':staffmode:'
+  - ': NASA :' should convert to '🚀' : ':NASA:'
+  - ': outer_space :' should convert to '🚀' : ':outer_space:'
+  - ': outer_space :' should convert to '🚀' : ':outer_space:'
+  - ': fly :' should convert to '🚀' : ':fly:'
+  - ': rocket :' should convert to '🚀' : ':rocket:'
+
+For emoji #560 '✈' :
+  - ': flight :' should convert to '✈' : ':flight:'
+  - ': fly :' should convert to '✈' : ':fly:'
+  - ': airplane :' should convert to '✈' : ':airplane:'
+
+For emoji #561 '🚁' :
+  - ': fly :' should convert to '🚁' : ':fly:'
+  - ': helicopter :' should convert to '🚁' : ':helicopter:'
+
+For emoji #562 '🚂' :
+  - ': train :' should convert to '🚂' : ':train:'
+  - ': steam_locomotive :' should convert to '🚂' : ':steam_locomotive:'
+
+For emoji #563 '🚊' :
+  - ': tram :' should convert to '🚊' : ':tram:'
+
+For emoji #564 '🚞' :
+  - ': mountain_railway :' should convert to '🚞' : ':mountain_railway:'
+
+For emoji #565 '🚲' :
+  - ': bicycle :' should convert to '🚲' : ':bicycle:'
+  - ': exercise :' should convert to '🚲' : ':exercise:'
+  - ': hipster :' should convert to '🚲' : ':hipster:'
+  - ': bike :' should convert to '🚲' : ':bike:'
+
+For emoji #566 '🚡' :
+  - ': ski :' should convert to '🚡' : ':ski:'
+  - ': aerial_tramway :' should convert to '🚡' : ':aerial_tramway:'
+
+For emoji #567 '🚟' :
+  - ': suspension_railway :' should convert to '🚟' : ':suspension_railway:'
+
+For emoji #568 '🚠' :
+  - ': ski :' should convert to '🚠' : ':ski:'
+  - ': mountain_cableway :' should convert to '🚠' : ':mountain_cableway:'
+
+For emoji #569 '🚜' :
+  - ': farming :' should convert to '🚜' : ':farming:'
+  - ': agriculture :' should convert to '🚜' : ':agriculture:'
+  - ': tractor :' should convert to '🚜' : ':tractor:'
+
+For emoji #570 '🚙' :
+  - ': blue_car :' should convert to '🚙' : ':blue_car:'
+
+For emoji #571 '🚘' :
+  - ': oncoming_automobile :' should convert to '🚘' : ':oncoming_automobile:'
+
+For emoji #572 '🚗' :
+  - ': red_car :' should convert to '🚗' : ':red_car:'
+
+For emoji #573 '🚕' :
+  - ': uber :' should convert to '🚕' : ':uber:'
+  - ': taxi :' should convert to '🚕' : ':taxi:'
+
+For emoji #574 '🚖' :
+  - ': uber :' should convert to '🚖' : ':uber:'
+  - ': oncoming_taxi :' should convert to '🚖' : ':oncoming_taxi:'
+
+For emoji #575 '🚛' :
+  - ': express :' should convert to '🚛' : ':express:'
+  - ': articulated_lorry :' should convert to '🚛' : ':articulated_lorry:'
+
+For emoji #576 '🚌' :
+  - ': bus :' should convert to '🚌' : ':bus:'
+
+For emoji #577 '🚍' :
+  - ': oncoming_bus :' should convert to '🚍' : ':oncoming_bus:'
+
+For emoji #578 '🚨' :
+  - ': police :' should convert to '🚨' : ':police:'
+  - ': ambulance :' should convert to '🚨' : ':ambulance:'
+  - ': 911 :' should convert to '🚨' : ':911:'
+  - ': emergency :' should convert to '🚨' : ':emergency:'
+  - ': alert :' should convert to '🚨' : ':alert:'
+  - ': error :' should convert to '🚨' : ':error:'
+  - ': pinged :' should convert to '🚨' : ':pinged:'
+  - ': rotating_light :' should convert to '🚨' : ':rotating_light:'
+
+For emoji #579 '🚓' :
+  - ': police_car :' should convert to '🚓' : ':police_car:'
+
+For emoji #580 '🚔' :
+  - ': 911 :' should convert to '🚔' : ':911:'
+  - ': oncoming_police_car :' should convert to '🚔' : ':oncoming_police_car:'
+
+For emoji #581 '🚒' :
+  - ': fire_engine :' should convert to '🚒' : ':fire_engine:'
+
+For emoji #582 '🚑' :
+  - ': 911 :' should convert to '🚑' : ':911:'
+  - ': hospital :' should convert to '🚑' : ':hospital:'
+  - ': ambulance :' should convert to '🚑' : ':ambulance:'
+
+For emoji #583 '🚐' :
+  - ': minibus :' should convert to '🚐' : ':minibus:'
+
+For emoji #584 '🚚' :
+  - ': truck :' should convert to '🚚' : ':truck:'
+
+For emoji #585 '🚋' :
+  - ': carriage :' should convert to '🚋' : ':carriage:'
+  - ': public :' should convert to '🚋' : ':public:'
+  - ': travel :' should convert to '🚋' : ':travel:'
+  - ': train :' should convert to '🚋' : ':train:'
+
+For emoji #586 '🚉' :
+  - ': public :' should convert to '🚉' : ':public:'
+  - ': station :' should convert to '🚉' : ':station:'
+
+For emoji #587 ':train2:' :
+  - ': train2 :' should convert to ':train2:' : ':train2:'
+
+For emoji #588 '🚅' :
+  - ': speed :' should convert to '🚅' : ':speed:'
+  - ': fast :' should convert to '🚅' : ':fast:'
+  - ': public :' should convert to '🚅' : ':public:'
+  - ': travel :' should convert to '🚅' : ':travel:'
+  - ': bullettrain_front :' should convert to '🚅' : ':bullettrain_front:'
+
+For emoji #589 '🚄' :
+  - ': bullettrain_side :' should convert to '🚄' : ':bullettrain_side:'
+
+For emoji #590 '🚈' :
+  - ': light_rail :' should convert to '🚈' : ':light_rail:'
+
+For emoji #591 '🚝' :
+  - ': monorail :' should convert to '🚝' : ':monorail:'
+
+For emoji #592 '🚃' :
+  - ': railway_car :' should convert to '🚃' : ':railway_car:'
+
+For emoji #593 '🚎' :
+  - ': bart :' should convert to '🚎' : ':bart:'
+  - ': trolleybus :' should convert to '🚎' : ':trolleybus:'
+
+For emoji #594 '🎫' :
+  - ': event :' should convert to '🎫' : ':event:'
+  - ': concert :' should convert to '🎫' : ':concert:'
+  - ': pass :' should convert to '🎫' : ':pass:'
+  - ': ticket :' should convert to '🎫' : ':ticket:'
+
+For emoji #595 '⛽' :
+  - ': gasstation :' should convert to '⛽' : ':gasstation:'
+  - ': petroleum :' should convert to '⛽' : ':petroleum:'
+  - ': fuelpump :' should convert to '⛽' : ':fuelpump:'
+
+For emoji #596 '🚦' :
+  - ': driving :' should convert to '🚦' : ':driving:'
+  - ': vertical_traffic_light :' should convert to '🚦' : ':vertical_traffic_light:'
+
+For emoji #597 '🚥' :
+  - ': stoplight :' should convert to '🚥' : ':stoplight:'
+  - ': signal :' should convert to '🚥' : ':signal:'
+  - ': traffic_light :' should convert to '🚥' : ':traffic_light:'
+
+For emoji #598 '⚠' :
+  - ': exclamation :' should convert to '⚠' : ':exclamation:'
+  - ': wip :' should convert to '⚠' : ':wip:'
+  - ': alert :' should convert to '⚠' : ':alert:'
+  - ': error :' should convert to '⚠' : ':error:'
+  - ': problem :' should convert to '⚠' : ':problem:'
+  - ': issue :' should convert to '⚠' : ':issue:'
+  - ': warning :' should convert to '⚠' : ':warning:'
+
+For emoji #599 '🚧' :
+  - ': wip :' should convert to '🚧' : ':wip:'
+  - ': progress :' should convert to '🚧' : ':progress:'
+  - ': caution :' should convert to '🚧' : ':caution:'
+  - ': warning :' should convert to '🚧' : ':warning:'
+  - ': construction :' should convert to '🚧' : ':construction:'
+
+For emoji #600 '🔰' :
+  - ': badge :' should convert to '🔰' : ':badge:'
+  - ': shield :' should convert to '🔰' : ':shield:'
+  - ': beginner :' should convert to '🔰' : ':beginner:'
+
+For emoji #601 '🏧' :
+  - ': cash :' should convert to '🏧' : ':cash:'
+  - ': payment :' should convert to '🏧' : ':payment:'
+  - ': bank :' should convert to '🏧' : ':bank:'
+  - ': atm :' should convert to '🏧' : ':atm:'
+
+For emoji #602 '🎰' :
+  - ': bet :' should convert to '🎰' : ':bet:'
+  - ': gamble :' should convert to '🎰' : ':gamble:'
+  - ': vegas :' should convert to '🎰' : ':vegas:'
+  - ': machine :' should convert to '🎰' : ':machine:'
+  - ': luck :' should convert to '🎰' : ':luck:'
+  - ': casino :' should convert to '🎰' : ':casino:'
+  - ': slot_machine :' should convert to '🎰' : ':slot_machine:'
+
+For emoji #603 '🚏' :
+  - ': wait :' should convert to '🚏' : ':wait:'
+  - ': busstop :' should convert to '🚏' : ':busstop:'
+
+For emoji #604 '💈' :
+  - ': hair :' should convert to '💈' : ':hair:'
+  - ': salon :' should convert to '💈' : ':salon:'
+  - ': style :' should convert to '💈' : ':style:'
+  - ': barber :' should convert to '💈' : ':barber:'
+
+For emoji #605 '♨' :
+  - ': bath :' should convert to '♨' : ':bath:'
+  - ': warm :' should convert to '♨' : ':warm:'
+  - ': relax :' should convert to '♨' : ':relax:'
+  - ': hotsprings :' should convert to '♨' : ':hotsprings:'
+
+For emoji #606 '🏁' :
+  - ': contest :' should convert to '🏁' : ':contest:'
+  - ': finishline :' should convert to '🏁' : ':finishline:'
+  - ': rase :' should convert to '🏁' : ':rase:'
+  - ': gokart :' should convert to '🏁' : ':gokart:'
+  - ': checkered_flag :' should convert to '🏁' : ':checkered_flag:'
+
+For emoji #607 '🎌' :
+  - ': nation :' should convert to '🎌' : ':nation:'
+  - ': country :' should convert to '🎌' : ':country:'
+  - ': border :' should convert to '🎌' : ':border:'
+  - ': crossed_flags :' should convert to '🎌' : ':crossed_flags:'
+
+For emoji #608 '🏮' :
+  - ': light :' should convert to '🏮' : ':light:'
+  - ': halloween :' should convert to '🏮' : ':halloween:'
+  - ': spooky :' should convert to '🏮' : ':spooky:'
+  - ': izakaya_lantern :' should convert to '🏮' : ':izakaya_lantern:'
+
+For emoji #609 '🗿' :
+  - ': easter :' should convert to '🗿' : ':easter:'
+  - ': island :' should convert to '🗿' : ':island:'
+  - ': statue :' should convert to '🗿' : ':statue:'
+  - ': moyai :' should convert to '🗿' : ':moyai:'
+
+For emoji #610 '🎪' :
+  - ': carnival :' should convert to '🎪' : ':carnival:'
+  - ': circus_tent :' should convert to '🎪' : ':circus_tent:'
+
+For emoji #611 '🎭' :
+  - ': acting :' should convert to '🎭' : ':acting:'
+  - ': theater :' should convert to '🎭' : ':theater:'
+  - ': drama :' should convert to '🎭' : ':drama:'
+  - ': performing_arts :' should convert to '🎭' : ':performing_arts:'
+
+For emoji #612 '📍' :
+  - ': location :' should convert to '📍' : ':location:'
+  - ': map :' should convert to '📍' : ':map:'
+  - ': here :' should convert to '📍' : ':here:'
+  - ': round_pushpin :' should convert to '📍' : ':round_pushpin:'
+
+For emoji #613 '🚩' :
+  - ': mark :' should convert to '🚩' : ':mark:'
+  - ': milestone :' should convert to '🚩' : ':milestone:'
+  - ': place :' should convert to '🚩' : ':place:'
+  - ': triangular_flag_on_post :' should convert to '🚩' : ':triangular_flag_on_post:'
+
+For emoji #614 '🔣' :
+  - ': note :' should convert to '🔣' : ':note:'
+  - ': ampersand :' should convert to '🔣' : ':ampersand:'
+  - ': percent :' should convert to '🔣' : ':percent:'
+  - ': glyphs :' should convert to '🔣' : ':glyphs:'
+  - ': characters :' should convert to '🔣' : ':characters:'
+  - ': symbols :' should convert to '🔣' : ':symbols:'
+
+For emoji #615 '◀' :
+  - ': left :' should convert to '◀' : ':left:'
+  - ': arrow_backward :' should convert to '◀' : ':arrow_backward:'
+
+For emoji #616 '⬇' :
+  - ': bottom :' should convert to '⬇' : ':bottom:'
+  - ': arrow_down :' should convert to '⬇' : ':arrow_down:'
+
+For emoji #617 '▶' :
+  - ': right :' should convert to '▶' : ':right:'
+  - ': arrow_forward :' should convert to '▶' : ':arrow_forward:'
+
+For emoji #618 '⬅' :
+  - ': previous :' should convert to '⬅' : ':previous:'
+  - ': back :' should convert to '⬅' : ':back:'
+  - ': arrow_left :' should convert to '⬅' : ':arrow_left:'
+
+For emoji #619 '🔠' :
+  - ': ABCD :' should convert to '🔠' : ':ABCD:'
+
+For emoji #620 '🔡' :
+  - ': abcd :' should convert to '🔡' : ':abcd:'
+
+For emoji #621 '🔤' :
+  - ': abc :' should convert to '🔤' : ':abc:'
+
+For emoji #622 '↙' :
+  - ': arrow_lower_left :' should convert to '↙' : ':arrow_lower_left:'
+
+For emoji #623 '↘' :
+  - ': arrow_lower_right :' should convert to '↘' : ':arrow_lower_right:'
+
+For emoji #624 '➡' :
+  - ': next :' should convert to '➡' : ':next:'
+  - ': arrow_right :' should convert to '➡' : ':arrow_right:'
+
+For emoji #625 '⬆' :
+  - ': continue :' should convert to '⬆' : ':continue:'
+  - ': top :' should convert to '⬆' : ':top:'
+  - ': arrow_up :' should convert to '⬆' : ':arrow_up:'
+
+For emoji #626 '↖' :
+  - ': arrow_upper_left :' should convert to '↖' : ':arrow_upper_left:'
+
+For emoji #627 '↗' :
+  - ': arrow_upper_right :' should convert to '↗' : ':arrow_upper_right:'
+
+For emoji #628 '⏬' :
+  - ': arrow_double_down :' should convert to '⏬' : ':arrow_double_down:'
+
+For emoji #629 '⏫' :
+  - ': arrow_double_up :' should convert to '⏫' : ':arrow_double_up:'
+
+For emoji #630 '🔽' :
+  - ': arrow_down_small :' should convert to '🔽' : ':arrow_down_small:'
+
+For emoji #631 '⤵' :
+  - ': arrow_heading_down :' should convert to '⤵' : ':arrow_heading_down:'
+
+For emoji #632 '⤴' :
+  - ': arrow_heading_up :' should convert to '⤴' : ':arrow_heading_up:'
+
+For emoji #633 '↩' :
+  - ': undo :' should convert to '↩' : ':undo:'
+  - ': leftwards_arrow_with_hook :' should convert to '↩' : ':leftwards_arrow_with_hook:'
+
+For emoji #634 '↪' :
+  - ': rotade :' should convert to '↪' : ':rotade:'
+  - ': arrow_right_hook :' should convert to '↪' : ':arrow_right_hook:'
+
+For emoji #635 '↔' :
+  - ': left_right_arrow :' should convert to '↔' : ':left_right_arrow:'
+
+For emoji #636 '↕' :
+  - ': way :' should convert to '↕' : ':way:'
+  - ': arrow_up_down :' should convert to '↕' : ':arrow_up_down:'
+
+For emoji #637 '🔼' :
+  - ': triangle :' should convert to '🔼' : ':triangle:'
+  - ': forward :' should convert to '🔼' : ':forward:'
+  - ': arrow_up_small :' should convert to '🔼' : ':arrow_up_small:'
+
+For emoji #638 '🔃' :
+  - ': sync :' should convert to '🔃' : ':sync:'
+  - ': cycle :' should convert to '🔃' : ':cycle:'
+  - ': round :' should convert to '🔃' : ':round:'
+  - ': repeat :' should convert to '🔃' : ':repeat:'
+  - ': arrows_clockwise :' should convert to '🔃' : ':arrows_clockwise:'
+
+For emoji #639 '🔄' :
+  - ': arrows_counterclockwise :' should convert to '🔄' : ':arrows_counterclockwise:'
+
+For emoji #640 '⏪' :
+  - ': fast_backward :' should convert to '⏪' : ':fast_backward:'
+
+For emoji #641 '⏩' :
+  - ': speed :' should convert to '⏩' : ':speed:'
+  - ': continue :' should convert to '⏩' : ':continue:'
+  - ': fast_forward :' should convert to '⏩' : ':fast_forward:'
+
+For emoji #642 'ℹ' :
+  - ': information_source :' should convert to 'ℹ' : ':information_source:'
+
+For emoji #643 '🆗' :
+  - ': OK :' should convert to '🆗' : ':OK:'
+
+For emoji #644 '🔀' :
+  - ': shuffle :' should convert to '🔀' : ':shuffle:'
+  - ': random :' should convert to '🔀' : ':random:'
+  - ': twisted_rightwards_arrows :' should convert to '🔀' : ':twisted_rightwards_arrows:'
+
+For emoji #645 '🔁' :
+  - ': loop :' should convert to '🔁' : ':loop:'
+  - ': record :' should convert to '🔁' : ':record:'
+  - ': repeat :' should convert to '🔁' : ':repeat:'
+
+For emoji #646 '🔂' :
+  - ': repeat_one :' should convert to '🔂' : ':repeat_one:'
+
+For emoji #647 '🆕' :
+  - ': start :' should convert to '🆕' : ':start:'
+  - ': new :' should convert to '🆕' : ':new:'
+
+For emoji #648 '🔝' :
+  - ': TOP :' should convert to '🔝' : ':TOP:'
+
+For emoji #649 '🆙' :
+  - ': above :' should convert to '🆙' : ':above:'
+  - ': high :' should convert to '🆙' : ':high:'
+  - ': UP :' should convert to '🆙' : ':UP:'
+
+For emoji #650 '🆒' :
+  - ': COOL :' should convert to '🆒' : ':COOL:'
+
+For emoji #651 '🆓' :
+  - ': FREE :' should convert to '🆓' : ':FREE:'
+
+For emoji #652 '🆖' :
+  - ': NG :' should convert to '🆖' : ':NG:'
+
+For emoji #653 '🎦' :
+  - ': movie :' should convert to '🎦' : ':movie:'
+  - ': record :' should convert to '🎦' : ':record:'
+  - ': film :' should convert to '🎦' : ':film:'
+  - ': cinema :' should convert to '🎦' : ':cinema:'
+
+For emoji #654 '🈁' :
+  - ': here :' should convert to '🈁' : ':here:'
+  - ': katakana :' should convert to '🈁' : ':katakana:'
+  - ': destination :' should convert to '🈁' : ':destination:'
+  - ': koko :' should convert to '🈁' : ':koko:'
+
+For emoji #655 '📶' :
+  - ': reception :' should convert to '📶' : ':reception:'
+  - ': phone :' should convert to '📶' : ':phone:'
+  - ': internet :' should convert to '📶' : ':internet:'
+  - ': connection :' should convert to '📶' : ':connection:'
+  - ': wifi :' should convert to '📶' : ':wifi:'
+  - ': bluetooth :' should convert to '📶' : ':bluetooth:'
+  - ': signal_strength :' should convert to '📶' : ':signal_strength:'
+
+For emoji #656 '🈂' :
+  - ': katakana :' should convert to '🈂' : ':katakana:'
+  - ': sa :' should convert to '🈂' : ':sa:'
+
+For emoji #657 '🚻' :
+  - ': toilet :' should convert to '🚻' : ':toilet:'
+  - ': refresh :' should convert to '🚻' : ':refresh:'
+  - ': wc :' should convert to '🚻' : ':wc:'
+  - ': gender :' should convert to '🚻' : ':gender:'
+  - ': restroom :' should convert to '🚻' : ':restroom:'
+
+For emoji #658 '🚹' :
+  - ': toilet :' should convert to '🚹' : ':toilet:'
+  - ': restroom :' should convert to '🚹' : ':restroom:'
+  - ': wc :' should convert to '🚹' : ':wc:'
+  - ': gender :' should convert to '🚹' : ':gender:'
+  - ': mens :' should convert to '🚹' : ':mens:'
+
+For emoji #659 '🚺' :
+  - ': toilet :' should convert to '🚺' : ':toilet:'
+  - ': loo :' should convert to '🚺' : ':loo:'
+  - ': restroom :' should convert to '🚺' : ':restroom:'
+  - ': gender :' should convert to '🚺' : ':gender:'
+  - ': womens :' should convert to '🚺' : ':womens:'
+
+For emoji #660 '🚼' :
+  - ': child :' should convert to '🚼' : ':child:'
+  - ': baby_symbol :' should convert to '🚼' : ':baby_symbol:'
+
+For emoji #661 '🚭' :
+  - ': cigarette :' should convert to '🚭' : ':cigarette:'
+  - ': smell :' should convert to '🚭' : ':smell:'
+  - ': smoke :' should convert to '🚭' : ':smoke:'
+  - ': no_smoking :' should convert to '🚭' : ':no_smoking:'
+
+For emoji #662 '🅿' :
+  - ': parking :' should convert to '🅿' : ':parking:'
+
+For emoji #663 '♿' :
+  - ': disabled :' should convert to '♿' : ':disabled:'
+  - ': a11y :' should convert to '♿' : ':a11y:'
+  - ': accessibility :' should convert to '♿' : ':accessibility:'
+  - ': wheelchair :' should convert to '♿' : ':wheelchair:'
+
+For emoji #664 '🚇' :
+  - ': mrt :' should convert to '🚇' : ':mrt:'
+  - ': underground :' should convert to '🚇' : ':underground:'
+  - ': tube :' should convert to '🚇' : ':tube:'
+  - ': metro :' should convert to '🚇' : ':metro:'
+
+For emoji #665 '🛄' :
+  - ': airport :' should convert to '🛄' : ':airport:'
+  - ': transport :' should convert to '🛄' : ':transport:'
+  - ': baggage_claim :' should convert to '🛄' : ':baggage_claim:'
+
+For emoji #666 '🉑' :
+  - ': good :' should convert to '🉑' : ':good:'
+  - ': kanji :' should convert to '🉑' : ':kanji:'
+  - ': agree :' should convert to '🉑' : ':agree:'
+  - ': yes :' should convert to '🉑' : ':yes:'
+
+For emoji #667 '🚾' :
+  - ': toilet :' should convert to '🚾' : ':toilet:'
+  - ': restroom :' should convert to '🚾' : ':restroom:'
+
+For emoji #668 '🚰' :
+  - ': liquid :' should convert to '🚰' : ':liquid:'
+  - ': restroom :' should convert to '🚰' : ':restroom:'
+  - ': cleaning :' should convert to '🚰' : ':cleaning:'
+  - ': faucet :' should convert to '🚰' : ':faucet:'
+  - ': potable_water :' should convert to '🚰' : ':potable_water:'
+
+For emoji #669 '🚮' :
+  - ': info :' should convert to '🚮' : ':info:'
+  - ': put_litter_in_its_place :' should convert to '🚮' : ':put_litter_in_its_place:'
+
+For emoji #670 'Ⓜ' :
+  - ': m :' should convert to 'Ⓜ' : ':m:'
+  - ': subway :' should convert to 'Ⓜ' : ':subway:'
+
+For emoji #671 '🛂' :
+  - ': custom :' should convert to '🛂' : ':custom:'
+
+For emoji #672 '🛅' :
+  - ': travel :' should convert to '🛅' : ':travel:'
+  - ': left_luggage :' should convert to '🛅' : ':left_luggage:'
+
+For emoji #673 '🛃' :
+  - ': passport :' should convert to '🛃' : ':passport:'
+  - ': border :' should convert to '🛃' : ':border:'
+
+For emoji #674 '🉐' :
+  - ': kanji :' should convert to '🉐' : ':kanji:'
+  - ': obtain :' should convert to '🉐' : ':obtain:'
+  - ': get :' should convert to '🉐' : ':get:'
+  - ': circle :' should convert to '🉐' : ':circle:'
+  - ': ideograph_advantage :' should convert to '🉐' : ':ideograph_advantage:'
+
+For emoji #675 '🆘' :
+  - ': help :' should convert to '🆘' : ':help:'
+  - ': emergency :' should convert to '🆘' : ':emergency:'
+  - ': 911 :' should convert to '🆘' : ':911:'
+  - ': sos :' should convert to '🆘' : ':sos:'
+
+For emoji #676 '🆔' :
+  - ': id :' should convert to '🆔' : ':id:'
+
+For emoji #677 '🚫' :
+  - ': forbid :' should convert to '🚫' : ':forbid:'
+  - ': limit :' should convert to '🚫' : ':limit:'
+  - ': denied :' should convert to '🚫' : ':denied:'
+  - ': disallow :' should convert to '🚫' : ':disallow:'
+  - ': circle :' should convert to '🚫' : ':circle:'
+  - ': no_entry_sign :' should convert to '🚫' : ':no_entry_sign:'
+
+For emoji #678 '🔞' :
+  - ': 18 :' should convert to '🔞' : ':18:'
+  - ': pub :' should convert to '🔞' : ':pub:'
+  - ': night :' should convert to '🔞' : ':night:'
+  - ': minor :' should convert to '🔞' : ':minor:'
+  - ': circle :' should convert to '🔞' : ':circle:'
+  - ': underage :' should convert to '🔞' : ':underage:'
+
+For emoji #679 '📵' :
+  - ': iphone :' should convert to '📵' : ':iphone:'
+  - ': mute :' should convert to '📵' : ':mute:'
+  - ': circle :' should convert to '📵' : ':circle:'
+  - ': no_mobile_phones :' should convert to '📵' : ':no_mobile_phones:'
+
+For emoji #680 '🚯' :
+  - ': trash :' should convert to '🚯' : ':trash:'
+  - ': bin :' should convert to '🚯' : ':bin:'
+  - ': garbage :' should convert to '🚯' : ':garbage:'
+  - ': circle :' should convert to '🚯' : ':circle:'
+  - ': do_not_litter :' should convert to '🚯' : ':do_not_litter:'
+
+For emoji #681 '🚱' :
+  - ': faucet :' should convert to '🚱' : ':faucet:'
+  - ': tap :' should convert to '🚱' : ':tap:'
+  - ': circle :' should convert to '🚱' : ':circle:'
+  - ': non :' should convert to '🚱' : ':non:'
+
+For emoji #682 '🚳' :
+  - ': cyclist :' should convert to '🚳' : ':cyclist:'
+  - ': prohibited :' should convert to '🚳' : ':prohibited:'
+  - ': circle :' should convert to '🚳' : ':circle:'
+  - ': no_bicycles :' should convert to '🚳' : ':no_bicycles:'
+
+For emoji #683 '🚷' :
+  - ': rules :' should convert to '🚷' : ':rules:'
+  - ': crossing :' should convert to '🚷' : ':crossing:'
+  - ': walking :' should convert to '🚷' : ':walking:'
+  - ': circle :' should convert to '🚷' : ':circle:'
+  - ': no_pedestrians :' should convert to '🚷' : ':no_pedestrians:'
+
+For emoji #684 '🚸' :
+  - ': warning :' should convert to '🚸' : ':warning:'
+  - ': danger :' should convert to '🚸' : ':danger:'
+  - ': driving :' should convert to '🚸' : ':driving:'
+
+For emoji #685 '⛔' :
+  - ': limit :' should convert to '⛔' : ':limit:'
+  - ': denied :' should convert to '⛔' : ':denied:'
+  - ': circle :' should convert to '⛔' : ':circle:'
+  - ': no_entry :' should convert to '⛔' : ':no_entry:'
+
+For emoji #686 '❇' :
+  - ': stars :' should convert to '❇' : ':stars:'
+  - ': fireworks :' should convert to '❇' : ':fireworks:'
+  - ': sparkle :' should convert to '❇' : ':sparkle:'
+
+For emoji #687 '✴' :
+  - ': eight_pointed_black_star :' should convert to '✴' : ':eight_pointed_black_star:'
+
+For emoji #688 '💟' :
+  - ': heart_decoration :' should convert to '💟' : ':heart_decoration:'
+
+For emoji #689 '📳' :
+  - ': phone :' should convert to '📳' : ':phone:'
+  - ': vibration_mode :' should convert to '📳' : ':vibration_mode:'
+
+For emoji #690 '📴' :
+  - ': mute :' should convert to '📴' : ':mute:'
+  - ': silence :' should convert to '📴' : ':silence:'
+  - ': quiet :' should convert to '📴' : ':quiet:'
+  - ': mobile_phone_off :' should convert to '📴' : ':mobile_phone_off:'
+
+For emoji #691 '💹' :
+  - ': yen :' should convert to '💹' : ':yen:'
+  - ': chart :' should convert to '💹' : ':chart:'
+
+For emoji #692 '💱' :
+  - ': travel :' should convert to '💱' : ':travel:'
+  - ': currency_exchange :' should convert to '💱' : ':currency_exchange:'
+
+For emoji #693 '♈' :
+  - ': aries :' should convert to '♈' : ':aries:'
+
+For emoji #694 '♉' :
+  - ': taurus :' should convert to '♉' : ':taurus:'
+
+For emoji #695 '♊' :
+  - ': gemini :' should convert to '♊' : ':gemini:'
+
+For emoji #696 '♋' :
+  - ': cancer :' should convert to '♋' : ':cancer:'
+
+For emoji #697 '♌' :
+  - ': leo :' should convert to '♌' : ':leo:'
+
+For emoji #698 '♍' :
+  - ': virgo :' should convert to '♍' : ':virgo:'
+
+For emoji #699 '♎' :
+  - ': libra :' should convert to '♎' : ':libra:'
+
+For emoji #700 '♏' :
+  - ': scorpio :' should convert to '♏' : ':scorpio:'
+  - ': scorpius :' should convert to '♏' : ':scorpius:'
+
+For emoji #701 '♐' :
+  - ': sagittarius :' should convert to '♐' : ':sagittarius:'
+
+For emoji #702 '♑' :
+  - ': capricorn :' should convert to '♑' : ':capricorn:'
+
+For emoji #703 '♒' :
+  - ': aquarius :' should convert to '♒' : ':aquarius:'
+
+For emoji #704 '♓' :
+  - ': pisces :' should convert to '♓' : ':pisces:'
+
+For emoji #705 '⛎' :
+  - ': zodiac :' should convert to '⛎' : ':zodiac:'
+  - ': constellation :' should convert to '⛎' : ':constellation:'
+  - ': astrology :' should convert to '⛎' : ':astrology:'
+  - ': ophiuchus :' should convert to '⛎' : ':ophiuchus:'
+
+For emoji #706 '🔯' :
+  - ': religion :' should convert to '🔯' : ':religion:'
+  - ': jewish :' should convert to '🔯' : ':jewish:'
+  - ': hexagram :' should convert to '🔯' : ':hexagram:'
+  - ': six_pointed_star :' should convert to '🔯' : ':six_pointed_star:'
+
+For emoji #707 '❎' :
+  - ': x :' should convert to '❎' : ':x:'
+  - ': deny :' should convert to '❎' : ':deny:'
+  - ': negative_squared_cross_mark :' should convert to '❎' : ':negative_squared_cross_mark:'
+
+For emoji #708 '🅰' :
+  - ': a :' should convert to '🅰' : ':a:'
+
+For emoji #709 '🅱' :
+  - ': b :' should convert to '🅱' : ':b:'
+
+For emoji #710 '🆎' :
+  - ': ab :' should convert to '🆎' : ':ab:'
+
+For emoji #711 '💠' :
+  - ': jewel :' should convert to '💠' : ':jewel:'
+  - ': gem :' should convert to '💠' : ':gem:'
+  - ': crystal :' should convert to '💠' : ':crystal:'
+  - ': fancy :' should convert to '💠' : ':fancy:'
+  - ': diamond_shape_with_a_dot_inside :' should convert to '💠' : ':diamond_shape_with_a_dot_inside:'
+
+For emoji #712 '♻' :
+  - ': environment :' should convert to '♻' : ':environment:'
+  - ': garbage :' should convert to '♻' : ':garbage:'
+  - ': trash :' should convert to '♻' : ':trash:'
+  - ': recycle :' should convert to '♻' : ':recycle:'
+
+For emoji #713 '🔚' :
+  - ': end :' should convert to '🔚' : ':end:'
+
+For emoji #714 '🔙' :
+  - ': return :' should convert to '🔙' : ':return:'
+  - ': back :' should convert to '🔙' : ':back:'
+
+For emoji #715 '🔛' :
+  - ': on :' should convert to '🔛' : ':on:'
+
+For emoji #716 '🔜' :
+  - ': soon :' should convert to '🔜' : ':soon:'
+
+For emoji #717 '💲' :
+  - ': payment :' should convert to '💲' : ':payment:'
+  - ': currency :' should convert to '💲' : ':currency:'
+  - ': heavy_dollar_sign :' should convert to '💲' : ':heavy_dollar_sign:'
+
+For emoji #718 '©' :
+  - ': ip :' should convert to '©' : ':ip:'
+  - ': license :' should convert to '©' : ':license:'
+  - ': circle :' should convert to '©' : ':circle:'
+  - ': copyright :' should convert to '©' : ':copyright:'
+
+For emoji #719 '®' :
+  - ': circle :' should convert to '®' : ':circle:'
+  - ': registered :' should convert to '®' : ':registered:'
+
+For emoji #720 '™' :
+  - ': trademark :' should convert to '™' : ':trademark:'
+  - ': brand :' should convert to '™' : ':brand:'
+  - ': tm :' should convert to '™' : ':tm:'
+
+For emoji #721 '❌' :
+  - ': no :' should convert to '❌' : ':no:'
+  - ': delete :' should convert to '❌' : ':delete:'
+  - ': remove :' should convert to '❌' : ':remove:'
+  - ': x :' should convert to '❌' : ':x:'
+
+For emoji #722 '‼' :
+  - ': exclamation :' should convert to '‼' : ':exclamation:'
+  - ': surprise :' should convert to '‼' : ':surprise:'
+  - ': bangbang :' should convert to '‼' : ':bangbang:'
+
+For emoji #723 '⁉' :
+  - ': wat :' should convert to '⁉' : ':wat:'
+  - ': punctuation :' should convert to '⁉' : ':punctuation:'
+  - ': surprise :' should convert to '⁉' : ':surprise:'
+  - ': interrobang :' should convert to '⁉' : ':interrobang:'
+
+For emoji #724 '⭕' :
+  - ': circle :' should convert to '⭕' : ':circle:'
+  - ': round :' should convert to '⭕' : ':round:'
+  - ': o :' should convert to '⭕' : ':o:'
+
+For emoji #725 '✖' :
+  - ': heavy_multiplication_x :' should convert to '✖' : ':heavy_multiplication_x:'
+
+For emoji #726 '➕' :
+  - ': addition :' should convert to '➕' : ':addition:'
+  - ': more :' should convert to '➕' : ':more:'
+  - ': increase :' should convert to '➕' : ':increase:'
+  - ': heavy_plus_sign :' should convert to '➕' : ':heavy_plus_sign:'
+
+For emoji #727 '➖' :
+  - ': subtract :' should convert to '➖' : ':subtract:'
+  - ': less :' should convert to '➖' : ':less:'
+  - ': heavy_minus_sign :' should convert to '➖' : ':heavy_minus_sign:'
+
+For emoji #728 '➗' :
+  - ': divide :' should convert to '➗' : ':divide:'
+  - ': heavy_division_sign :' should convert to '➗' : ':heavy_division_sign:'
+
+For emoji #729 '💮' :
+  - ': white_flower :' should convert to '💮' : ':white_flower:'
+
+For emoji #730 '✔' :
+  - ': nike :' should convert to '✔' : ':nike:'
+  - ': heavy_check_mark :' should convert to '✔' : ':heavy_check_mark:'
+
+For emoji #731 '☑' :
+  - ': agree :' should convert to '☑' : ':agree:'
+  - ': confirm :' should convert to '☑' : ':confirm:'
+  - ': ballot_box_with_check :' should convert to '☑' : ':ballot_box_with_check:'
+
+For emoji #732 '🔘' :
+  - ': input :' should convert to '🔘' : ':input:'
+  - ': old :' should convert to '🔘' : ':old:'
+  - ': circle :' should convert to '🔘' : ':circle:'
+  - ': radio_button :' should convert to '🔘' : ':radio_button:'
+
+For emoji #733 '🔗' :
+  - ': rings :' should convert to '🔗' : ':rings:'
+  - ': url :' should convert to '🔗' : ':url:'
+  - ': link :' should convert to '🔗' : ':link:'
+
+For emoji #734 '➰' :
+  - ': scribble :' should convert to '➰' : ':scribble:'
+  - ': draw :' should convert to '➰' : ':draw:'
+  - ': squiggle :' should convert to '➰' : ':squiggle:'
+  - ': curly_loop :' should convert to '➰' : ':curly_loop:'
+
+For emoji #735 '〰' :
+  - ': draw :' should convert to '〰' : ':draw:'
+  - ': line :' should convert to '〰' : ':line:'
+  - ': moustache :' should convert to '〰' : ':moustache:'
+  - ': mustache :' should convert to '〰' : ':mustache:'
+  - ': squiggle :' should convert to '〰' : ':squiggle:'
+  - ': scribble :' should convert to '〰' : ':scribble:'
+  - ': wavy_dash :' should convert to '〰' : ':wavy_dash:'
+
+For emoji #736 '〽' :
+  - ': part_alternation_mark :' should convert to '〽' : ':part_alternation_mark:'
+
+For emoji #737 '🔱' :
+  - ': spear :' should convert to '🔱' : ':spear:'
+  - ': trident :' should convert to '🔱' : ':trident:'
+
+For emoji #738 '▪' :
+  - ': black_small_square :' should convert to '▪' : ':black_small_square:'
+
+For emoji #739 '▫' :
+  - ': white_small_square :' should convert to '▫' : ':white_small_square:'
+
+For emoji #740 '◾' :
+  - ': black_medium_small_square :' should convert to '◾' : ':black_medium_small_square:'
+
+For emoji #741 '◽' :
+  - ': white_medium_small_square :' should convert to '◽' : ':white_medium_small_square:'
+
+For emoji #742 '◼' :
+  - ': black_medium_square :' should convert to '◼' : ':black_medium_square:'
+
+For emoji #743 '◻' :
+  - ': white_medium_square :' should convert to '◻' : ':white_medium_square:'
+
+For emoji #744 '⬛' :
+  - ': black_large_square :' should convert to '⬛' : ':black_large_square:'
+
+For emoji #745 '⬜' :
+  - ': white_large_square :' should convert to '⬜' : ':white_large_square:'
+
+For emoji #746 '✅' :
+  - ': white_check_mark :' should convert to '✅' : ':white_check_mark:'
+
+For emoji #747 '🔲' :
+  - ': black_square_button :' should convert to '🔲' : ':black_square_button:'
+
+For emoji #748 '🔳' :
+  - ': white_square_button :' should convert to '🔳' : ':white_square_button:'
+
+For emoji #749 '⚫' :
+  - ': black_circle :' should convert to '⚫' : ':black_circle:'
+
+For emoji #750 '⚪' :
+  - ': white_circle :' should convert to '⚪' : ':white_circle:'
+
+For emoji #751 '🔴' :
+  - ': red_circle :' should convert to '🔴' : ':red_circle:'
+
+For emoji #752 '🔵' :
+  - ': large_blue_circle :' should convert to '🔵' : ':large_blue_circle:'
+
+For emoji #753 '🔷' :
+  - ': large_blue_diamond :' should convert to '🔷' : ':large_blue_diamond:'
+
+For emoji #754 '🔶' :
+  - ': large_orange_diamond :' should convert to '🔶' : ':large_orange_diamond:'
+
+For emoji #755 '🔹' :
+  - ': small_blue_diamond :' should convert to '🔹' : ':small_blue_diamond:'
+
+For emoji #756 '🔸' :
+  - ': small_orange_diamond :' should convert to '🔸' : ':small_orange_diamond:'
+
+For emoji #757 '🔺' :
+  - ': small_red_triangle :' should convert to '🔺' : ':small_red_triangle:'
+
+For emoji #758 '🔻' :
+  - ': small_red_triangle_down :' should convert to '🔻' : ':small_red_triangle_down:'
