@@ -30,7 +30,14 @@ Recette pour tarte aux pommes.
    [![tarte-aux-pommes-2.jpg]({filename}images/tarte-aux-pommes-2.jpg){width=60%}]({filename}images/tarte-aux-pommes-2.jpg)
 
 ## Photo
-[![tarte-aux-pommes-3.jpg]({filename}images/tarte-aux-pommes-3.jpg){width=60%}]({filename}images/tarte-aux-pommes-3.jpg)
+- Une tentative dans un plat à gratin :
+  [![tarte-aux-pommes-3.jpg]({filename}images/tarte-aux-pommes-3.jpg){width=60%}]({filename}images/tarte-aux-pommes-3.jpg)
+
+- Une part de tarte :
+  [![tarte-aux-pommes-4.jpg]({filename}images/tarte-aux-pommes-4.jpg){width=60%}]({filename}images/tarte-aux-pommes-4.jpg)
+
+- Une autre tentative, mieux réussie grâce à un plat à tarte :
+  [![tarte-aux-pommes-5.jpg]({filename}images/tarte-aux-pommes-5.jpg){width=60%}]({filename}images/tarte-aux-pommes-5.jpg)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace vanille ou de la chantilly ! *Miam !*
