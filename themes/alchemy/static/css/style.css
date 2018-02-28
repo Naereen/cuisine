@@ -21,6 +21,13 @@ body {
     background: url(restaurant.png) #f5f5f5;
 }
 
+p, a, em, i, ul, ol, li, textarea, h1, h2, h3, h4, h5, h6 {
+    -webkit-font-feature-settings: "liga" on, "hlig" on, "hist" on, "dlig" on, "zero" on, "calt" on, "swsh" on, "kern" on, "locl" on;
+    -moz-font-feature-settings: "liga" on, "hlig" on, "hist" on, "dlig" on, "zero" on, "calt" on, "swsh" on, "kern" on, "locl" on;
+    -ms-font-feature-settings: "liga" on, "hlig" on, "hist" on, "dlig" on, "zero" on, "calt" on, "swsh" on, "kern" on, "locl" on;
+    font-feature-settings: "liga" on, "hlig" on, "hist" on, "dlig" on, "zero" on, "calt" on, "swsh" on, "kern" on, "locl" on;
+}
+
 .list-inline {
     text-align: left;
 }
