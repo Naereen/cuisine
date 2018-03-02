@@ -29,7 +29,7 @@ Recette de la croziflette, un délicieux gratin de pâtes de blé noir au rebloc
 7. Faire cuire maximum 20 minutes dans un four à 200°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 10 minutes (le dessus ne doit pas trop cramer).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![croziflette.jpg]({filename}images/croziflette.jpg){width=55%}]({filename}images/croziflette.jpg)
 
 ## Remarques
 - :cutlery: Servir bien chaud, avec de la salade verte pour faire un plat complet.

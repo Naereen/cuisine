@@ -35,8 +35,10 @@ Recette pour un gâteau nantais (inspiré de [la recette officielle](https://www
 8. Quand le gâteau est froid, mélanger 2 cl de rhum et un peu d'eau avec le sucre glace (pour obtenir une consistance fluide) et napper avec ce glaçage à l'aide d'une spatule. Il ne faut pas mettre trop de rhum puisque cette quantité ne sera pas évaporée par la cuisson.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![gateau-nantais-1.jpg]({filename}images/gateau-nantais-1.jpg){width=50%}]({filename}images/gateau-nantais-1.jpg)
+
+> Ça avait eu du succès au bureau ! Admirez le glaçable tout blanc !
 
 ## Remarques
 - Conseil : manger le gâteau nantais le lendemain, il sera meilleur. Ou soyez gourmand et n'attendez pas, c'est aussi bien !
-- *Ne convient pas aux personnes qui ne consomment pas d'alcool, attention.*
+- **Ne convient pas aux personnes qui ne consomment pas d'alcool, attention.**
