@@ -41,5 +41,4 @@ Recette de la croziflette, un délicieux gratin de pâtes de blé noir au rebloc
 
 ## Variante végétalienne ?!
 - Par contre, faire ça avec du *faux* fromage, c'est de l'hérésie !
-
-> [*In tartiflette we trust!*](http://www.skipass.com/shop/in-tartiflette-we-trust/)
+  > [*In tartiflette we trust!*](http://www.skipass.com/shop/in-tartiflette-we-trust/)
