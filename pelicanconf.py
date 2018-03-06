@@ -109,6 +109,10 @@ PLUGINS = [
     "neighbors",
     # https://github.com/getpelican/pelican-plugins/tree/master/random_article
     "random_article",
+    # https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes
+    "simple_footnotes",
+    # # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
+    # "tag_cloud",
 ]
 
 # "global_license" extension, I don't know how it works

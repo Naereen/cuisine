@@ -18,7 +18,7 @@ Recette pour un gâteau nantais (inspiré de [la recette officielle](https://www
 - 40 g de farine,
 - 3 œufs,
 - 50 g de sucre glace,
-- 6 cl de rhum brun (environ).
+- 6 cl de rhum brun (environ)[ref]Et donc il ne convient pas aux personnes qui ne consomment pas d'alcool, attention![/ref].
 - 1 moule de 22 cm de diamètre et 5 à 6 cm de hauteur.
 
 > Pour 4 ou 6 parts.
