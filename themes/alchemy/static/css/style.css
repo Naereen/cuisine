@@ -71,14 +71,6 @@ strong {
     font-weight: bold;
 }
 
-p {
-    -webkit-font-feature-settings: "liga", "onum", "pnum", "kern";
-    -moz-font-feature-settings: "liga", "onum", "pnum", "kern";
-    -ms-font-feature-settings: "liga", "onum", "pnum", "kern";
-    -o-font-feature-settings: "liga", "onum", "pnum", "kern";
-    font-feature-settings: "liga", "onum", "pnum", "kern"
-}
-
 body figure, body img, body iframe {
     display: block;
     margin: 0 auto;

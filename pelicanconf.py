@@ -112,7 +112,8 @@ PLUGINS = [
     # https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes
     "simple_footnotes",
     # # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
-    # "tag_cloud",
+    # "tag_cloud",  # XXX is ugly!
+    # See https://github.com/Naereen/cuisine/issues/101
 ]
 
 # "global_license" extension, I don't know how it works
@@ -120,6 +121,16 @@ LICENSE = "<a href='https://lbesson.MIT-License.org/'>Licence MIT</a>"
 
 # URL for the random page
 RANDOM = "random.html"
+
+# # Count of different font sizes in the tag cloud.
+# TAG_CLOUD_STEPS = 4
+# # Maximum number of tags in the cloud.
+# TAG_CLOUD_MAX_ITEMS = 100
+# # The tag cloud ordering scheme. Valid values: random, alphabetically, alphabetically-rev, size and size-rev
+# TAG_CLOUD_SORTING = 'random'
+# # Optional setting : can bring badges, which mean say : display the number of each tags present on all articles.
+# TAG_CLOUD_BADGE = True
+
 
 # Style in case a code block is present
 PYGMENTS_STYLE = "monokai"
