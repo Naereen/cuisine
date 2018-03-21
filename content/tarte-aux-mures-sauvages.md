@@ -21,7 +21,7 @@ Recette pour tarte aux mûres sauvages.
 1. Mettre la pâte dans un plat à tarte rond ou un plat à gratin, la piquer et la laisser à l'air,
 2. Laver et rincer les mûres, enlever celles qui ne sont pas bien mûres ou trop petites
 3. Mélanger le sucre (50 g), la crème, l'œuf et le lait dans un bol,
-4. *Optionnel* : mettre de la confiture au font de la pâte (si pas beaucoup de pommes par exemple),
+4. *Optionnel* : mettre de la confiture au fond de la pâte (si pas beaucoup de pommes par exemple),
 5. Verser les mûres au fond du plat, bien répartir,
 6. Version la préparation, bien étaler,
 7. Saupoudrer avec un peu de sucre roux,

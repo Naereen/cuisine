@@ -21,7 +21,7 @@ Recette pour tarte aux pommes.
 1. Mettre la pâte dans un plat à tarte rond ou un plat à gratin, la piquer et la laisser à l'air,
 2. Éplucher les pommes, les couper en tranches,
 3. Mélanger le sucre (65 g), la crème, les œufs et la cannelle dans un bol,
-4. *Optionnel* : mettre de la confiture au font de la pâte (si pas beaucoup de pommes par exemple),
+4. *Optionnel* : mettre de la confiture au fond de la pâte (si pas beaucoup de pommes par exemple),
 5. Disposer les tranches de pommes en rond (les puristes le feront en spirale !),<br><br>
    [![tarte-aux-pommes-1.jpg]({filename}images/tarte-aux-pommes-1.jpg){width=60%}]({filename}images/tarte-aux-pommes-1.jpg)<br>
 6. Version la préparation, bien étaler,
