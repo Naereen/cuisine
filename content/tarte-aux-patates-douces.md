@@ -1,6 +1,6 @@
 Title: Tarte aux patates douces
 Category: Recette
-Tags: recette, dessert, gateau, facile
+Tags: recette, dessert, tarte, facile
 Summary: Recette pour tarte aux patates douces :sweet_potato:
 
 Recette pour tarte aux patates douces :sweet_potato:.

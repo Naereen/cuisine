@@ -1,6 +1,6 @@
 Title: Tarte aux abricots et à la poudre d'amandes
 Category: Recette
-Tags: recette, dessert, gateau, facile
+Tags: recette, dessert, tarte, facile
 Summary: Recette pour tarte aux abricots et à la poudre d'amandes, facile à réaliser, en hiver avec des abricots en conserve comme en été avec des fruits frais !
 
 Recette pour tarte aux abricots et à la poudre d'amandes.

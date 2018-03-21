@@ -1,6 +1,6 @@
 Title: Tarte aux pommes
 Category: Recette
-Tags: recette, dessert, gateau, facile
+Tags: recette, dessert, tarte, facile
 Summary: Recette pour tarte aux pommes
 
 Recette pour tarte aux pommes.

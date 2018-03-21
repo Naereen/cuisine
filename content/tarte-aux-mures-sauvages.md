@@ -1,6 +1,6 @@
 Title: Tarte aux mûres sauvages
 Category: Recette
-Tags: recette, dessert, gateau, facile
+Tags: recette, dessert, tarte, facile
 Summary: Recette pour tarte aux mûres sauvages
 
 Recette pour tarte aux mûres sauvages.
