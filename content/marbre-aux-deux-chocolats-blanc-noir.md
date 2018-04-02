@@ -23,12 +23,13 @@ Recette pour marbré aux deux chocolats (blanc & noir).
 3. Dans un autre saladier, verser la moitié de cette première préparation,
 4. Ajouter le chocolat noir dans un des saladiers, et le chocolat blanc dans l'autre, bien mélanger les deux,
 5. Dans un moule beurré ou en silicone, verser les deux saladiers de pâtes en alternant : une couche de l'un, une couche de l'autre, jusqu'à épuisement des stocks. Essayer de faire des couches *bien fines* (pour que la marbrure soit bien uniforme !),
-  [![marbre-aux-deux-chocolats-blanc-noir-1.jpg]({filename}images/marbre-aux-deux-chocolats-blanc-noir-1.jpg){width=60%}]({filename}images/marbre-aux-deux-chocolats-blanc-noir-1.jpg)
+  [![marbre-aux-deux-chocolats-blanc-noir-1.jpg]({filename}images/marbre-aux-deux-chocolats-blanc-noir-1.jpg){width=40%}]({filename}images/marbre-aux-deux-chocolats-blanc-noir-1.jpg)
 6. Faire cuire maximum 25 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
 
 ## Photo
-  [![marbre-aux-deux-chocolats-blanc-noir-2.jpg]({filename}images/marbre-aux-deux-chocolats-blanc-noir-2.jpg){width=60%}]({filename}images/marbre-aux-deux-chocolats-blanc-noir-2.jpg)
-  [![marbre-aux-deux-chocolats-blanc-noir-3.jpg]({filename}images/marbre-aux-deux-chocolats-blanc-noir-3.jpg){width=60%}]({filename}images/marbre-aux-deux-chocolats-blanc-noir-3.jpg)
+[![marbre-aux-deux-chocolats-blanc-noir-2.jpg]({filename}images/marbre-aux-deux-chocolats-blanc-noir-2.jpg){width=80%}]({filename}images/marbre-aux-deux-chocolats-blanc-noir-2.jpg)
+
+[![marbre-aux-deux-chocolats-blanc-noir-3.jpg]({filename}images/marbre-aux-deux-chocolats-blanc-noir-3.jpg){width=60%}]({filename}images/marbre-aux-deux-chocolats-blanc-noir-3.jpg)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace citron ou cassis ! *Miam !*
