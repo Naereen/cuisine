@@ -3,10 +3,10 @@ Category: Recette
 Tags: recette, dessert, sucrerie, facile
 Summary: Recette pour des roses des sables au chocolat. Rapide à faire, se conservent longtemps et si délicieuses !
 
-Recette pour des roses des sables au chocolat, un dessert délicieux : des flocons de maïs recouverts d'un nappage de chocolat noir, durci au frigo.
+Recette pour des roses des sables au chocolat, un dessert délicieux : des flocons de maïs recouverts d'un nappage de chocolat noir, durci au réfrigérateur.
 
 - *Préparation* : 10 minutes.
-- *Cuisson* : aucune, mais au moins 10 heures au frigo.
+- *Cuisson* : aucune, mais au moins 10 heures au réfrigérateur.
 
 ## Ingrédients
 - 200 g de chocolat noir pour dessert,

@@ -6,7 +6,7 @@ Summary: Recette pour des crèmes dessert à la vanille et au chocolat, garnie a
 Recette pour des crèmes dessert à la vanille et au chocolat, garnie aux fruits secs, en utilisant la préparation commerciale "Flan entremets" d'Alsa.
 
 - *Préparation* : 10 minutes.
-- *Temps d'attente* : au moins 2 heures au frigo.
+- *Temps d'attente* : au moins 2 heures au réfrigérateur.
 
 ## Ingrédients
 - 50 cL de lait,
@@ -19,11 +19,11 @@ Pour le service, il faut aussi des petits ramequins, ou des petits bols ([une bo
 1. Dans une casserole, faire chauffer le lait, sans l'amener à ébullition,
 2. rajouter le sachet de préparation pour "Flan entremets" d'Alsa® , bien mélanger,
 3. laisser cuire quelques minutes, et pendant se temps préparer les ramequins en installant des fruits secs au fond,
-4. verser la préparation, *délicatement*, dans les ramequins, et installer au frigo pour au moins 2 heures.
+4. verser la préparation, *délicatement*, dans les ramequins, et installer au réfrigérateur pour au moins 2 heures.
 
 ## Photo
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: À servir avec des petits biscuits, par exemple des Spéculoos,
-- Se conserve plusieurs jours au frigo.
+- Se conserve plusieurs jours au réfrigérateur.

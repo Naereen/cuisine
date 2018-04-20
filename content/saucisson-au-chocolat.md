@@ -6,7 +6,7 @@ Summary: Recette pour un saucisson surprise au chocolat. Rapide à faire, se con
 Recette pour un saucisson surprise au chocolat, un dessert délicieux et original, dans l'esprit de Noël.
 
 - *Préparation* : 15 minutes.
-- *Cuisson* : aucune, mais au moins 2 heures au frigo.
+- *Cuisson* : aucune, mais au moins 2 heures au réfrigérateur.
 
 ## Ingrédients
 - 200 g de chocolat noir pour dessert,
@@ -23,9 +23,9 @@ Recette pour un saucisson surprise au chocolat, un dessert délicieux et origina
 3. Dans le chocolat fondu, ajouter le beurre et le miel,
 4. Ajouter les noix brisées en petit morceaux, bien mélanger,
 5. Couvrir un plateau d'une feuille d'aluminium, et y étaler le mélange, en long. Rouler la feuille d'aluminium pour lui donner une forme de saucisson,
-6. Le mettre au frigo pour qu'il durcisse (au moins 2 heures),
+6. Le mettre au réfrigérateur pour qu'il durcisse (au moins 2 heures),
 7. Pendant qu'il durcit, préparer le mélange de farine et cacao (ça lui donnera sa couleur blanche comme un saucisson),
-8. Dès que le saucisson est bien dur, le sortir du frigo et enlever l'aluminum (délicatement), et saupoudrer bien partout (il faut le tourner) du mélange farine et cacao,
+8. Dès que le saucisson est bien dur, le sortir du réfrigérateur et enlever l'aluminum (délicatement), et saupoudrer bien partout (il faut le tourner) du mélange farine et cacao,
 9. Découper en rondelle ce saucisson surprise. Miam !
 
 ## Photo
@@ -33,4 +33,4 @@ Recette pour un saucisson surprise au chocolat, un dessert délicieux et origina
 
 ## Remarques
 - :cutlery: À grignoter en accompagnement d'un dessert "sain" sans chocolat (e.g., fromage blanc aux mûres sauvages).
-- Il reste assez dur quelques heures à température ambiante, mais si besoin on peut le remettre au frigo.
+- Il reste assez dur quelques heures à température ambiante, mais si besoin on peut le remettre au réfrigérateur.
