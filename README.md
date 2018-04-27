@@ -1,7 +1,7 @@
 # Recettes de cuisine ! :fr:
 ## *Des recettes classiques 🍸 et des expériences en cuisine ✨ !*
 
-Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/cuisine/) sur [mon site web](http://perso.crans.org/besson/), qui contient un joli petit site web montrant mes recettes de cuisine favorites !
+Ce projet contient les sources pour [ce dossier](http://perso.crans.org/besson/cuisine/) sur [mon site web](http://perso.crans.org/besson/), qui contient un joli petit site web montrant mes recettes de cuisine favorites !
 
 [![screenshot.png](screenshot.png)](http://perso.crans.org/besson/cuisine/)
 
