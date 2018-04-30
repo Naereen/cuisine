@@ -1,9 +1,9 @@
 # Recettes de cuisine ! :fr:
 ## *Des recettes classiques 🍸 et des expériences en cuisine ✨ !*
 
-Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/cuisine/) sur [mon site web](http://perso.crans.org/besson/), qui contient un joli petit site web montrant mes recettes de cuisine favorites !
+Ce projet contiens les sources pour [ce dossier](https://perso.crans.org/besson/cuisine/) sur [mon site web](https://perso.crans.org/besson/), qui contient un joli petit site web montrant mes recettes de cuisine favorites !
 
-[![screenshot.png](screenshot.png)](http://perso.crans.org/besson/cuisine/)
+[![screenshot.png](screenshot.png)](https://perso.crans.org/besson/cuisine/)
 
 - Des boissons :tea: :tropical_drink: :wine_glass:
 - Des plats :spaghetti: :stew: :egg:
@@ -24,7 +24,7 @@ Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/c
 - [Pelican](http://getpelican.com/) pour la génération du site :hammer:,
 - [Thème](themes/alchemy) : [`pelican-alchemy`](https://nairobilug.github.io/pelican-alchemy/) :sparkles: (version un peu modifiée, traduite en français :fr:), par [@nairobilug](https://GitHub.com/nairobilug/),
 - [Greffons](plugins/) : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors) :left_right_arrow:, [`global_license`](https://github.com/getpelican/pelican-plugins/tree/master/global_license), [`random_article`](https://github.com/getpelican/pelican-plugins/tree/master/random_article),
-- Mes propres photos :camera: pour chaque recettes (bientôt),
+- Mes propres photos :camera: pour chaque recettes (pas pour toutes, mais certaines),
 - Quelques liens vers [marmiton.org](http://marmiton.org/) pour certaines recettes,
 - Et ... de l'amour !
 
@@ -34,7 +34,7 @@ Ce projet contiens les sources pour [ce dossier](http://perso.crans.org/besson/c
 Ce dépôt git et tous les fichiers contenus sont publiés librement sous les termes de la [Licence MIT](https://lbesson.mit-license.org/) (voir le fichier [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2017-2018.
 
-[![Website perso.crans.org/besson/cuisine](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/besson/cuisine/)
+[![Website perso.crans.org/besson/cuisine](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](https://perso.crans.org/besson/cuisine/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/cuisine/graphs/commit-activity)
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
 [![GitHub licence](https://img.shields.io/github/license/Naereen/cuisine.svg)](https://github.com/Naereen/cuisine/blob/master/LICENSE)

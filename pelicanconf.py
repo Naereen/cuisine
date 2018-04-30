@@ -22,16 +22,16 @@ AUTHOR_FEED_RSS       = None
 # Blogroll
 LINKS = (
     ("Sources (GitHub)", "https://GitHub.com/Naereen/cuisine"),
-    ("Prochaines idées", "https://github.com/Naereen/cuisine/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"),
-    ("Mon site",         "//perso.crans.org/besson/"),
+    ("Prochaines idées", "https://GitHub.com/Naereen/cuisine/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"),
+    ("Mon site",         "https://perso.crans.org/besson/"),
     ("Pelican",          "http://GetPelican.com/"),
-    ("Python",       "https://Python.org/"),
-    ("Marmiton",     "http://marmiton.org/"),
+    ("Python",           "https://Python.org/"),
+    ("Marmiton",         "http://marmiton.org/"),
 )
 
 MENU_LINKS = (
     ("Sources (GitHub)", "https://GitHub.com/Naereen/cuisine"),
-    ("Mon site",         "//perso.crans.org/besson/"),
+    ("Mon site",         "https://perso.crans.org/besson/"),
 )
 
 # Social widget
@@ -39,11 +39,11 @@ SOCIAL = (
     ("github",           "https://GitHub.com/Naereen"),
     ("bitbucket",        "https://Bitbucket.org/lbesson"),
     ("facebook",         "https://www.Facebook.com/naereencorp.lbesson"),
-    ("address-card",     "//perso.crans.org/besson/callme.html"),
+    ("address-card",     "https://perso.crans.org/besson/callme.html"),
     ("wikipedia-w",      "https://en.wikipedia.org/wiki/User:Naereen"),
     ("envelope",         "mailto:naereen at crans dot org"),
     ("phone",            "tel:+33 6 28 41 22 57"),
-    ("rss",              "//perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
+    ("rss",              "https://perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
 )
 # Icons : mapping of font-awesome icons to URL
 ICONS = SOCIAL
