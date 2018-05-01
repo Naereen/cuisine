@@ -18,7 +18,7 @@ Recette pour TODO
 4. Étape 4.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO-1.jpg]({filename}images/TODO-1.jpg){width=40%}]({filename}images/TODO-1.jpg)
 
 ## Remarques
 - TODO
