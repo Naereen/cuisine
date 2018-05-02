@@ -1,7 +1,7 @@
 Title: Gâteau aux noix
 Category: Recette
 Tags: recette, dessert, difficile
-Summary: Recette pour gâteau aux noix
+Summary: Recette pour gâteau aux noix. :cake: + :chestnut: = :yum:
 
 Recette pour gâteau aux noix. :cake: + :chestnut: = :yum:
 

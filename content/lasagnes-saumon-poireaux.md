@@ -1,7 +1,7 @@
 Title: Lasagnes au saumon et poireaux
 Category: Recette
 Tags: recette, plat, poisson, moyen
-Summary: Recette pour lasagnes au saumon et poireaux
+Summary: Recette pour lasagnes au saumon et poireaux :fish:.
 
 Recette pour lasagnes au saumon et poireaux :fish:.
 

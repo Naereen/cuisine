@@ -1,7 +1,7 @@
 Title: Caviar d'aubergines bio
 Category: Recette
 Tags: recette, apéritif, végétarien, moyen
-Summary: Recette pour du caviar d'aubergines bio, facile à faire, rapide à déguster sur des toasts pour un apéritif typique de la Provence
+Summary: Recette pour du caviar d'aubergines bio, facile à faire, rapide à déguster sur des toasts pour un apéritif typique de la Provence.
 
 Recette pour du caviar d'aubergines bio, facile à faire, rapide à déguster sur des toasts pour un apéritif typique de la Provence.
 

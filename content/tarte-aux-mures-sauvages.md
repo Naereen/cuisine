@@ -1,9 +1,9 @@
 Title: Tarte aux mûres sauvages
 Category: Recette
 Tags: recette, dessert, tarte, facile
-Summary: Recette pour tarte aux mûres sauvages
+Summary: Recette pour tarte aux mûres sauvages, à faire fin août si vous avez de la chance !
 
-Recette pour tarte aux mûres sauvages.
+Recette pour tarte aux mûres sauvages, à faire fin août si vous avez de la chance !
 
 - *Préparation* : 20 minutes.
 - *Cuisson* : 25-30 minutes.

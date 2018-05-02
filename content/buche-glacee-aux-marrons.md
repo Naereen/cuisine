@@ -1,7 +1,7 @@
 Title: Bûche glacée aux marrons (Noël)
 Category: Recette
 Tags: recette, dessert, moyen
-Summary: Recette pour bûche glacée aux marrons (spécial Noël)
+Summary: Recette pour bûche glacée aux marrons (spécial Noël).
 
 Recette pour bûche glacée aux marrons (spécial Noël).
 

@@ -1,9 +1,9 @@
 Title: Gâteau au chocolat
 Category: Recette
 Tags: recette, dessert, gateau, facile
-Summary: Recette pour gâteau au chocolat
+Summary: Recette pour gâteau au chocolat :chocolate.
 
-Recette pour gâteau au chocolat.
+Recette pour gâteau au chocolat :chocolate:.
 
 - *Préparation* : 10 minutes.
 - *Cuisson* : 25-30 minutes.

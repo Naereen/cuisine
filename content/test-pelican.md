@@ -1,7 +1,7 @@
 Title: Test de Pelican
 Category: Test
 Tags: test
-Summary: Complete test of Pelican (in English)
+Summary: Complete test of Pelican (in English).
 
 [TOC]
 

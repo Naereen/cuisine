@@ -1,9 +1,9 @@
 Title: Eau
 Category: Recette
 Tags: recette, boisson, facile
-Summary: Comment se servir un verre d'eau ?
+Summary: Comment se servir un verre d'eau ? (humour)
 
-Comment se servir un verre d'eau ?
+Comment se servir un verre d'eau ? (humour)
 
 ## Ingrédients
 - De l'[eau](https://fr.wikipedia.org/wiki/Eau) (fraîche si possible, propre),

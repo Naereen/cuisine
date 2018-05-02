@@ -1,9 +1,9 @@
 Title: Infusion menthe-citron
 Category: Recette
 Tags: recette, boisson, boisson chaude, sucrerie, facile
-Summary: Recette pour des infusions menthe-citron, à faire en hiver
+Summary: Recette pour des infusions menthe-citron, à faire en hiver, délicieux et efficace contre le mal de gorge !
 
-Recette pour des infusions menthe-citron, délicieux et efficace contre le mal de gorge !
+Recette pour des infusions menthe-citron, à faire en hiver, délicieux et efficace contre le mal de gorge !
 
 - *Préparation* : 5 minutes,
 - *Cuisson* : 5 minutes de repos.

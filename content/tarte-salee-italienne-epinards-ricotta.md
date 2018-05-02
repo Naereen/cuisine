@@ -1,7 +1,7 @@
 Title: Tarte salée italienne aux épinards et à la ricotta
 Category: Recette
 Tags: recette, plat, végétarien, tarte, facile
-Summary: Recette pour une délicieuse tarte salée italienne aux épinards et à la ricotta
+Summary: Recette pour une délicieuse tarte salée italienne aux épinards et à la ricotta.
 
 Recette pour une délicieuse tarte salée italienne aux épinards et à la ricotta.
 

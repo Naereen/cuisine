@@ -1,9 +1,9 @@
 Title: Vin de framboise (comme les elfes)
 Category: Recette
 Tags: recette, alcool, sucrerie, moyen
-Summary: Recette pour du vin de framboise, à faire au printemps
+Summary: Recette pour du vin de framboise, un délicieux apéritif à faire au printemps !
 
-Recette pour du vin de framboise, un délicieux apéritif.
+Recette pour du vin de framboise, un délicieux apéritif à faire au printemps !
 
 - *Préparation* : 1 heure et 24h d'attente.
 - *Cuisson* : 15 minutes max.

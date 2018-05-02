@@ -1,9 +1,9 @@
 Title: Tomates et courgettes farcies
 Category: Recette
 Tags: recette, plat, moyen
-Summary: Recette pour tomates et courgettes farcies
+Summary: Recette pour tomates et courgettes farcies cuites au four, un plat végétarien ou non, facile et savoureux.
 
-Recette pour tomates et courgettes farcies.
+Recette pour tomates et courgettes farcies cuites au four, un plat végétarien ou non, facile et savoureux.
 
 - *Préparation* : 10 minutes
 - *Cuisson* : 30-45 minutes.

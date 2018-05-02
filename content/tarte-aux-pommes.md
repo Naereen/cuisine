@@ -1,9 +1,9 @@
 Title: Tarte aux pommes
 Category: Recette
 Tags: recette, dessert, tarte, facile
-Summary: Recette pour tarte aux pommes
+Summary: Recette pour tarte aux pommes, simple et classique.
 
-Recette pour tarte aux pommes.
+Recette pour tarte aux pommes, simple et classique.
 
 - *Préparation* : 20-25 minutes.
 - *Cuisson* : 25-30 minutes.

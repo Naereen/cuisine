@@ -1,7 +1,7 @@
 Title: Tartiflette savoyarde
 Category: Recette
 Tags: recette, plat, facile
-Summary: Recette de la fameuse tartiflette savoyarde, un bon plat bien consistant et savoureux ([c'est pas faux](https://kaamelott-soundboard.2ec0b4.fr/#son/cest_pas_faux1)) à cuisiner pour se réchauffer en plein hiver
+Summary: Recette de la fameuse tartiflette savoyarde, un bon plat bien consistant et savoureux ([c'est pas faux](https://kaamelott-soundboard.2ec0b4.fr/#son/cest_pas_faux1)) à cuisiner pour se réchauffer en plein hiver.
 
 Recette de la fameuse tartiflette savoyarde, un bon plat bien consistant et savoureux ([c'est pas faux](https://kaamelott-soundboard.2ec0b4.fr/#son/cest_pas_faux1)) à cuisiner pour se réchauffer en plein hiver.
 

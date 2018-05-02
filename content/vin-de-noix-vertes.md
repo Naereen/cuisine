@@ -1,9 +1,9 @@
 Title: Vin de noix vertes
 Category: Recette
 Tags: recette, alcool, sucrerie, moyen
-Summary: Recette pour du vin de noix vertes, à faire en septembre
+Summary: Recette pour du vin de noix vertes, un délicieux digestif à faire en septembre et à déguster tout l'hiver !
 
-Recette pour du vin de noix vertes, un délicieux digestif.
+Recette pour du vin de noix vertes, un délicieux digestif à faire en septembre et à déguster tout l'hiver !
 
 - *Préparation* : 1 heure et 2 mois de macération
 - *Cuisson* : aucune.

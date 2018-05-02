@@ -1,9 +1,9 @@
 Title: Rhum au gingembre
 Category: Recette
 Tags: recette, alcool, sucrerie, moyen
-Summary: Recette pour du rhum au gingembre, à faire en hiver
+Summary: Recette pour du rhum au gingembre, à faire en hiver. Un délicieux apéritif (à 27° d'alcool).
 
-Recette pour du rhum au gingembre, un délicieux apéritif (à 27° d'alcool).
+Recette pour du rhum au gingembre, à faire en hiver. Un délicieux apéritif (à 27° d'alcool).
 
 - *Préparation* : 1 heures
 - *Cuisson* : 2 heures max.

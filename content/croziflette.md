@@ -1,9 +1,9 @@
 Title: Croziflette (spécialté savoyarde)
 Category: Recette
 Tags: recette, plat, moyen
-Summary: Recette de la croziflette, un délicieux gratin de pâtes de blé noir au reblochon
+Summary: Recette de la croziflette, un délicieux gratin de pâtes de blé noir au reblochon. Une spécialité savoyarde !
 
-Recette de la croziflette, un délicieux gratin de pâtes de blé noir au reblochon.
+Recette de la croziflette, un délicieux gratin de pâtes de blé noir au reblochon. Une spécialité savoyarde !
 
 - *Préparation* : 25 minutes.
 - *Cuisson* : 20-30 minutes.

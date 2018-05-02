@@ -1,7 +1,7 @@
 Title: Cookies au chocolat
 Category: Recette
 Tags: recette, dessert, gateau, facile
-Summary: Recette pour cookies au chocolat
+Summary: Recette pour cookies au chocolat :cookie: :chocolate_bar: !
 
 Recette pour cookies au chocolat :cookie: :chocolate_bar: !
 

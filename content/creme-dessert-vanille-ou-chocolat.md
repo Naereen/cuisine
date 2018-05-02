@@ -1,7 +1,7 @@
 Title: Crème dessert vanille et chocolat, garnie aux fruits secs
 Category: Recette
 Tags: recette, dessert, facile, avec préparation commerciale
-Summary: Recette pour des crèmes dessert à la vanille et au chocolat, garnie aux fruits secs, en utilisant la préparation commerciale "Flan entremets" d'Alsa
+Summary: Recette pour des crèmes dessert à la vanille et au chocolat, garnie aux fruits secs, en utilisant la préparation commerciale "Flan entremets" d'Alsa.
 
 Recette pour des crèmes dessert à la vanille et au chocolat, garnie aux fruits secs, en utilisant la préparation commerciale "Flan entremets" d'Alsa.
 

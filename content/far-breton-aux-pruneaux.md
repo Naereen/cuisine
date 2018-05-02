@@ -1,7 +1,7 @@
 Title: Far breton aux pruneaux
 Category: Recette
 Tags: recette, dessert, gateau, breton, moyen
-Summary: Recette du fameux far breton aux pruneaux, un gateau au lait typique de la Bretagne
+Summary: Recette du fameux far breton aux pruneaux, un gateau au lait typique de la Bretagne.
 
 Recette du fameux far breton aux pruneaux, un gateau au lait typique de la Bretagne.
 

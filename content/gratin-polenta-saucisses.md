@@ -1,7 +1,7 @@
 Title: Gratin de polenta et saucisses
 Category: Recette
 Tags: recette, plat, moyen
-Summary: Recette pour un gratin de polenta et saucisses
+Summary: Recette pour un gratin de polenta et saucisses.
 
 Recette pour un gratin de polenta et saucisses.
 

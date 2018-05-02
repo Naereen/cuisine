@@ -1,7 +1,7 @@
 Title: Gnocchis aux aubergines
 Category: Recette
 Tags: recette, plat, végétarien, moyen
-Summary: Recette pour des gnocchis aux aubergines
+Summary: Recette pour des gnocchis aux aubergines.
 
 Recette pour des gnocchis aux aubergines.
 

@@ -4,6 +4,7 @@ Tags: recette, dessert, gateau, facile
 Summary: Recette pour gâteau « 4 fois 9 plus 2 fois 3 », le gâteau parfait pour montrer au monde votre amour des mathématiques ! Ou juste la flemme de sortir une balance ou un verre doseur…
 
 Recette pour gâteau « 4 fois 9 plus 2 fois 3 », un gâteau tout simple aux pommes, rapide mais délicieux !
+C'est le gâteau parfait pour montrer au monde votre amour des mathématiques ! Ou juste la flemme de sortir une balance ou un verre doseur…
 
 - *Préparation* : 10 minutes.
 - *Cuisson* : 30-40 minutes.
