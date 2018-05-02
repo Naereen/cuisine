@@ -1,10 +1,10 @@
 Title: Lasagnes végétariennes, courgettes bleu crème et noix
 Category: Recette
 Tags: recette, plat, végétarien, difficile
-Summary: Recette pour lasagnes végétariennes, courgettes bleu crème et noix. Une tuerie, attention je vous aurai prévenu !
+Summary: Recette pour lasagnes végétariennes, courgettes bleu crème et noix. Une merveille, attention je vous aurai prévenu !
 
 Recette pour lasagnes végétariennes, courgettes bleu crème et noix.
-Une tuerie, attention je vous aurai prévenu !
+Une merveille, attention je vous aurai prévenu !
 
 - *Préparation* : 10 minutes (ou plus si les noix ne sont pas cassées).
 - *Cuisson* : 40-50 minutes.

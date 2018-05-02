@@ -1,9 +1,9 @@
 Title: Gâteau au chocolat et aux châtaignes
 Category: Recette
 Tags: recette, dessert, gateau, moyen
-Summary: Recette pour gâteau au chocolat et aux châtaignes. :cake: + :chocolate: + :chestnut: = :yum:.
+Summary: Recette pour gâteau au chocolat et aux châtaignes. :cake: + :chocolate: + :chestnut: = :smiley:.
 
-Recette pour gâteau au chocolat et aux châtaignes. :cake: + :chocolate: + :chestnut: = :yum:.
+Recette pour gâteau au chocolat et aux châtaignes. :cake: + :chocolate: + :chestnut: = :smiley:.
 
 - *Préparation* : 25 minutes.
 - *Cuisson* : 30 minutes pour les châtaignes et 25 minutes pour le gâteau.
