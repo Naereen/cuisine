@@ -17,7 +17,6 @@ Recette pour cookies au chocolat :cookie: :chocolate_bar: !
 - 85 g de beurre *salé*,
 - 85 g de sucre blanc,
 - 1 pincée de sel,
-- 1 cuillère à café de levure,
 - *Optionnel* : 1 sachet de sucre vanillé.
 
 > Pour plus de 2 personnes, comptez ces quantités pour 2 personnes et multipliez.
@@ -29,9 +28,9 @@ Recette pour cookies au chocolat :cookie: :chocolate_bar: !
 4. Ajouter la levure, le sel et la farine, **lentement**,
 5. Mélanger jusqu'à obtenir une pâte bien uniforme,
 6. Ajouter le chocolat brisé en petits morceaux,
-7. Mélanger pour recourvrir les morceaux de chocolat,
+7. Mélanger pour recouvrir les morceaux de chocolat,
 8. Sur une plaque de cuisson légèrement beurrée, faire de petites ronds avec la pâte à cookies,
-9. Faire cuire 9 à 12 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 8 minutes (planter un couteau dans un cookie, la lame doit ressortir presque sèche, et ils ne doivent pas trop crâmer).
+9. Faire cuire 9 à 12 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 8 minutes (planter un couteau dans un cookie, la lame doit ressortir presque sèche, et ils ne doivent pas trop cramer).
 
 ## Photo
 [![TODO]({filename}images/blank.png)](#)
