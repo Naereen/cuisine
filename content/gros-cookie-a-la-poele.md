@@ -27,5 +27,7 @@ Recette pour un gros cookie cuit à la poêle, au chocolat :cookie: :chocolate_b
 6. Ensuite, retournez votre cookie avec une assiette, et, poursuivez pour 5 minutes supplémentaires de cuisson,
 7. Enfin, verser dans l'assiette le cookie, et le laisser refroidir au moins une heure, ou au réfrigérateur pour 10 minutes.
 
+[![gros-cookie-a-la-poele.jpg]({filename}images/gros-cookie-a-la-poele.jpg){width=60%}]({filename}images/gros-cookie-a-la-poele.jpg)
+
 ## Remarques
 - :cutlery: Servir tiède, en coupant le gros cookie en un nombre suffisant de morceaux pour vos invités. Servir avec un verre de lait, ou une boule de glace vanille, ou un bon chocolat chaud… *Miam* !
