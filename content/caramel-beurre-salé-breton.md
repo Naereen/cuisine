@@ -18,8 +18,8 @@ Ma recette de caramel beurre salé, une fameuse spécialité bretonne.
 2. Attendre la caramélisation (blond foncé), après quelques minutes, puis retirer du feu.
 3. Ajouter le beurre salé et bien mélanger.
 4. Remettre sur le feu, à feu doux.
-5. Ajouter la soupe de crème fraîche.
-6. Bien mélanger jusqu'à ce que la crème soit lisse, verser dans un petit pot. Faire prendre au congélateur durant 30 minutes environ puis mettre au réfrigérateur.
+5. Ajouter la crème fraîche.
+6. Bien mélanger jusqu'à ce que la crème soit lisse, verser dans des *petits* pots. Faire prendre au congélateur durant 30 minutes environ puis mettre au réfrigérateur.
 
 ## Photo
 C'est délicieux avec du fromage blanc !
@@ -27,4 +27,4 @@ C'est délicieux avec du fromage blanc !
 
 ## Remarques
 - C'est aussi très bon sur des crêpes !
-- On peut le faire refoidir au congélateur ou au réfrigérateur, selon ce la consistence que l'on souhaite.
+- On peut le faire refoidir au congélateur ou au réfrigérateur, selon la consistance que l'on souhaite.
