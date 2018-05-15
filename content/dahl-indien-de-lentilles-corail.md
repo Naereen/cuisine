@@ -32,8 +32,5 @@ Recette pour du dahl de lentilles corail, un plat typiquement indien !
 7. Enfin, ajouter les lentilles et bien remuer le tout.
 8. On peut rajouter à la fin du curry ou du piment. Attention, ça peut être *très* chaud à la fin !
 
-## Photo
-[![dahl-indien-de-lentilles-corail-2.jpg]({filename}images/dahl-indien-de-lentilles-corail-2.jpg){width=40%}]({filename}images/dahl-indien-de-lentilles-corail-2.jpg)
-
 ## Remarques
 - On peut mettre plus ou moins de cury, plus ou moins de piment, selon votre goût !
