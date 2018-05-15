@@ -23,15 +23,15 @@ Ma recette de riz au lait à la vanille, rapide et facile !
 
 ## Préparation
 1. Dans une casserole en acier (si le fond attache…), verser le lait ou lait + eau et le sucre, mélanger un peu,
-  [![riz-au-lait-a-la-vanille-1.jpg]({filename}images/riz-au-lait-a-la-vanille-1.jpg){width=60%}]({filename}images/riz-au-lait-a-la-vanille-1.jpg)
+    [![riz-au-lait-a-la-vanille-1.jpg]({filename}images/riz-au-lait-a-la-vanille-1.jpg){width=40%}]({filename}images/riz-au-lait-a-la-vanille-1.jpg)
 2. Faire bouillir le lait à feu fort <i class="fa fa-thermometer-full" aria-hidden="true"></i>, sans le faire déborder,
 3. Quand le lait bout, baisser le feu <i class="fa fa-thermometer-half" aria-hidden="true"></i> et ajouter le riz.
 4. Quand le riz affleure à la surface, éteindre le feu et laisser cuire encore quelques minutes,
 5. Verser tant que c'est chaud dans de petits ramequins ou des bols,
-6. Servir tiède ou alors à conserver au réfrigérateur quelques jours.
+6. **Servir tiède** ou alors à conserver au réfrigérateur **maximum quelques jours**.
 
 ## Photo
-[![riz-au-lait-a-la-vanille-1.jpg]({filename}images/riz-au-lait-a-la-vanille-1.jpg){width=60%}]({filename}images/riz-au-lait-a-la-vanille-1.jpg)
+[![riz-au-lait-a-la-vanille-2.jpg]({filename}images/riz-au-lait-a-la-vanille-2.jpg){width=40%}]({filename}images/riz-au-lait-a-la-vanille-2.jpg)
 
 ## Remarques
 - C'est délicieux tiède, avec des petits secs style petit beurre ou biscuits à thé,
