@@ -5,11 +5,6 @@ Summary: Ma recette de riz au lait à la vanille, rapide et facile ! Pour dire c
 
 Ma recette de riz au lait à la vanille, rapide et facile !
 
-> Après, on peut dire comme dans le film [La Vie est un Long Fleuve Tranquille](https://fr.wikipedia.org/wiki/La_vie_est_un_long_fleuve_tranquille),
-> *Les enfants, j'ai fait du riz au lait !*
->
-> ![Je veux du riz au lait maman !](https://youtu.be/SbzfywL9UKQ?t=19)
-
 - *Préparation* : 2 minutes.
 - *Cuisson* : 12 minutes.
 - *Quantité* : pour quatres portions.
@@ -36,3 +31,9 @@ Ma recette de riz au lait à la vanille, rapide et facile !
 ## Remarques
 - C'est délicieux tiède, avec des petits secs style petit beurre ou biscuits à thé,
 - :tea: Servit avec une bonne tasse de thé à la vanille, un délice :smile: !
+
+> Après, on peut dire comme dans le film [La Vie est un Long Fleuve Tranquille](https://fr.wikipedia.org/wiki/La_vie_est_un_long_fleuve_tranquille),
+>
+> *Les enfants, j'ai fait du riz au lait !*
+>
+> <iframe width="854" height="480" src="https://www.youtube.com/embed/SbzfywL9UKQ?t=19" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
