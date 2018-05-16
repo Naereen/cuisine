@@ -36,4 +36,4 @@ Ma recette de riz au lait à la vanille, rapide et facile !
 >
 > *Les enfants, j'ai fait du riz au lait !*
 >
-> <iframe width="854" height="480" src="https://www.youtube.com/embed/SbzfywL9UKQ?t=19" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+> <iframe width="854" height="480" src="https://www.youtube.com/embed/SbzfywL9UKQ?rel=0&start=19" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
