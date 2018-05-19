@@ -23,5 +23,5 @@ Recette pour des roses des sables au chocolat, un dessert délicieux : des floco
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- :cutlery: À grignoter en accompagnement d'un dessert "sain" sans chocolat (e.g., fromage blanc aux mûres sauvages).
+- :cutlery: À grignoter en accompagnement d'un dessert "sain" sans chocolat (*e.g.*, fromage blanc aux mûres sauvages).
 - Facile à transporter, c'est le dessert favori que j'aime partager avec [mes élèves](http://perso.crans.org/besson/teach/).

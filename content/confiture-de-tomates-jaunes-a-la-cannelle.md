@@ -29,5 +29,6 @@ Recette pour de la confiture de tomates jaunes à la cannelle.
 
 ## Remarques
 - Ça se conserve longtemps !
-- Parfait pour un petit déjeuner énergique, dans un yaourt nature, ou en sauce avec du porc ou du poulet, ou un fromage bien fort (e.g., roquefort, cantal).
+- Parfait pour un petit déjeuner énergique, dans un yaourt nature, ou en sauce avec du porc ou du poulet, ou un fromage bien fort (*e.g.*, roquefort, cantal).
+- J'aime bien en rajouter un peu sur une pizza, ça fait un super mélange sucré-salé !
 - **Attention** : c'est **plutôt sucré** !

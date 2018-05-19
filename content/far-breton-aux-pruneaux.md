@@ -15,7 +15,7 @@ Recette du fameux far breton aux pruneaux, un gateau au lait typique de la Breta
 - 250 g de farine blanche normale,
 - 4 œufs moyens,
 - 1 pincée de sel,
-- 1 cuillère à soupe d'huile végétale (e.g., tournesol),
+- 1 cuillère à soupe d'huile végétale (*e.g.*, de tournesol),
 - 1 litre de lait (de vache ou un substitut végétalien).
 
 > On peut en mettre moins (75 cL par exemple) pour obtenir un far plus compact et moins léger (même temps de cuisson). Notez que si votre plat à gratin est trop petit, diminuer la quantité de lait est une bonne idée.

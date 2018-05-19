@@ -36,10 +36,11 @@ Recette pour de la confiture de gingembre.
 - Ça se conserve longtemps !
 - Plus on met de sucre, moins le sirop est liquide, mais il ne faut pas trop en mettre.
 - **Attention** aux allergies selon les fruits secs rajoutés.
-- Parfait pour un petit déjeuner énergique, dans un yaourt nature, ou en sauce avec du porc ou du poulet, ou un fromage à pâte molle (e.g., brie).
+- Parfait pour un petit déjeuner énergique, dans un yaourt nature.
+- On peut aussi s'en servir en cuisine, en sauce avec du porc ou du poulet, ou un fromage à pâte molle (*e.g.*, brie).
 
 ## Variante : gingembre confit sec
-- Le faire sans eau, sans fruits secs, et avec uniquement du sucre roux
+- Le faire sans eau, sans fruits secs, et avec uniquement du sucre roux.
 - Pour faire du gingembre confit "sec", comme on trouve dans les restaurants chinois par exemple.
 - **Attention** à ne pas faire brûler la casserole lors de la cuisson, et étaler sur une plaque recouverte de papier sulfurisé une fois terminé.
 - Après refroidissement, mouiller d'eau froide les morceaux et les plonger dans du sucre roux cristal.

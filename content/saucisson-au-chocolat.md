@@ -32,5 +32,5 @@ Recette pour un saucisson surprise au chocolat, un dessert délicieux et origina
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- :cutlery: À grignoter en accompagnement d'un dessert "sain" sans chocolat (e.g., fromage blanc aux mûres sauvages).
+- :cutlery: À grignoter en accompagnement d'un dessert "sain" sans chocolat (*e.g.*, fromage blanc aux mûres sauvages).
 - Il reste assez dur quelques heures à température ambiante, mais si besoin on peut le remettre au réfrigérateur.
