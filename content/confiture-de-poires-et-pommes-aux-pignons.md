@@ -6,16 +6,17 @@ Summary: Recette pour de la confiture de poires et pommes aux pignons de pin. Un
 Recette pour de la confiture de poires et pommes aux pignons de pin. Une recette originale et savoureuse que tous apprécieront !
 
 ## Ingrédients
-- Des poires Williams, prévoir 750g de poires pour 3 kg de confiture,
-- Des pommes, prévoir 1kg de pommes,
+- Des poires Williams, prévoir 750g de poires pour 2 kg de confiture,
+- Des pommes, prévoir 750g de pommes,
 - [Jus de citron](https://fr.wikipedia.org/wiki/Citron), un peu,
 - [Sucre à confiture](https://fr.wikipedia.org/wiki/Sucre%20a%20confiture) et [sucre roux](https://fr.wikipedia.org/wiki/Sucre%20roux), prévoir 750g max,
 - 50g de pignons de pin.
 
+[![confiture-de-poires-et-pommes-aux-pignons-1.jpg]({filename}images/confiture-de-poires-et-pommes-aux-pignons-1.jpg){width=45%}]({filename}images/confiture-de-poires-et-pommes-aux-pignons-1.jpg)
+
 ## Préparation
 1. La veille, éplucher les poires et les pommes, les conserver dans une grosse casserole, avec un peu de cannelle en poudre et le sucre sur le dessus.
-  [![confiture-de-poires-et-pommes-aux-pignons-1.jpg]({filename}images/confiture-de-poires-et-pommes-aux-pignons-1.jpg){width=60%}]({filename}images/confiture-de-poires-et-pommes-aux-pignons-1.jpg)
-2. Dans une casserole en acier (sans revêtement) ou en cuivre, faire bouillir un peu d'eau, avec le citron,
+2. Dans une casserole en acier (sans revêtement) ou en cuivre, faire bouillir un tout petit peu d'eau, avec le citron,
 3. Rajouter les poires et les pommes, et le sucre, bien mélanger,
   [![confiture-de-poires-et-pommes-aux-pignons-2.jpg]({filename}images/confiture-de-poires-et-pommes-aux-pignons-2.jpg){width=60%}]({filename}images/confiture-de-poires-et-pommes-aux-pignons-2.jpg)
 4. Bien mélanger, ramener à petite ébullition (**attention**, ça déborde vite !),
