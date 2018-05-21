@@ -1,9 +1,9 @@
 Title: Crumble aux pommes
 Category: Recette
 Tags: recette, dessert, gateau, moyen
-Summary: Recette pour crumble aux pommes, délicieux en hiver comme en été !
+Summary: Recette de mon crumble aux pommes, délicieux en hiver comme en été !
 
-Recette pour crumble aux pommes.
+Recette de mon crumble aux pommes, délicieux en hiver comme en été !
 
 - *Préparation* : 15 minutes.
 - *Cuisson* : 25-30 minutes.
@@ -27,10 +27,10 @@ Recette pour crumble aux pommes.
 
 ## Photo
 - Le plat :
-  [![crumble-aux-pommes-1.jpg]({filename}images/crumble-aux-pommes-1.jpg){width=60%}]({filename}images/crumble-aux-pommes-1.jpg)
+  [![crumble-aux-pommes-1.jpg]({filename}images/crumble-aux-pommes-1.jpg){width=40%}]({filename}images/crumble-aux-pommes-1.jpg)
 
 - Une part :
-  [![crumble-aux-pommes-2.jpg]({filename}images/crumble-aux-pommes-2.jpg){width=60%}]({filename}images/crumble-aux-pommes-2.jpg)
+  [![crumble-aux-pommes-2.jpg]({filename}images/crumble-aux-pommes-2.jpg){width=50%}]({filename}images/crumble-aux-pommes-2.jpg)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace vanille ! *Miam !*
