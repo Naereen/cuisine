@@ -24,8 +24,7 @@ Recette pour tarte aux pommes, simple et classique.
 4. *Optionnel* : mettre de la confiture au fond de la pâte (si pas beaucoup de pommes par exemple),
 5. Disposer les tranches de pommes en rond (les puristes le feront en spirale !),<br><br>
    [![tarte-aux-pommes-1.jpg]({filename}images/tarte-aux-pommes-1.jpg){width=60%}]({filename}images/tarte-aux-pommes-1.jpg)<br>
-6. Version la préparation, bien étaler,
-7. Saupoudrer avec un peu de sucre roux,
+6. Version la préparation, bien étaler. Saupoudrer avec un peu de sucre roux,
 7. Faire cuire maximum 25 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (le dessus ne doit pas cramer !).
    [![tarte-aux-pommes-2.jpg]({filename}images/tarte-aux-pommes-2.jpg){width=60%}]({filename}images/tarte-aux-pommes-2.jpg)
 
