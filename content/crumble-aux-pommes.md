@@ -12,7 +12,7 @@ Recette de mon crumble aux pommes, délicieux en hiver comme en été !
 - 5 ou 6 pommes de bonne taille (golden, ou autres),
 - 150 g de sucre roux (cassonade) ou blanc,
 - [Cannelle](https://fr.wikipedia.org/wiki/Cannelle) en poudre, un peu,
-- 300 g de farine blanche (variante : moitié farine blanche, moitié farine de sarrasin, c'est délicieux !),
+- 300 g de farine blanche[ref]Je pensais qu'on pouvait faire une variante avec moitié farine blanche, moitié farine de sarrasin, mais en fait ça ne marche pas du tout ! Le sablé ne prend pas et ça ressemble à des miettes de galettes bretonnes pas assez cuites...[/ref],
 - 100 g de beurre (salé),
 - Optionnel : 25 g de pralin.
 
@@ -33,6 +33,8 @@ Recette de mon crumble aux pommes, délicieux en hiver comme en été !
 - Une part :
   [![crumble-aux-pommes-3.jpg]({filename}images/crumble-aux-pommes-3.jpg){width=50%}]({filename}images/crumble-aux-pommes-3.jpg)
 
+----
+
 ## Variantes
 On peut varier un peu les fruits :
 
@@ -43,10 +45,13 @@ On peut varier un peu les fruits :
 Autres variantes :
 
 - Je n'ai jamais essayé moi-même, mais pommes - bananes est un grand classique !
-- On peut aussi faire un crumble pommes - bananes - chocolat ! Je rédigerai la recette quand j'aurai essayé !
+- On peut aussi faire un crumble pommes - bananes - chocolat ! Je rédigerai la recette [quand j'aurai essayé](https://github.com/Naereen/cuisine/issues/114) !
+
+----
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace vanille ! *Miam !*
 - Il pleut être réchauffé rapidement au four à micro-ondes si besoin.
 - Convient bien aux régimes sans viande et sans produit d'origine porcine, mais ne convient pas aux régimes sans lait (beurre !).
 - Se conserve quelques jours, sous une cloche (ou au four), mais pas plus longtemps (il n'y a ni œufs ni lait, mais il y a du beurre !).
+## Notes
