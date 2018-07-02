@@ -54,6 +54,8 @@ DEFAULT_PAGINATION = 10
 # Dates of articles from the file modification
 DEFAULT_DATE = "fs"
 
+DEFAULT_DATE_FORMAT = "%A %d %B %Y"
+
 DEFAULT_CATEGORY = "recette"
 
 # Get copied to the output
