@@ -6,12 +6,14 @@ Summary: Ma recette de riz au lait à la vanille, rapide et facile ! Pour dire c
 Ma recette de riz au lait à la vanille, rapide et facile !
 À ne pas confondre avec [Riolu](http://www.pokepedia.fr/Riolu), qui est un pokémon !
 
+> [![riz-au-lait-a-la-vanille-3.jpg]({filename}images/riz-au-lait-a-la-vanille-3.jpg){width=30%}]({filename}images/riz-au-lait-a-la-vanille-3.jpg)
+
 - *Préparation* : 2 minutes.
-- *Cuisson* : 12 minutes.
+- *Cuisson* : 20 minutes.
 - *Quantité* : pour quatres portions.
 
 ## Ingrédients
-- 100 g de riz à grains ronds (riz pour riz au lait, ça se trouve en supermarché et même en vrac dans certaines BioCoop),
+- 100 g de riz à grains ronds (riz pour riz au lait, ça se trouve en supermarché et même en vrac dans certaines BioCoop ou [une autre épicerie bio](https://perso.crans.org/besson/zero-dechet/quelques-liens-utiles-11-06-2018.html#vrac)),
 - 5 cuillères à soupe de sucre blanc,
 - 1 sachet de sucre vanillé,
 - 1 litre de lait, ou 75 cl de lait et 25 cl d'eau pour être moins lourd.
