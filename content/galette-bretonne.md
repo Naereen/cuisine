@@ -42,6 +42,9 @@ Recette pour des galettes bretonnes : le plat typique de la Bretagne, facile à 
 - Garnir avec du jambon, un œuf en plus, du fromage etc. Soyez créatifs !
 - :wine_glass: Servir avec un bon cidre sec.
 - Si on ne sale pas trop la pâte, on peut aussi les déguster avec de la garniture sucrée. Les classiques : miel, confiture, crème de marrons, sucre... Les plus originales : sirop d'érable et chantilly, beurre sucre, sucre citron, sucre et flambée au rhum etc.
+- Sucrées, c'est délicieux avec une boule de glace, par exemple une boule citron pour une crème beurre sucre :
+
+[![galette-bretonne-5.jpg]({filename}images/galette-bretonne-5.jpg){width=75%}]({filename}images/galette-bretonne-5.jpg)
 
 ## Photo
 [![galette-bretonne-4.jpg]({filename}images/galette-bretonne-4.jpg){width=75%}]({filename}images/galette-bretonne-4.jpg)
