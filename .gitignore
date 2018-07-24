@@ -3,5 +3,6 @@ _build/
 *.pyc
 __pycache__/
 output/
-issues/
+issues/github.com
+issues/*issues*.md
 *.pid
