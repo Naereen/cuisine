@@ -47,8 +47,6 @@ Variantes :
 
 ## Photo
 [![tajine-vegeratien-a-labricot-et-aux-pruneaux-1.jpg]({filename}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-1.jpg){width=40%}]({filename}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-1.jpg)
-[![tajine-vegeratien-a-labricot-et-aux-pruneaux-2.jpg]({filename}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-2.jpg){width=40%}]({filename}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-2.jpg)
-[![tajine-vegeratien-a-labricot-et-aux-pruneaux-3.jpg]({filename}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-3.jpg){width=40%}]({filename}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-3.jpg)
 
 ## Remarques
 - C'est un plat très savoureux, dont on peut faire varier la recette à l'infini. Avec des courgettes, ou des aubergines, ou des pommes de terre cuites à l'eau en plus des légumes, sans cumin ou avec de la menthe…
