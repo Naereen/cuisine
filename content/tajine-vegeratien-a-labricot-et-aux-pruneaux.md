@@ -52,4 +52,4 @@ Variantes :
 
 ## Remarques
 - C'est un plat très savoureux, dont on peut faire varier la recette à l'infini. Avec des courgettes, ou des aubergines, ou des pommes de terre cuites à l'eau en plus des légumes, sans cumin ou avec de la menthe…
-- Il existe évidemment aussi une version non végétarienne, que voici : [TODO](TODO).
+- Il existe évidemment aussi une version non végétarienne, que voici : [dont voici la recette](tajine-de-poulet-a-labricot.html).

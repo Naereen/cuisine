@@ -29,10 +29,10 @@ Pour 3 litres d'alcool :
 8. Pour des cadeaux, utiliser des petites bouteilles (style bouteilles de vinaigres ou d'huile, ou petites bouteilles de vin de table).
 
 ## Photo
-[![rhum-arrange-aux-prunes-1.jpg]({filename}images/rhum-arrange-aux-prunes-1.jpg){width=30%}]({filename}images/rhum-arrange-aux-prunes-1.jpg)
-[![rhum-arrange-aux-prunes-2.jpg]({filename}images/rhum-arrange-aux-prunes-2.jpg){width=30%}]({filename}images/rhum-arrange-aux-prunes-2.jpg)
-[![rhum-arrange-aux-prunes-3.jpg]({filename}images/rhum-arrange-aux-prunes-3.jpg){width=30%}]({filename}images/rhum-arrange-aux-prunes-3.jpg)
-[![rhum-arrange-aux-prunes-4.jpg]({filename}images/rhum-arrange-aux-prunes-4.jpg){width=30%}]({filename}images/rhum-arrange-aux-prunes-4.jpg)
+[![rhum-arrange-aux-prunes-1.jpg]({filename}images/rhum-arrange-aux-prunes-1.jpg){width=50%}]({filename}images/rhum-arrange-aux-prunes-1.jpg)
+[![rhum-arrange-aux-prunes-2.jpg]({filename}images/rhum-arrange-aux-prunes-2.jpg){width=50%}]({filename}images/rhum-arrange-aux-prunes-2.jpg)
+[![rhum-arrange-aux-prunes-3.jpg]({filename}images/rhum-arrange-aux-prunes-3.jpg){width=50%}]({filename}images/rhum-arrange-aux-prunes-3.jpg)
+[![rhum-arrange-aux-prunes-4.jpg]({filename}images/rhum-arrange-aux-prunes-4.jpg){width=50%}]({filename}images/rhum-arrange-aux-prunes-4.jpg)
 
 
 ## Remarques

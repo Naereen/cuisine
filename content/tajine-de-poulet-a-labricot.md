@@ -48,10 +48,8 @@ Variantes :
 9. Servir le tout en même temps : deux cuillères de semoule, une cuisse ou un blanc de poulet avec des oignons et la sauce, et deux cuillères de légumes.
 
 ## Photo
-[![tajine-de-poulet-a-labricot-1.jpg]({filename}images/tajine-de-poulet-a-labricot-1.jpg){width=40%}]({filename}images/tajine-de-poulet-a-labricot-1.jpg)
-[![tajine-de-poulet-a-labricot-2.jpg]({filename}images/tajine-de-poulet-a-labricot-2.jpg){width=40%}]({filename}images/tajine-de-poulet-a-labricot-2.jpg)
-[![tajine-de-poulet-a-labricot-3.jpg]({filename}images/tajine-de-poulet-a-labricot-3.jpg){width=40%}]({filename}images/tajine-de-poulet-a-labricot-3.jpg)
+[![tajine-de-poulet-a-labricot.jpg]({filename}images/tajine-de-poulet-a-labricot.jpg){width=40%}]({filename}images/tajine-de-poulet-a-labricot.jpg)
 
 ## Remarques
 - C'est un plat très savoureux, dont on peut faire varier la recette à l'infini. Avec de l'agneau en lieu de poulet, avec des courgettes, ou des aubergines, ou des pommes de terre cuites à l'eau en plus des légumes, sans cumin ou avec de la menthe…
-- Il existe évidemment aussi une version végétarienne, que voici : [TODO](TODO).
+- Il existe évidemment aussi une version végétarienne, [dont voici la recette](tajine-vegetarien-a-labricot-et-aux-pruneaux.html).
