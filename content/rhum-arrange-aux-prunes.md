@@ -30,15 +30,19 @@ Pour 3 litres d'alcool :
 
 ## Photos
 - La purée de prunes, avant l'ajout de l'alcool :
+
   [![rhum-arrange-aux-prunes-1.jpg]({filename}images/rhum-arrange-aux-prunes-1.jpg){width=55%}]({filename}images/rhum-arrange-aux-prunes-1.jpg)
 
 - Avec les deux alcools :
+
   [![rhum-arrange-aux-prunes-2.jpg]({filename}images/rhum-arrange-aux-prunes-2.jpg){width=55%}]({filename}images/rhum-arrange-aux-prunes-2.jpg)
 
 - A la mise en bouteilles :
+
   [![rhum-arrange-aux-prunes-3.jpg]({filename}images/rhum-arrange-aux-prunes-3.jpg){width=50%}]({filename}images/rhum-arrange-aux-prunes-3.jpg)
 
-- Dégustations dans deux petits verres :
+- Dégustations dans deux petits verres (après macération, l'alcool est bien plus sombre, rouge assez vif, comme on le voit sur la photo précédente, cette photo était au début de la macération) :
+
   [![rhum-arrange-aux-prunes-4.jpg]({filename}images/rhum-arrange-aux-prunes-4.jpg){width=35%}]({filename}images/rhum-arrange-aux-prunes-4.jpg)
 
 
