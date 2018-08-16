@@ -24,7 +24,7 @@ Recette pour des gnocchis aux aubergines.
 4. Quand l'aubergine commence à être bien tendre, faites bouillir une grande casserole d'eau salée,
 5. Plonger les gnocchis dans l'eau, attendre qu'ils remontent à la surface (2 à 3 minutes), égoutter.
 6. Mélanger les gnocchis aux légumes, laisser le tout chauffer quelques minutes à la poêle,
-7. Server chaud, avec du parmesan rappé ou de gruyère rappé selon les goûts.
+7. Servir chaud, avec du parmesan rappé ou de gruyère rappé selon les goûts.
 
 ## Photo
 [![TODO]({filename}images/blank.png)](#)
