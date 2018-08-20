@@ -32,5 +32,11 @@ La recette d'un gratin d'aubergines au parmesan et au coulis de tomates, qui se 
 
 [![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg]({filename}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg){width=55%}]({filename}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg)
 
+
 ## Remarques
 - :wine_glass: Servir avec un vin rouge pas trop prononcé, comme un Côte du Rhône, ou en été avec un bon rosé, comme un rosé de Corse.
+- Pour un gratin encore plus fondant, on peut tricher un peu… Il suffit de préparer les aubergines un peu en avance, de les [enduire d'huile](https://youtu.be/sTA67hq7QAU?t=19) (d'olive) et les laisser absorber un peu d'huile avant de les mettre dans le plat à gratin.
+    Note : cette suggestion nous vient de ce cher [Hubert Bonisseur de La Bathe](https://fr.wikipedia.org/wiki/Hubert_Bonisseur_de_La_Bath) :<br><br>
+    <iframe width="764" height="430" src="https://www.youtube.com/embed/sTA67hq7QAU?start=19" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <br>
+    [![jaime-quand-on-menduis-dhuile.jpg]({filename}images/jaime-quand-on-menduis-dhuile.jpg){width=35%}]({filename}images/jaime-quand-on-menduis-dhuile.jpg)
