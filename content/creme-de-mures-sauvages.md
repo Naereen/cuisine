@@ -24,11 +24,11 @@ Ma recette pour une crème de mûres sauvages, à faire à la fin de l'été et 
 6. *Bonus* : après avoir filter pour la mise en bouteille, les résidus de mûres sont délicieux, et peuvent se savourer comme un dessert en tant que tel ! Il faut avoir bien nettoyer les fruits et notamment avoir enlever toutes les petites queues (cf. étape 1), mais c'est vraiment délicieux !
 
 ## Photos
-- Les mûres pendant leur nettoyage, dans des boites en plastique et verre que j'avais utilisé pour les ramasser :
+- Les mûres pendant leur nettoyage, dans des boites en plastique et verre que j'avais utilisé pour les ramasser :<br>
     [![creme-de-mures-sauvages-1.jpg]({filename}images/creme-de-mures-sauvages-1.jpg){width=55%}]({filename}images/creme-de-mures-sauvages-1.jpg)
 
-- La préparation de mûres avec l'eau, l'alcool, le sucre, et un film plastique pour protéger la casserole pendant les étapes de macération :
-    [![creme-de-mures-sauvages-2.jpg]({filename}images/creme-de-mures-sauvages-2.jpg){width=55%}]({filename}images/creme-de-mures-sauvages-2.jpg)
+- La préparation de mûres avec l'eau, l'alcool, le sucre, et un film plastique pour protéger la casserole pendant les étapes de macération :<br>
+    [![creme-de-mures-sauvages-2.jpg]({filename}images/creme-de-mures-sauvages-2.jpg){width=30%}]({filename}images/creme-de-mures-sauvages-2.jpg)
 
 - La mise en bouteille et un verre de dégustation :
     [![creme-de-mures-sauvages-3.jpg]({filename}images/creme-de-mures-sauvages-3.jpg){width=55%}]({filename}images/creme-de-mures-sauvages-3.jpg)
