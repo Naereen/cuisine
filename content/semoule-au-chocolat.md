@@ -32,5 +32,5 @@ Ma recette de gâteau de semoule au chocolat, très facile et rapide à faire et
 
 ## Remarques
 - Se conserve une semaine (il y a du lait !).
-- On peut aussi faire sans chocolat en poudre et sans carré de chocolat mais avec par exemple de la poudre d'amande, ou des raisons ou abricots secs au fond.
+- On peut aussi faire sans chocolat en poudre et sans carré de chocolat mais avec par exemple de la poudre d'amande, ou des raisins ou abricots secs au fond !
 - Accompagne très bien un bon thé à la menthe !
