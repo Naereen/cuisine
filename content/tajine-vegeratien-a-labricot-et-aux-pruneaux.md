@@ -18,7 +18,7 @@ Ma recette de tajine végétarien à l'abricot et aux pruneaux, facile à faire 
 - 3 carottes,
 - 100 g d'abricot secs,
 - 50 g de pruneaux secs,
-- 65g de semoule de blé dur par personne.
+- 125g de semoule de blé dur **par personne**.
 
 Épices :
 

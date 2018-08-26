@@ -12,13 +12,13 @@ Ma recette de tajine de poulet à l'abricot, facile à faire et toujours appréc
 ## Ingrédients
 > Pour 4 personnes.
 
-- 4 blancs (type escalopes) de poulet, ou des cuisses ça ira aussi !
+- 4 cuisses de poulet, ou des blancs ça ira aussi !
 - 2 oignons,
 - 3 tomates,
 - 1 poivrons,
 - 2 carottes,
 - 100 g d'abricot secs,
-- 50g de semoule de blé dur par personne.
+- 100g de semoule de blé dur **par personne**.
 
 Épices :
 
