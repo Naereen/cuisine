@@ -23,6 +23,7 @@ Recette pour de la confiture de mûres sauvages. Une recette très classique mai
 5. Rajouter du sucre à confiture ou de l'eau selon la consistance du mélange (ça doit être bien épais et visqueux, mais pas trop cristallisé),
 6. Laisser cuire à petit feu un bon moment, 1 heure au moins, pour bien faire fondre les fruits,
 7. Éteindre le feu, laisser refroidir un peu, puis mettre en pot (dans des pots bien propres ou stérilisés si vous voulez la conserver longtemps),
+   [![confiture-de-mures-sauvages-3.jpg]({filename}images/confiture-de-mures-sauvages-3.jpg){width=60%}]({filename}images/confiture-de-mures-sauvages-3.jpg)<br>
 8. Faire refroidir les pots en les posant à l'envers,
 9. Quelques heures plus tard... dégustez sur un morceau de pain frais ou dans un yaourt !
 
