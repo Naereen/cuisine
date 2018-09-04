@@ -26,7 +26,6 @@ Recette pour de la confiture de poires et pommes aux pignons de pin. Une recette
 8. Faire refroidir les pots en les posant à l'envers,
   [![confiture-de-poires-et-pommes-aux-pignons-3.jpg]({filename}images/confiture-de-poires-et-pommes-aux-pignons-3.jpg){width=60%}]({filename}images/confiture-de-poires-et-pommes-aux-pignons-3.jpg)
 9. Quelques heures plus tard... dégustez sur un morceau de pain frais ou dans un yaourt !
-  [![confiture-de-poires-et-pommes-aux-pignons-4.jpg]({filename}images/confiture-de-poires-et-pommes-aux-pignons-4.jpg){width=60%}]({filename}images/confiture-de-poires-et-pommes-aux-pignons-4.jpg)
 
 ## Remarques
 - Ça se conserve longtemps !

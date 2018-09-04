@@ -24,14 +24,14 @@ Ma recette pour une crème de mûres sauvages, à faire à la fin de l'été et 
 6. *Bonus* : après avoir filter pour la mise en bouteille, les résidus de mûres sont délicieux, et peuvent se savourer comme un dessert en tant que tel ! Il faut avoir bien nettoyer les fruits et notamment avoir enlever toutes les petites queues (cf. étape 1), mais c'est vraiment délicieux !
 
 ## Photos
-- Les mûres pendant leur nettoyage, dans des boites en plastique et verre que j'avais utilisé pour les ramasser :<br>
-    [![creme-de-mures-sauvages-1.jpg]({filename}images/creme-de-mures-sauvages-1.jpg){width=55%}]({filename}images/creme-de-mures-sauvages-1.jpg)
+- Les mûres pendant leur nettoyage, dans des boites en plastique et verre que j'avais utilisé pour les ramasser :
+    <br>[![creme-de-mures-sauvages-1.jpg]({filename}images/creme-de-mures-sauvages-1.jpg){width=55%}]({filename}images/creme-de-mures-sauvages-1.jpg)<br>
 
-- La préparation de mûres avec l'eau, l'alcool, le sucre, et un film plastique pour protéger la casserole pendant les étapes de macération :<br>
-    [![creme-de-mures-sauvages-2.jpg]({filename}images/creme-de-mures-sauvages-2.jpg){width=30%}]({filename}images/creme-de-mures-sauvages-2.jpg)
+- La préparation de mûres avec l'eau, l'alcool, le sucre, et un film plastique pour protéger la casserole pendant les étapes de macération :
+    <br>[![creme-de-mures-sauvages-2.jpg]({filename}images/creme-de-mures-sauvages-2.jpg){width=30%}]({filename}images/creme-de-mures-sauvages-2.jpg)<br>
 
-- La mise en bouteille et un verre de dégustation :
-    [![creme-de-mures-sauvages-3.jpg]({filename}images/creme-de-mures-sauvages-3.jpg){width=55%}]({filename}images/creme-de-mures-sauvages-3.jpg)
+- Un verre de dégustation (à gauche), avec au milieu un verre de [mon génépi](genepi.html) et à droite un verre de [mon rhum aux prunes](rhum-arrange-aux-prunes.html) :
+    <br>[![creme-de-mures-sauvages-3.jpg]({filename}images/creme-de-mures-sauvages-3.jpg){width=55%}]({filename}images/creme-de-mures-sauvages-3.jpg)<br>
 
 ## Remarques
 - La crème de mûres sauvages ne doit pas se boire pure ! Elle est un peu forte. Il faut la boire en kir (un cocktail tout simple, du vin blanc et de la crème, environ en proportion 4 pour 1), ou en kir celtique (vin blanc, crème, chouchen), ou kir royal (vin blanc, champagne, crème)...
