@@ -27,7 +27,7 @@ Ma recette de courgettes au curry de coco et poudre d'amandes. Original et savou
 4. Laisser cuire, ajouter le lait de coco puis le persil,
 5. Saler, et laisser cuire jusqu'à quasi évaporation de toute l'eau. Il faut s'arrêter quand la texture vous convient.<br><br>
     [![curry-de-courgettes-coco-et-amandes-3.jpg]({filename}images/curry-de-courgettes-coco-et-amandes-3.jpg){width=55%}]({filename}images/curry-de-courgettes-coco-et-amandes-3.jpg)<br><br>
-6. Pour les amateurs, on peut ajouter de l'ail moulu, ou du sésame grillé.
+6. Pour les amateur-trice-s, on peut ajouter de l'ail moulu, ou du sésame grillé.
 
 ## Remarques
 - Des fois, j'aime laisser beaucoup d'eau, et ajouter un peu de semoule de blé dure, qui va absorber l'eau restante et cuire rapidement.

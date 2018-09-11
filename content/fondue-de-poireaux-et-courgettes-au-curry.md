@@ -26,5 +26,5 @@ Recette pour fondue de poireaux et courgettes au curry, un plat rapide et diét�
 
 ## Remarques
 - La fondue de poireaux et courgettes peut se savourer comme un plat entier, ou en accompagnement de riz blanc ou d'un plat de poisson par exemple. On peut aussi s'en servir en garniture d'une [galette bretonne](galettes-bretonnes.html).
-- :cutlery: Servir chaud, avec du fromage rappé en plus pour les amateurs.
+- :cutlery: Servir chaud, avec du fromage rappé en plus pour les amateur-trice-s.
 - :wine_glass: Servir avec un vin blanc sec, un [Sylvaner](https://fr.wikipedia.org/wiki/Sylvaner_d'Alsace) par exemple.

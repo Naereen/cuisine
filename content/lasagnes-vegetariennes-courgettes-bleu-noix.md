@@ -33,5 +33,5 @@ Une merveille, attention je vous aurai prévenu !
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- :cutlery: Servir chaud avec du fromage rappé en plus pour les amateurs.
+- :cutlery: Servir chaud avec du fromage rappé en plus pour les amateur-trice-s.
 - :wine_glass: Servir avec un vin blanc sec, un [Sylvaner](https://fr.wikipedia.org/wiki/Sylvaner_d'Alsace) par exemple.

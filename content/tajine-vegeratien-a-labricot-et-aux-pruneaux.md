@@ -42,7 +42,7 @@ Variantes :
 5. Saler et poivrer les légumes, puis ajouter les épices,
 6. Laisser cuire en remuant de temps en temps. Ajouter un peu d'eau pour faire de la sauce, et ajouter de l'huile d'olive (pas beaucoup) si la poêle attache,
 7. Après au moins 30 minutes de cuisson, ajouter le miel, et continuer à cuire les légumes si les carottes (ou d'autres morceaux) ne sont pas assez tendres. Ajouter les amandes si vous en avez,
-8. Faire bouillir de l'eau, et dans une casserole, verser la semoule, puis un filet d'huile d'olive. Pour les amateurs de cuisine épicée, on peut ajouter dans la semoule un *tout petit peu* de piment en poudre. Verser l'eau bouillante, bien remuer, puis couvrir et laisser couvert jusqu'au service. Il faut mélanger une fois avant de servir.
+8. Faire bouillir de l'eau, et dans une casserole, verser la semoule, puis un filet d'huile d'olive. Pour les amateur-trice-s de cuisine épicée, on peut ajouter dans la semoule un *tout petit peu* de piment en poudre. Verser l'eau bouillante, bien remuer, puis couvrir et laisser couvert jusqu'au service. Il faut mélanger une fois avant de servir.
 9. Servir le tout en même temps : deux cuillères de semoule et trois cuillères de légumes et la sauce.
 
 ## Photo

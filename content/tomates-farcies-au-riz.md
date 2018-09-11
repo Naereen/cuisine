@@ -35,6 +35,6 @@ Recette pour des tomates farcies au riz (recette grecque).
 [![tomates-farcies-au-riz-2.jpg]({filename}images/tomates-farcies-au-riz-2.jpg){width=60%}]({filename}images/tomates-farcies-au-riz-2.jpg)
 
 ## Remarques
-- :cutlery: Servir chaud, avec du fromage rappé en plus pour les amateurs.
+- :cutlery: Servir chaud, avec du fromage rappé en plus pour les amateur-trice-s.
 - :wine_glass: Servir avec un vin rouge de Provence, comme un Coteau du Mont Ventoux, par exemple.
 - La même recette peut être réalisée avec des courgettes ou des poivrons. Comme pour [les légumes farcis à la viande](tomates-et-courgettes-farcies.html).

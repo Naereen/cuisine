@@ -36,5 +36,5 @@ Recette pour du risotto aux champignons, une recette italienne, qui réchauffe b
 [![TODO]({filename}images/blank.png)](#)
 
 ## Remarques
-- :cutlery: Servir chaud, avec du parmesan rappé en plus pour les amateurs.
+- :cutlery: Servir chaud, avec du parmesan rappé en plus pour les amateur-trice-s.
 - :wine_glass: Servir avec un vin blanc, par exemple un Bourgogne.

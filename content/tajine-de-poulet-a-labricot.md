@@ -44,7 +44,7 @@ Variantes :
 5. Saler et poivrer les deux poêles, ajouter des épices dans les deux (en même quantité),
 6. Laisser cuire en remuant de temps en temps. Ajouter un peu d'eau pour faire de la sauce au fur et à mesure que le poulet rend du gras, et ajouter de l'huile d'olive (pas beaucoup) si une des poêles attache,
 7. Après au moins 30 minutes de cuisson, ajouter le miel dans la poêle du poulet, et continuer à cuire les légumes si les carottes ne sont pas assez tendres. Ajouter les amandes, raisins et/ou pruneaux si vous en avez,
-8. Faire bouillir de l'eau, et dans une casserole, verser la semoule, puis un filet d'huile d'olive. Pour les amateurs de cuisine épicée, on peut ajouter dans la semoule un *tout petit peu* de piment en poudre. Verser l'eau bouillante, bien remuer, puis couvrir et laisser couvert jusqu'au service. Il faut mélanger une fois avant de servir.
+8. Faire bouillir de l'eau, et dans une casserole, verser la semoule, puis un filet d'huile d'olive. Pour les amateur-trice-s de cuisine épicée, on peut ajouter dans la semoule un *tout petit peu* de piment en poudre. Verser l'eau bouillante, bien remuer, puis couvrir et laisser couvert jusqu'au service. Il faut mélanger une fois avant de servir.
 9. Servir le tout en même temps : deux cuillères de semoule, une cuisse ou un blanc de poulet avec des oignons et la sauce, et deux cuillères de légumes.
 
 ## Photo
