@@ -21,8 +21,8 @@ Recette de la fameuse tartiflette savoyarde, un bon plat bien consistant et savo
 - un peu de beurre.
 
 ## Préparation
-1. [Beurrer le fond d'un grand plat à gratin](https://kaamelott-soundboard.2ec0b4.fr/#son/mettre_du_beurre_au_fond_du_plat),
-    <audio controls><source src="https://kaamelott-soundboard.2ec0b4.fr/sounds/mettre_du_beurre_au_fond_du_plat.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+1. [Beurrer le fond d'un grand plat à gratin](https://kaamelott-soundboard.2ec0b4.fr/#son/mettre_du_beurre_au_fond_du_plat),<br>
+    <audio controls><source src="https://kaamelott-soundboard.2ec0b4.fr/sounds/mettre_du_beurre_au_fond_du_plat.mp3" type="audio/mpeg">Votre navigateur ne semble pas supporter l'élément audio. Écoutez ce son directement sur <a href="https://kaamelott-soundboard.2ec0b4.fr/#son/mettre_du_beurre_au_fond_du_plat">cette page</a>.</audio><br>
 2. Laver, éplucher et couper en tranches les pommes de terre et l'oignon,
 3. Verser le tout dans le plat à gratin, avec les lardons, mélanger et ajouter la crème,
 4. Saler, poivrer,

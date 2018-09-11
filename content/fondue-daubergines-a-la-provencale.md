@@ -39,9 +39,9 @@ Ma recette pour une fondue d'aubergines à la Provençale, un plat rapide et dé
 
 Une fois le plat terminé, on voit ici certains morceaux d'ail assez gros, et une quantité non négligeable d'huile d'olive.
 
-["Le gras, c'est la vie" comme le dit si bien Sire Karadoc](https://kaamelott-soundboard.2ec0b4.fr/#son/le_gras_cest_la_vie),
-<audio controls><source src="https://kaamelott-soundboard.2ec0b4.fr/sounds/le_gras_cest_la_vie.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+["Le gras, c'est la vie" comme le dit si bien Sire Karadoc](https://kaamelott-soundboard.2ec0b4.fr/#son/le_gras_cest_la_vie).
 
+<audio controls><source src="https://kaamelott-soundboard.2ec0b4.fr/sounds/le_gras_cest_la_vie.mp3" type="audio/mpeg">Votre navigateur ne semble pas supporter l'élément audio. Écoutez ce son directement sur <a href="https://kaamelott-soundboard.2ec0b4.fr/#son/le_gras_cest_la_vie">cette page</a>.</audio>
 
 ## Remarques
 - :cutlery: Servir chaud, avec une pincée de parmesan rappé en plus pour les amateur-trice-s.

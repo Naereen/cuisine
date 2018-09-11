@@ -20,8 +20,8 @@ Recette pour un gratin de polenta et saucisses.
 
 ## Préparation
 1. Faire cuire la polenta, comme indiqué sur le paquet (dans de l'eau chaude, pas du lait),
-2. [Beurrer le fond d'un grand plat à gratin](https://kaamelott-soundboard.2ec0b4.fr/#son/mettre_du_beurre_au_fond_du_plat),
-    <audio controls><source src="https://kaamelott-soundboard.2ec0b4.fr/sounds/mettre_du_beurre_au_fond_du_plat.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+2. [Beurrer le fond d'un grand plat à gratin](https://kaamelott-soundboard.2ec0b4.fr/#son/mettre_du_beurre_au_fond_du_plat),<br>
+    <audio controls><source src="https://kaamelott-soundboard.2ec0b4.fr/sounds/mettre_du_beurre_au_fond_du_plat.mp3" type="audio/mpeg">Votre navigateur ne semble pas supporter l'élément audio. Écoutez ce son directement sur <a href="https://kaamelott-soundboard.2ec0b4.fr/#son/mettre_du_beurre_au_fond_du_plat">cette page</a>.</audio><br>
 3. En même temps, faire cuire (pas entièrement) les saucisses à la poêle, sans rajouter de matière grasse,
 4. Verser la polenta dans le plat à gratin, ajouter les saucisses et la sauce tomate. Les saucisses peuvent être enfoncées dans la polenta avec une cuillère. Égaliser bien le dessus du gratin,
 5. Poivrer, et ajouter du gruyère rappé sur le dessus,
