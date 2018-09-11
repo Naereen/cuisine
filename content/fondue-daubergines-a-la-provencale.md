@@ -23,14 +23,14 @@ Ma recette pour une fondue d'aubergines à la Provençale, un plat rapide et dé
 ## Préparation
 1. Dans une grande poêle, faire chauffer de l'huile d'olive,
 2. Couper les oignons en petits morceaux, et les faire chauffer à feu doux dans l'huile d'olive,
-3. Pendant ce temps, laver les aubergines et les éplucher. Les couper en tranches fines, dans le sens de la longueur, comme voici :
-    [![fondue-daubergines-a-la-provencale-1.jpg]({filename}images/fondue-daubergines-a-la-provencale-1.jpg){width=45%}]({filename}images/fondue-daubergines-a-la-provencale-1.jpg)
+3. Pendant ce temps, laver les aubergines et les éplucher. Les couper en tranches fines, dans le sens de la longueur, comme voici :<br>
+    [![fondue-daubergines-a-la-provencale-2.jpg]({filename}images/fondue-daubergines-a-la-provencale-2.jpg){width=45%}]({filename}images/fondue-daubergines-a-la-provencale-2.jpg)<br>
 4. Bien mélanger la poêle tout en ajoutant les tranches d'aubergines. Saler, poivrer, et rajouter des herbes et de l'origan,
 5. Nettoyer, enlever la peau et couper les gousses d'ail en petits morceaux (inutile de couper trop fin). Ajouter l'ail dans la poêle,
-6. Rajouter de l'huile d'olive, bien mélanger la poêle régulièrement,
-    [![fondue-daubergines-a-la-provencale-3.jpg]({filename}images/fondue-daubergines-a-la-provencale-3.jpg){width=45%}]({filename}images/fondue-daubergines-a-la-provencale-3.jpg)
+6. Rajouter de l'huile d'olive, bien mélanger la poêle régulièrement,<br>
+    [![fondue-daubergines-a-la-provencale-3.jpg]({filename}images/fondue-daubergines-a-la-provencale-3.jpg){width=45%}]({filename}images/fondue-daubergines-a-la-provencale-3.jpg)<br>
 7. Laisser cuire, au moins 10 minutes à feu doux en mélangeant de temps en temps.
-    > J'utilise un couvercle, qui garde la chaleur et la vapeur d'eau, et qui permet de mélanger sans ouvrir : d'une main je tiens ma poêle, de l'autre le couvercle bien fermé dessus, et je secoue fort pour mélanger !
+   > J'utilise un couvercle, qui garde la chaleur et la vapeur d'eau, et qui permet de mélanger sans ouvrir : d'une main je tiens ma poêle, de l'autre le couvercle bien fermé dessus, et je secoue fort pour mélanger !
 8. Goûter, et si besoin saler encore, ou poivrer davantage,
 9.  Servir chaud ! Mais ce plat se conserve plusieurs jours et peut se manger réchauffer.
 
