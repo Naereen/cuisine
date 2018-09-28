@@ -42,3 +42,7 @@ Bref, c'est facile, ça ne coûte pas cher, c'est écolo, c'est bon, c'est créa
 - Parce qu'ainsi j'aurai des yaourts qui produisent moins de déchets !
 - Parce qu'on peut les préparer avec différents parfums : en une tournée de 7 pour la première fois, j'en ai fait un à la poudre d'amande (trop trop bon), deux au sirop (menthe, grenadine, OK), un au chocolat (trop bon aussi, avec des petites pépites de chocolat au fond), et un à la cannelle (tout simple mais bien parfumé),
 - Parce que mon grand frère le fait, et je l'imite (souvent)…
+
+---
+
+## Notes

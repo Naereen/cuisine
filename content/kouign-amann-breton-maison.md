@@ -37,7 +37,8 @@ Ma recette pour mon kouign amann breton, le dessert typique de la Bretagne, si r
 10. Tasser la pâte dans un moule beurré et laissez le reposer pendant une demie-heure,
 11. Avec un couteau, tracer un quadrillage sur la pâte et parsemez quelques morceaux de beurre supplémentaires.
 
-Astuce pour le pliage :[http://www.recettes-bretonnes.fr/wp-content/Photos/etapes-kouign-amann.jpg](http://www.recettes-bretonnes.fr/wp-content/Photos/etapes-kouign-amann.jpg)
+Astuce pour le pliage :
+[![http://www.recettes-bretonnes.fr/wp-content/Photos/etapes-kouign-amann.jpg](http://www.recettes-bretonnes.fr/wp-content/Photos/etapes-kouign-amann.jpg)](http://www.recettes-bretonnes.fr/gateaux-bretons/recette-kouign-amann.html)
 
 ## Cuisson
 1. Préchauffer le four thermostat 7 (210°) <i class="fa fa-thermometer-full" aria-hidden="true"></i>.
