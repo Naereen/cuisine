@@ -3,7 +3,7 @@ Category: Recette
 Tags: recette, dessert, breton, moyen
 Summary: Ma recette pour mon kouign amann breton, le dessert typique de la Bretagne, si riche et si délicieux dans l'assiette !
 
-Ma recette pour mon kouign amann breton, le dessert typique de la Bretagne, si riche et si délicieux dans l'assiette !
+Ma recette[ref]Inspirée de [cette recette](http://www.recettes-bretonnes.fr/gateaux-bretons/recette-kouign-amann.html).[/ref] pour mon kouign amann breton, le dessert typique de la Bretagne, si riche et si délicieux dans l'assiette !
 
 - *Préparation* : 2 heures.
 - *Cuisson* : 35 minutes.
@@ -38,7 +38,8 @@ Ma recette pour mon kouign amann breton, le dessert typique de la Bretagne, si r
 11. Avec un couteau, tracer un quadrillage sur la pâte et parsemez quelques morceaux de beurre supplémentaires.
 
 Astuce pour le pliage :
-[![http://www.recettes-bretonnes.fr/wp-content/Photos/etapes-kouign-amann.jpg](http://www.recettes-bretonnes.fr/wp-content/Photos/etapes-kouign-amann.jpg)](http://www.recettes-bretonnes.fr/gateaux-bretons/recette-kouign-amann.html)
+
+[![http://www.recettes-bretonnes.fr/wp-content/Photos/etapes-kouign-amann.jpg](http://www.recettes-bretonnes.fr/wp-content/Photos/etapes-kouign-amann.jpg){width=75%}](http://www.recettes-bretonnes.fr/gateaux-bretons/recette-kouign-amann.html)
 
 ## Cuisson
 1. Préchauffer le four thermostat 7 (210°) <i class="fa fa-thermometer-full" aria-hidden="true"></i>.
@@ -57,4 +58,3 @@ Astuce pour le pliage :
 [![kouign-amann-breton-maison-4.jpg]({filename}images/kouign-amann-breton-maison-4.jpg){width=75%}]({filename}images/kouign-amann-breton-maison-4.jpg)
 
 ## Notes
-- Inspiré de [cette recette](http://www.recettes-bretonnes.fr/gateaux-bretons/recette-kouign-amann.html).
