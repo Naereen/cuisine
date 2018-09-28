@@ -34,6 +34,21 @@ Ma première recette de yaourts faits maison, avec une yaourtière et des idées
 
 Bref, c'est facile, ça ne coûte pas cher, c'est écolo, c'est bon, c'est créatif. Bilan ? **J'adore**.
 
+## Liste de saveurs
+
+- Sirop (menthe, grenadine, orange etc) : ne pas trop en mettre, mais c'est très savoureux,
+- Épices (cannelle, "quatre épices", sel et muscade, sel et poivre, ail et persil) : pareil, en mettre juste une petite pincée, et bien mélanger !
+- Chocolat : sucré ou non en poudre il faut bien mélanger (et ne pas en mettre trop), en pépites on peut les laisser au fond, en morceaux pareil. En tout cas si on peut utiliser du chocolat noir ou au lait je ne souhaite pas utiliser du chocolat blanc : c'est bon si on le voit !
+- Poudre d'amandes (ou de noisettes) : mon préféré !
+- Amandes effilées ou autre fruits secs (pistaches, noisettes, noix, châtaignes grillées) : très bon, une valeur sûre parce que ça ne change pas la texture finale du yaourt. Ne pas trop en mettre ! Si vous voulez soigner l'apparence, attendre la mise au réfrigérateur ou la dégustation pour ajouter les morceaux sur le dessus !
+- Parfums (artificiels ou non), par exemple fleur d'oranger, amande amère : ne pas en mettre trop, mais vraiment pas ! Moi j'aime beaucoup mes yaourts à la fleur d'oranger, mais c'est un peu spécial et certain-e-s détestent, évidemment.
+   > Comme Perceval et Karadoc qui font des potions,  *« J'en met combien ? Ben, vous en mettez pas trop. »* -- Kaamelott, Livre I.
+
+- Confiture, miel, crème de marron : je n'ai pas encore essayé,
+- Alcool : pas essayé non plus mais je tenterai !
+
+---
+
 ## Pourquoi ?
 
 - Parce qu'ils seront meilleurs des yaourts du commercent,
