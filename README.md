@@ -8,14 +8,12 @@ Ce projet contiens les sources pour [ce dossier](https://perso.crans.org/besson/
 - Des boissons :tea: :tropical_drink: :wine_glass:
 - Des plats :spaghetti: :stew: :egg:
 - Des desserts :cake: :cookie: :bread:
+- Et bien plus !
 
 ----
 
 ## Recettes à faire / faites
-
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/cuisine.svg)](https://GitHub.com/Naereen/cuisine/issues/) / [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/cuisine.svg)](https://GitHub.com/Naereen/cuisine/issues/)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 ----
 
@@ -23,10 +21,10 @@ Ce projet contiens les sources pour [ce dossier](https://perso.crans.org/besson/
 
 - [Pelican](http://getpelican.com/) pour la génération du site :hammer:,
 - [Thème](themes/alchemy) : [`pelican-alchemy`](https://nairobilug.github.io/pelican-alchemy/) :sparkles: (version un peu modifiée, traduite en français :fr:), par [@nairobilug](https://GitHub.com/nairobilug/),
-- [Greffons](plugins/) : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors) :left_right_arrow:, [`global_license`](https://github.com/getpelican/pelican-plugins/tree/master/global_license), [`random_article`](https://github.com/getpelican/pelican-plugins/tree/master/random_article), [`simple_footnotes`](https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes),
-- Mes propres photos :camera: pour chaque recettes (pas pour toutes, mais certaines),
-- Quelques liens vers [marmiton.org](http://marmiton.org/) pour certaines recettes,
-- Et... de l'amour !
+- [Greffons](plugins/) : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors), [`global_license`](https://github.com/getpelican/pelican-plugins/tree/master/global_license), [`random_article`](https://github.com/getpelican/pelican-plugins/tree/master/random_article), [`simple_footnotes`](https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes),
+- Mes propres photos :camera: pour chaque recette (pas pour toutes, mais certaines),
+- Quelques liens vers [marmiton.org](http://marmiton.org/) ou d'autres liens pour certaines recettes,
+- Et... de l'amour ❤ !
 
 ----
 
