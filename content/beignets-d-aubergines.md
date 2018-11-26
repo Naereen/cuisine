@@ -28,7 +28,8 @@ Ma recette pour des beignets d'aubergines à l'indienne, facile à faire, et dé
 
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+
+[![beignets-d-aubergines-1.jpg]({filename}images/beignets-d-aubergines-1.jpg){width=65%}]({filename}images/beignets-d-aubergines-1.jpg)
 
 ## Remarques
 - Servir en entrée d'un repas typique indien, ou comme plat principal avec un accompagnement pas trop épicé.
