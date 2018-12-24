@@ -5,7 +5,7 @@ Summary: Recette familiale des sablés de Noël, faciles à faire, modifiables �
 
 Recette familiale des sablés de Noël, faciles à faire, modifiables à l'infini et délicieux en plein hiver, trempés dans du vin chaud !
 
-- *Préparation* : 15 minutes.
+- *Préparation* : 15 minutes + 1h d'attente.
 - *Cuisson* : 25-30 minutes.
 
 ## Ingrédients
@@ -24,8 +24,13 @@ Variantes :
 - etc.
 
 ## Préparation
-1. TODO
-2. Faire cuire maximum 30 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (le dessus ne doit pas cramer !).
+1. Dans un saladier, mélanger la farine avec le beurre, légèrement fondu au four à micro ondes,
+2. Ajouter le sucre, et l'œuf, puis bien mélanger,
+3. Laisser la pâte reposer une heure, puis la prendre en main (avec des mains bien propres !), la malaxer,
+4. Sur un plan de travail (ou une planche à découper) bien propre, verser un peu de farine et étaler la pâte avec les mains ou un rouleau. Elle doit avoir une épaisseur d'environ 1cm,
+5. Avec un petit moule en métal cerclé, découper des formes dans la pâte, et les placer sur une plaque de cuisson (en fonte noire, généralement),
+6. Tant qu'il reste des bouts de pâtes, on peut les reprendre en main, malaxer encore, et recommencer. La fin fait généralement un biscuit en forme de rond,
+7. Faire cuire maximum 30 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (le dessus ne doit pas cramer !).
 
 [![sables-de-noel-1.jpg]({filename}images/sables-de-noel-1.jpg){width=40%}]({filename}images/sables-de-noel-1.jpg)
 
