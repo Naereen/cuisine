@@ -1,6 +1,6 @@
 Title: Halva indien aux carottes et à la cannelle
 Category: Recette
-Tags: recette, dessert, gateau, facile, vegetarien
+Tags: recette, dessert, gateau, facile, végétarien
 Summary: Ma recette pour le halva aux carottes et à la cannelle, un grand classique des desserts indiens ! Facile à faire et un vrai délice, en plus ça se conserve bien quelques jours au réfrigérateur !
 
 Ma recette pour le halva aux carottes et à la cannelle, un grand classique des desserts indiens ! Facile à faire et un vrai délice, en plus ça se conserve bien quelques jours au réfrigérateur !

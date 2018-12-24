@@ -24,7 +24,7 @@ Recette pour des galettes bretonnes : le plat typique de la Bretagne, facile à 
    [![galette-bretonne-1.jpg]({filename}images/galette-bretonne-1.jpg){width=40%}]({filename}images/galette-bretonne-1.jpg)
 
 3. Bien travailler cette pâte en ajoutant petit à petit de l'eau, en mélangeant avec un fouet,
-4. Ne pas mettre trop d'eau, la pâte doit être collante et fluide... *mais pas trop*. De petites bulles apparaissent sur le desus :
+4. Ne pas mettre trop d'eau, la pâte doit être collante et fluide... *mais pas trop*. De petites bulles apparaissent sur le dessus :
    [![galette-bretonne-2.jpg]({filename}images/galette-bretonne-2.jpg){width=40%}]({filename}images/galette-bretonne-2.jpg)
    > Comme Perceval et Karadoc qui font des potions,  *« J'en met combien ? Ben, vous en mettez pas trop. »* -- Kaamelott, Livre I.
 
