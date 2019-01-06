@@ -31,7 +31,10 @@ Recette pour bûche glacée aux marrons (spécial Noël).
 11. *Bonus* : on peut la recouvrir de sucre glace sur le dessus pour faire comme de la neige, ou servir avec des cerises griottes au vin ou au sirop sur le dessus.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+
+[![buche-glacee-aux-marrons-1.jpg]({filename}images/buche-glacee-aux-marrons-1.jpg){width=60%}]({filename}images/buche-glacee-aux-marrons-1.jpg)
+
+[![buche-glacee-aux-marrons-2.jpg]({filename}images/buche-glacee-aux-marrons-2.jpg){width=60%}]({filename}images/buche-glacee-aux-marrons-2.jpg)
 
 ## Remarques
 - Après l'avoir sorti du congélateur, il ne faut surtout pas la remettre ! Par contre elle se conserve au réfrigérateur plusieurs jours.
