@@ -24,7 +24,7 @@ Pour les légumes accompagnant le tofu, plusieurs variantes :
 > J'explique pour la première variante des légumes, les autres s'adaptent facilement.
 
 1. Sortir le tofu de son emballage, le laver un instant à l'eau froide. Sur une planche à découper en bois, le découper en petits dés d'environ 1cm x 1cm x 2cm. Saupoudrer de piment ou de curry, laisser absorber avant la cuisson.
-   [![tofu-grille-et-ses-petits-legumes-1.jpg]({filename}images/tofu-grille-et-ses-petits-legumes-1.jpg){width=40%}]({filename}images/tofu-grille-et-ses-petits-legumes-1.jpg)
+   [![tofu-grille-et-ses-petits-legumes-1.jpg]({filename}images/tofu-grille-et-ses-petits-legumes-1.jpg){width=70%}]({filename}images/tofu-grille-et-ses-petits-legumes-1.jpg)
 
 2. Laver les blancs de poireaux et les courgettes, et éplucher les courgettes,
 3. Tranchez le tout en petit morceaux. Les blancs de poireaux se coupent en tranches fines dans le sens de la longueur (ça fera comme des anneaux, il ne faut pas les séparer),
@@ -34,7 +34,7 @@ Pour les légumes accompagnant le tofu, plusieurs variantes :
 7. Saler, poivrer, et laisser cuire jusqu'à quasi évaporation de toute l'eau,
 8. On peut servir avec des graines de sésame, ou une petite cuillère de poudre d'amande saupoudrée sur le dessus.
 
-   [![tofu-grille-et-ses-petits-legumes-2.jpg]({filename}images/tofu-grille-et-ses-petits-legumes-2.jpg){width=40%}]({filename}images/tofu-grille-et-ses-petits-legumes-2.jpg)
+   [![tofu-grille-et-ses-petits-legumes-2.jpg]({filename}images/tofu-grille-et-ses-petits-legumes-2.jpg){width=75%}]({filename}images/tofu-grille-et-ses-petits-legumes-2.jpg)
 
 
 ## Remarques
