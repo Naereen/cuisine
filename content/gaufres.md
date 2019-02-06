@@ -22,12 +22,10 @@ La recette archi classique pour des gaufres sucrées.
 ## Préparation
 1. Dans un gros saladier, mélanger la farine et le sucre,
 2. Ajouter les œufs et le sel, et le beurre ramolli :
-   [![gaufres-1.jpg]({filename}images/gaufres-1.jpg){width=40%}]({filename}images/gaufres-1.jpg)
-
 3. Bien travailler cette pâte en ajoutant petit à petit le lait, en mélangeant avec un fouet,
 4. Ne pas mettre trop d'eau, la pâte doit être collante et fluide... *mais pas trop*. De petites bulles apparaissent sur le dessus :
 
-   [![gaufres-2.jpg]({filename}images/gaufres-2.jpg){width=40%}]({filename}images/gaufres-2.jpg)
+   [![gaufres-1.jpg]({filename}images/gaufres-1.jpg){width=40%}]({filename}images/gaufres-1.jpg)
 
    > Comme Perceval et Karadoc qui font des potions,  *« J'en met combien ? Ben, vous en mettez pas trop. »* -- Kaamelott, Livre I.
 
@@ -36,7 +34,7 @@ La recette archi classique pour des gaufres sucrées.
 2. Ajouter une noix de beurre,
 3. Verser de la pâte pour faire deux gaufres (ou plus),
 4. Laisser cuire trois à cinq minutes, puis sortir les gaufres,
-   [![gaufres-3.jpg]({filename}images/gaufres-3.jpg){width=55%}]({filename}images/gaufres-3.jpg)
+   [![gaufres-2.jpg]({filename}images/gaufres-2.jpg){width=55%}]({filename}images/gaufres-2.jpg)
 
 5. Chacun peut garnir comme il ou elle le souhaite : beurre sucre, sucre citron, miel, sucre glace, chocolat fondu, confiture, purée d'amandes etc.
 

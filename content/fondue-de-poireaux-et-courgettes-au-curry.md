@@ -22,7 +22,10 @@ Recette pour fondue de poireaux et courgettes au curry, un plat rapide et diét�
 6. Saler, poivrer, et laisser cuire jusqu'à quasi évaporation de toute l'eau.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+
+Ici avec du tofu par exemple :
+
+[![tofu-grille-et-ses-petits-legumes-2.jpg]({filename}images/tofu-grille-et-ses-petits-legumes-2.jpg){width=40%}]({filename}images/tofu-grille-et-ses-petits-legumes-2.jpg)
 
 ## Remarques
 - La fondue de poireaux et courgettes peut se savourer comme un plat entier, ou en accompagnement de riz blanc ou d'un plat de poisson par exemple. On peut aussi s'en servir en garniture d'une [galette bretonne](galettes-bretonnes.html).
