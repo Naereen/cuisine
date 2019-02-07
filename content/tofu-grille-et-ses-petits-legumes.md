@@ -36,6 +36,9 @@ Pour les légumes accompagnant le tofu, plusieurs variantes :
 
    [![tofu-grille-et-ses-petits-legumes-2.jpg]({filename}images/tofu-grille-et-ses-petits-legumes-2.jpg){width=75%}]({filename}images/tofu-grille-et-ses-petits-legumes-2.jpg)
 
+9. C'est aussi très bon avec du persil frais haché ou de la coriandre fraîche ! Sur cette photo, les légumes étaient un gros champignon de Paris, un oignon, ainsi qu'un fond de sauce tomate, délicieux mélange !
+
+   [![tofu-grille-et-ses-petits-legumes-3.jpg]({filename}images/tofu-grille-et-ses-petits-legumes-3.jpg){width=75%}]({filename}images/tofu-grille-et-ses-petits-legumes-3.jpg)
 
 ## Remarques
 - Le tofu du grillé et ses petits légumes peut se savourer comme un plat entier, ou en accompagnement de riz ou de semoule.
