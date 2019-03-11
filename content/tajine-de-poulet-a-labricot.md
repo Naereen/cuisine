@@ -22,10 +22,10 @@ Ma recette de tajine de poulet à l'abricot, facile à faire et toujours appréc
 
 Épices :
 
-- 2 cuillère à soupe de miel,
+- 2 cuillères à soupe de miel,
 - 1 cuillère à café de cannelle,
 - 1 cuillère à café de cumin,
-- 2 cuillère à soupe d'huile d'olive,
+- 2 cuillères à soupe d'huile d'olive,
 - Poivre, sel, piment (un tout petit peu),
 
 Variantes :
