@@ -20,7 +20,7 @@ Recette pour du taboulé au gari (fécule de manioc africaine), une recette orig
 
 ## Préparation
 1. Dans un bol, verser le gari, et ajouter de l'eau froide en mélangeant bien, jusqu'à être satisfait de la consistance (ça doit s'agglomérer un peu, ne pas trop coller, et ne pas être trop liquide),
-2. Préparer la vinaigrette : dans un pot refermable, ajouter deux grosses cuillères à soupe de moutarde, une pincée de sel, un peu de romarin et de thym, puis une cuillère à soupe de vinaigre balsamique, 3 cuillères à soupe d'huile d'olive, et un peu d'eau. Ferme le pot, mélanger bien fort. Goûter, et si besoin, ajouter de l'eau si c'est trop épais, du vinaigre blanc si ce n'est pas assez relevé, ou de l'huile d'olive si c'est trop liquide.
+2. Préparer la vinaigrette : dans un pot refermable, ajouter deux grosses cuillères à soupe de moutarde, une pincée de sel, un peu de romarin et de thym, puis une cuillère à soupe de vinaigre balsamique, 3 cuillères à soupe d'huile d'olive, et un peu d'eau. Fermer le pot, mélanger bien fort. Goûter, et si besoin, ajouter de l'eau si c'est trop épais, du vinaigre blanc si ce n'est pas assez relevé, ou de l'huile d'olive si c'est trop liquide.
 3. Laver et couper en petits morceaux les tomates (et les autres légumes ou crudités, mettez ce que vous voulez),
 4. Dans un saladier, verser et égrainer le gari, ajouter les tomates, la salade ou les autres légumes et crudités, la feta (coupée en petits morceaux).
 5. Avec un ciseau, couper en petits morceaux le persil, ajouter un peu de jus de citron, et des cornichons si vous aimez ça.
