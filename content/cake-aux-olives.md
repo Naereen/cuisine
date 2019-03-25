@@ -25,7 +25,7 @@ Une recette familiale pour des cake aux olives, une bonne idée pour des apérit
 5. Verser dans un moule en silicone,
 6. Dans un four à thermostat 6 (200°C) <i class="fa fa-thermometer-full" aria-hidden="true"></i>, faire cuire 15-25 minutes, en vérifiant la cuisson à vue.
 
-[![cake-aux-olives-1.jpg]({static}images/cake-aux-olives-1.jpg){width=60%}]({static}images/cake-aux-olives-1.jpg)
+<!-- [![cake-aux-olives-1.jpg]({static}images/cake-aux-olives-1.jpg){width=60%}]({static}images/cake-aux-olives-1.jpg) -->
 
 ## Service
 - :cutlery: Service bien chaud avec une salade verte, ou alors froid coupé en petit morceau pour l'apéritif !

@@ -34,7 +34,8 @@ La recette archi classique pour des gaufres sucrées.
 2. Ajouter une noix de beurre,
 3. Verser de la pâte pour faire deux gaufres (ou plus),
 4. Laisser cuire trois à cinq minutes, puis sortir les gaufres,
-   [![gaufres-2.jpg]({static}images/gaufres-2.jpg){width=55%}]({static}images/gaufres-2.jpg)
+
+<!-- [![gaufres-2.jpg]({static}images/gaufres-2.jpg){width=55%}]({static}images/gaufres-2.jpg) -->
 
 5. Chacun peut garnir comme il ou elle le souhaite : beurre sucre, sucre citron, miel, sucre glace, chocolat fondu, confiture, purée d'amandes etc.
 

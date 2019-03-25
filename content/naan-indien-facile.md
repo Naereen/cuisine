@@ -17,7 +17,7 @@ Recette pour du naan, des petits indiens faciles à faire et à cuire à la poê
 - 1 cuillère à soupe d'huile de tournesol (et aussi pour la cuisson),
 - sel.
 
-[![naan-indien-facile-1.jpg]({static}images/naan-indien-facile-1.jpg){width=40%}]({static}images/naan-indien-facile-1.jpg)
+<!-- [![naan-indien-facile-1.jpg]({static}images/naan-indien-facile-1.jpg){width=40%}]({static}images/naan-indien-facile-1.jpg) -->
 
 ## Préparation
 1. Dans un saladier, mélanger la farine, la levure et une pincée de sel,

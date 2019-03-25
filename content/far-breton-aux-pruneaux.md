@@ -33,8 +33,6 @@ Recette du fameux far breton aux pruneaux, un gateau au lait typique de la Breta
 ## Photo
 [![far-breton-aux-pruneaux-2.jpg]({static}images/far-breton-aux-pruneaux-2.jpg){width=60%}]({static}images/far-breton-aux-pruneaux-2.jpg)
 
-[![far-breton-aux-pruneaux-3.jpg]({static}images/far-breton-aux-pruneaux-3.jpg){width=60%}]({static}images/far-breton-aux-pruneaux-3.jpg)
-
 ## Remarques
 - Pour la cuisson, je commence avec 30 minutes au four moyen <i class="fa fa-thermometer-half" aria-hidden="true"></i> puis 30 minutes au four à la température max <i class="fa fa-thermometer-full" aria-hidden="true"></i>, pour faire griller le dessus du gâteau.
 - :wine_glass: Servir avec un bon cidre doux.

@@ -26,12 +26,10 @@ La recette d'un gratin d'aubergines au parmesan et au coulis de tomates, qui se 
 
 
 ## Photos
+
 [![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-1.jpg]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-1.jpg){width=55%}]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-1.jpg)
 
 [![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-2.jpg]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-2.jpg){width=55%}]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-2.jpg)
-
-[![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg){width=55%}]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg)
-
 
 ## Remarques
 - :wine_glass: Servir avec un vin rouge pas trop prononcé, comme un Côte du Rhône, ou en été avec un bon rosé, comme un rosé de Corse.

@@ -18,10 +18,10 @@ Ma recette de tarte aux pommes et au pralin, et sa pâte brisée maison. Délici
 
 ## Préparation pour la pâte
 1. Mélanger la farine, le sel et le sucre dans un plat,
-   [![tarte-aux-pommes-au-pralin-et-sa-pate-maison-1.jpg]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-1.jpg){width=60%}]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-1.jpg)<br>
 2. Ajouter le beurre puis l'incorporer à la farine en pétrissant rapidement et légèrement du bout des doigts. On doit obtenir une sorte de semoule grossière en 2 ou 3 minutes,
 3. Incorporer rapidement le lait. Il en faut très peu pour permettre à la pâte de se lier et de faire boule.
-   [![tarte-aux-pommes-au-pralin-et-sa-pate-maison-2.jpg]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-2.jpg){width=60%}]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-2.jpg)<br>
+
+<!-- [![tarte-aux-pommes-au-pralin-et-sa-pate-maison-2.jpg]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-2.jpg){width=60%}]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-2.jpg)<br> -->
 
 ---
 
@@ -41,7 +41,8 @@ Ma recette de tarte aux pommes et au pralin, et sa pâte brisée maison. Délici
 5. Version la préparation, bien étaler,
 6. Saupoudrer avec un peu de sucre roux,
 7. Faire cuire maximum 30 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (le dessus ne doit pas cramer !).
-   [![tarte-aux-pommes-au-pralin-et-sa-pate-maison-4.jpg]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-4.jpg){width=60%}]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-4.jpg)
+
+<!-- [![tarte-aux-pommes-au-pralin-et-sa-pate-maison-4.jpg]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-4.jpg){width=60%}]({static}images/tarte-aux-pommes-au-pralin-et-sa-pate-maison-4.jpg) -->
 
 ## Photo
   [![tarte-aux-pommes-5.jpg]({static}images/tarte-aux-pommes-5.jpg){width=60%}]({static}images/tarte-aux-pommes-5.jpg)

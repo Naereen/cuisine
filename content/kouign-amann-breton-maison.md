@@ -24,7 +24,7 @@ Ma recette[ref]Inspirée de [cette recette](http://www.recettes-bretonnes.fr/gat
 4. Fariner un plan de travail et travailler la pâte à kouign-amann jusqu'à l'obtention d'une pâte souple,
 5. Laissez la pâte reposer en boule dans le saladier à température ambiante pendant 3 h (étape 1 du schéma),
 
-[![kouign-amann-breton-maison-1.jpg]({static}images/kouign-amann-breton-maison-1.jpg){width=75%}]({static}images/kouign-amann-breton-maison-1.jpg)
+<!-- [![kouign-amann-breton-maison-1.jpg]({static}images/kouign-amann-breton-maison-1.jpg){width=75%}]({static}images/kouign-amann-breton-maison-1.jpg) -->
 
 6. Au bout des 3 heures de repos, la pâte aura triplé de volume : sur le plan de travail fariné, à l'aide d'un rouleau à pâtisserie, abaisser la pâte (cette étape peut-être assez longue car la pâte est relativement élastique) et lui donner lui une forme rectangulaire ou carrée d'environ 1 cm de hauteur (étape 2 du schéma) : ensuite il faut étaler le beurre bien mou au pinceau, et saupoudrez de sucre en poudre,
 7. Il faut prendre soin de ne pas étaler le beurre et le sucre sur les rebords de la pâte et de laisser un espace de 3 cm environ tout autour (étape 3 du schéma),
@@ -32,7 +32,7 @@ Ma recette[ref]Inspirée de [cette recette](http://www.recettes-bretonnes.fr/gat
 9. Avec la rouleau à pâtisserie, étaler de nouveau la pâte très délicatement en faisant attention à ce que le beurre ne ressorte pas (étape 6 du schéma),
 10. Replier la pâte encore une fois en 3 dans la longueur puis dans la largeur (étape 7 et 8 du schéma),
 
-[![kouign-amann-breton-maison-2.jpg]({static}images/kouign-amann-breton-maison-2.jpg){width=75%}]({static}images/kouign-amann-breton-maison-2.jpg)
+<!-- [![kouign-amann-breton-maison-2.jpg]({static}images/kouign-amann-breton-maison-2.jpg){width=75%}]({static}images/kouign-amann-breton-maison-2.jpg) -->
 
 10. Tasser la pâte dans un moule beurré et laissez le reposer pendant une demie-heure,
 11. Avec un couteau, tracer un quadrillage sur la pâte et parsemez quelques morceaux de beurre supplémentaires.
@@ -52,9 +52,9 @@ Astuce pour le pliage :
 - :wine_glass: Servir avec un bon cidre doux.
 - C'est aussi délicieux avec une boule de glace, par exemple une boule citron pour une crème beurre sucre.
 
-[![kouign-amann-breton-maison-3.jpg]({static}images/kouign-amann-breton-maison-3.jpg){width=75%}]({static}images/kouign-amann-breton-maison-3.jpg)
+<!-- [![kouign-amann-breton-maison-3.jpg]({static}images/kouign-amann-breton-maison-3.jpg){width=75%}]({static}images/kouign-amann-breton-maison-3.jpg) -->
 
-## Photo
-[![kouign-amann-breton-maison-4.jpg]({static}images/kouign-amann-breton-maison-4.jpg){width=75%}]({static}images/kouign-amann-breton-maison-4.jpg)
+<!-- ## Photo -->
+<!-- [![kouign-amann-breton-maison-4.jpg]({static}images/kouign-amann-breton-maison-4.jpg){width=75%}]({static}images/kouign-amann-breton-maison-4.jpg) -->
 
 ## Notes
