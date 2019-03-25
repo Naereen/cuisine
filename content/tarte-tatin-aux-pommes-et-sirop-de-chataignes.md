@@ -22,7 +22,7 @@ Recette pour tarte tatin aux pommes :apple: et sirop de châtaigne 🌰. Rapide,
 6. Faire cuire maximum 25 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (le dessus ne doit pas cramer !).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace vanille ou de la chantilly ! *Miam !*

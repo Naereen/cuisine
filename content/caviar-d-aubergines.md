@@ -27,7 +27,7 @@ Recette pour du caviar d'aubergines bio, facile à faire, rapide à déguster su
 6. Verser dans un plat, arroser d'un peu d'huile d'olive, et servir tiède avec des toasts de pain grillés légèrement.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :wine_glass: Servir avec un vin rosé, comme un Côte du Rhône.

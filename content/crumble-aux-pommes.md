@@ -18,7 +18,7 @@ Recette de mon crumble aux pommes, délicieux en hiver comme en été !
 
 ## Préparation
 1. Éplucher les pommes, les couper en tranches ou en gros morceaux,
-   [![crumble-aux-pommes-1.jpg]({filename}images/crumble-aux-pommes-1.jpg){width=40%}]({filename}images/crumble-aux-pommes-1.jpg)
+   [![crumble-aux-pommes-1.jpg]({static}images/crumble-aux-pommes-1.jpg){width=40%}]({static}images/crumble-aux-pommes-1.jpg)
 2. Les faire réduire à feu fort 2 min avec une cuillerée à soupe d'eau puis maintenir la cuisson à feu doux pendant 7 à 8 min.
 3. Écraser les derniers gros morceaux de pommes à la fourchette. Mélanger les pommes avec 125 g de sucre et 1/2 cuillère à café de cannelle. Verser ce mélange dans un plat à gratin beurré.
 4. Écraser le beurre à la fourchette dans un saladier. Ajouter le reste du sucre et de le cannelle, ainsi que la farine, puis mélanger le tout avec les doigts afin d'obtenir un sable grossier. Rajouter de la farine si le mélange est trop liquide. Optionnel : ajouter le pralin à la fin,
@@ -28,10 +28,10 @@ Recette de mon crumble aux pommes, délicieux en hiver comme en été !
 
 ## Photo
 - Le plat :
-  [![crumble-aux-pommes-2.jpg]({filename}images/crumble-aux-pommes-2.jpg){width=50%}]({filename}images/crumble-aux-pommes-2.jpg)
+  [![crumble-aux-pommes-2.jpg]({static}images/crumble-aux-pommes-2.jpg){width=50%}]({static}images/crumble-aux-pommes-2.jpg)
 
 - Une part :
-  [![crumble-aux-pommes-3.jpg]({filename}images/crumble-aux-pommes-3.jpg){width=50%}]({filename}images/crumble-aux-pommes-3.jpg)
+  [![crumble-aux-pommes-3.jpg]({static}images/crumble-aux-pommes-3.jpg){width=50%}]({static}images/crumble-aux-pommes-3.jpg)
 
 ----
 

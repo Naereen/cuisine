@@ -32,7 +32,7 @@ Recette de ma fameuse tarte aux patates douces :sweet_potato:.
 11. Faire cuire maximum entre 40 et 55 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 20 minutes (le dessus ne doit pas cramer, et planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace vanille ou de la chantilly ! *Miam !*

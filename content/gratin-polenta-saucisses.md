@@ -28,7 +28,7 @@ Recette pour un gratin de polenta et saucisses.
 6. Faire cuire maximum 45 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (le dessus ne doit pas cramer).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir bien chaud, avec de la salade verte pour faire un plat complet.

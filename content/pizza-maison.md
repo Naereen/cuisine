@@ -43,12 +43,12 @@ Recette pour une délicieuse pizza maison. Personnalisable à l'infini !
 - Les hérétiques osent ajouter [de l'ananas](http://www.marmiton.org/recettes/recette_pizza-hawaienne_37583.aspx), mais ça c'est une horreur.
 
 ## Photo
-[![pizza-1.jpg]({filename}images/pizza-1.jpg){width=60%}]({filename}images/pizza-1.jpg)
+[![pizza-1.jpg]({static}images/pizza-1.jpg){width=60%}]({static}images/pizza-1.jpg)
 
 ## Remarques
 - :cutlery: Servir bien chaud, avec une salade verte (une laitue romaine, pour rester dans le ton !)
 
-[![pizza-2.jpg]({filename}images/pizza-2.jpg){width=60%}]({filename}images/pizza-2.jpg)
+[![pizza-2.jpg]({static}images/pizza-2.jpg){width=60%}]({static}images/pizza-2.jpg)
 
 ----
 

@@ -26,11 +26,11 @@ La recette d'un gratin d'aubergines au parmesan et au coulis de tomates, qui se 
 
 
 ## Photos
-[![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-1.jpg]({filename}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-1.jpg){width=55%}]({filename}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-1.jpg)
+[![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-1.jpg]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-1.jpg){width=55%}]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-1.jpg)
 
-[![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-2.jpg]({filename}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-2.jpg){width=55%}]({filename}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-2.jpg)
+[![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-2.jpg]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-2.jpg){width=55%}]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-2.jpg)
 
-[![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg]({filename}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg){width=55%}]({filename}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg)
+[![gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg){width=55%}]({static}images/gratin-daubergines-au-parmesan-et-au-coulis-de-tomates-3.jpg)
 
 
 ## Remarques
@@ -39,4 +39,4 @@ La recette d'un gratin d'aubergines au parmesan et au coulis de tomates, qui se 
     Note : cette suggestion nous vient de ce cher [Hubert Bonisseur de La Bathe](https://fr.wikipedia.org/wiki/Hubert_Bonisseur_de_La_Bath) :<br><br>
     <iframe width="764" height="430" src="https://www.youtube.com/embed/sTA67hq7QAU?start=19" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <br>
-    [![jaime-quand-on-menduis-dhuile.jpg]({filename}images/jaime-quand-on-menduis-dhuile.jpg){width=35%}]({filename}images/jaime-quand-on-menduis-dhuile.jpg)
+    [![jaime-quand-on-menduis-dhuile.jpg]({static}images/jaime-quand-on-menduis-dhuile.jpg){width=35%}]({static}images/jaime-quand-on-menduis-dhuile.jpg)

@@ -19,7 +19,7 @@ Recette pour des tomates farcies au riz (recette grecque).
 - Sel au céleri, poivre, herbes de Provence,
 - Gruyère rappé.
 
-[![tomates-farcies-au-riz-1.jpg]({filename}images/tomates-farcies-au-riz-1.jpg){width=60%}]({filename}images/tomates-farcies-au-riz-1.jpg)
+[![tomates-farcies-au-riz-1.jpg]({static}images/tomates-farcies-au-riz-1.jpg){width=60%}]({static}images/tomates-farcies-au-riz-1.jpg)
 
 
 ## Préparation
@@ -32,7 +32,7 @@ Recette pour des tomates farcies au riz (recette grecque).
 7. Faire cuire maximum 25 à 40 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 20 minutes (l'intérieur doit bouillir et le dessus ne doit pas trop griller).
 
 ## Photo
-[![tomates-farcies-au-riz-2.jpg]({filename}images/tomates-farcies-au-riz-2.jpg){width=60%}]({filename}images/tomates-farcies-au-riz-2.jpg)
+[![tomates-farcies-au-riz-2.jpg]({static}images/tomates-farcies-au-riz-2.jpg){width=60%}]({static}images/tomates-farcies-au-riz-2.jpg)
 
 ## Remarques
 - :cutlery: Servir chaud, avec du fromage rappé en plus pour les amateur-trice-s.

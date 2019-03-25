@@ -24,7 +24,7 @@ Pratique aussi si vous n'avez ni verre doseur ni balance, il suffit d'un yaourt 
 4. Faire cuire maximum 30 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir tiède avec de la chantilly ! *Miam !*

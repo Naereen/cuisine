@@ -28,7 +28,7 @@ Recette pour des nouilles au gingembre et à la ratatouille.
 4. Variante moins "sec" : avec plus d'huile d'olive, et cuite à feu plus doux.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - C'est très basique, mais j'aime ça ! C'est un repas complet rapidement réalisé.

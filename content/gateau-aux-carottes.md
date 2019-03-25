@@ -36,7 +36,7 @@ Recette pour gâteau au carottes :cake: ! « Carrot cake » comme disent les ang
 9. Faire cuire maximum 50 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir sèche quand c'est cuit).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace vanille ou un sorbet orange ! *Miam !*

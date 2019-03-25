@@ -14,7 +14,7 @@ Comment se servir un verre d'eau ? (humour)
 2. Servez !
 
 ## Photo
-[![https://commons.wikimedia.org/wiki/File:IceBlockNearJoekullsarlon.jpg]({filename}images/eau.jpg)](https://commons.wikimedia.org/wiki/File:IceBlockNearJoekullsarlon.jpg)
+[![https://commons.wikimedia.org/wiki/File:IceBlockNearJoekullsarlon.jpg]({static}images/eau.jpg)](https://commons.wikimedia.org/wiki/File:IceBlockNearJoekullsarlon.jpg)
 
 ## Remarques
 - L'eau, c'est bon ! (sauf pour [les trolls](https://fr.wikipedia.org/wiki/H%C3%A9bus#Pouvoirs))

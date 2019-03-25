@@ -30,7 +30,7 @@ Recette pour des marrons glacés 🌰 + ❄ bio et faciles, une sucrerie délici
 ## Photo
 > Les marrons glacés en train de sécher sur une planche à découper recouverte de papier sulfurisé :
 
-[![marrons-glaces-bio-et-faciles.jpg]({filename}images/marrons-glaces-bio-et-faciles.jpg){width=60%}]({filename}images/marrons-glaces-bio-et-faciles.jpg)
+[![marrons-glaces-bio-et-faciles.jpg]({static}images/marrons-glaces-bio-et-faciles.jpg){width=60%}]({static}images/marrons-glaces-bio-et-faciles.jpg)
 
 ## Remarques
 - Le sirop restant peut aromatiser des yaourts ou du fromage blanc, ou il peut être bu dilué dans de l'eau (comme du sirop normal !), ou pour sucrer des infusions avec un subtil goût de marron et de vanille... Miam !

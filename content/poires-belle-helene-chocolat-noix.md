@@ -26,7 +26,7 @@ Recette pour des poires belle-Hélène à la noix, un dessert frais et fort en c
 6. Servez tant que c'est chaux !
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: On peut servir avec une boule de glace vanille.

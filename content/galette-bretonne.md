@@ -21,11 +21,11 @@ Recette pour des galettes bretonnes : le plat typique de la Bretagne, facile à 
 ## Préparation
 1. Dans un gros saladier, mélanger les deux farines,
 2. Ajouter l'œuf (optionnel) et le sel :
-   [![galette-bretonne-1.jpg]({filename}images/galette-bretonne-1.jpg){width=40%}]({filename}images/galette-bretonne-1.jpg)
+   [![galette-bretonne-1.jpg]({static}images/galette-bretonne-1.jpg){width=40%}]({static}images/galette-bretonne-1.jpg)
 
 3. Bien travailler cette pâte en ajoutant petit à petit de l'eau, en mélangeant beaucoup avec un fouet,
 4. Ne pas mettre trop d'eau, la pâte doit être collante et fluide... *mais pas trop*. De petites bulles apparaissent sur le dessus :
-   [![galette-bretonne-2.jpg]({filename}images/galette-bretonne-2.jpg){width=40%}]({filename}images/galette-bretonne-2.jpg)
+   [![galette-bretonne-2.jpg]({static}images/galette-bretonne-2.jpg){width=40%}]({static}images/galette-bretonne-2.jpg)
    > Comme Perceval et Karadoc qui font des potions,  *« J'en met combien ? Ben, vous en mettez pas trop. »* -- Kaamelott, Livre I.
 
 ## Cuisson
@@ -33,7 +33,7 @@ Recette pour des galettes bretonnes : le plat typique de la Bretagne, facile à 
 2. Ajouter une noix de beurre, ou d'huile végétale (par exemple de tournesol) dans la variante végan,
 3. Étendre une mince couche de cette préparation dans la poêle,
 4. Laisser cuire et dorer le côté poêle, puis retourner,
-   [![galette-bretonne-3.jpg]({filename}images/galette-bretonne-3.jpg){width=55%}]({filename}images/galette-bretonne-3.jpg)
+   [![galette-bretonne-3.jpg]({static}images/galette-bretonne-3.jpg){width=55%}]({static}images/galette-bretonne-3.jpg)
 
 5. On peut garnir directement dans la poêle : la "galette complète" est avec du fromage rappé (gruyère), du jambon et un œuf, qui vont cuire directement dans la poêle (on peut plier la galette pour la servir plus facilement).
 
@@ -45,10 +45,10 @@ Recette pour des galettes bretonnes : le plat typique de la Bretagne, facile à 
 - Si on ne sale pas trop la pâte, on peut aussi les déguster avec de la garniture sucrée. Les classiques : miel, confiture, crème de marrons, sucre... Les plus originales : sirop d'érable et chantilly, beurre sucre, sucre citron, sucre et flambée au rhum etc.
 - Sucrées, c'est délicieux avec une boule de glace, par exemple une boule citron pour une crêpe beurre sucre :
 
-[![galette-bretonne-5.jpg]({filename}images/galette-bretonne-5.jpg){width=75%}]({filename}images/galette-bretonne-5.jpg)
+[![galette-bretonne-5.jpg]({static}images/galette-bretonne-5.jpg){width=75%}]({static}images/galette-bretonne-5.jpg)
 
 ## Photo
-[![galette-bretonne-4.jpg]({filename}images/galette-bretonne-4.jpg){width=75%}]({filename}images/galette-bretonne-4.jpg)
+[![galette-bretonne-4.jpg]({static}images/galette-bretonne-4.jpg){width=75%}]({static}images/galette-bretonne-4.jpg)
 
 ## Remarques
 - Des poêles "crêpières" fonctionnent très bien !

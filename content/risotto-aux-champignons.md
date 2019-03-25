@@ -33,7 +33,7 @@ Recette pour du risotto aux champignons, une recette italienne, qui réchauffe b
 6. Servir très chaud, avec le reste du parmesan.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir chaud, avec du parmesan rappé en plus pour les amateur-trice-s.

@@ -46,7 +46,7 @@ Variantes :
 9. Servir le tout en même temps : deux cuillères de semoule et trois cuillères de légumes et la sauce.
 
 ## Photo
-[![tajine-vegeratien-a-labricot-et-aux-pruneaux-1.jpg]({filename}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-1.jpg){width=40%}]({filename}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-1.jpg)
+[![tajine-vegeratien-a-labricot-et-aux-pruneaux-1.jpg]({static}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-1.jpg){width=40%}]({static}images/tajine-vegeratien-a-labricot-et-aux-pruneaux-1.jpg)
 
 ## Remarques
 - C'est un plat très savoureux, dont on peut faire varier la recette à l'infini. Avec des courgettes, ou des aubergines, ou des pommes de terre cuites à l'eau en plus des légumes, sans cumin ou avec de la menthe…

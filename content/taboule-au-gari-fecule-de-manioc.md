@@ -29,10 +29,10 @@ Recette pour du taboulé au gari (fécule de manioc africaine), une recette orig
 
 ## Photo
 - Le saladier :
-  [![taboule-au-gari-fecule-de-manioc-1.jpg]({filename}images/taboule-au-gari-fecule-de-manioc-1.jpg){width=60%}]({filename}images/taboule-au-gari-fecule-de-manioc-1.jpg)
+  [![taboule-au-gari-fecule-de-manioc-1.jpg]({static}images/taboule-au-gari-fecule-de-manioc-1.jpg){width=60%}]({static}images/taboule-au-gari-fecule-de-manioc-1.jpg)
 
 - Une fois dans l'assiette, c'est tout autant appétissant !
-  [![taboule-au-gari-fecule-de-manioc-2.jpg]({filename}images/taboule-au-gari-fecule-de-manioc-2.jpg){width=60%}]({filename}images/taboule-au-gari-fecule-de-manioc-2.jpg)
+  [![taboule-au-gari-fecule-de-manioc-2.jpg]({static}images/taboule-au-gari-fecule-de-manioc-2.jpg){width=60%}]({static}images/taboule-au-gari-fecule-de-manioc-2.jpg)
 
 ## Remarques
 - :cutlery: Servir frais mais pas glacé.

@@ -30,7 +30,7 @@ Le génépi est un alcool typique des Hautes-Alpes, fait à partir d'une plante 
 ## Photo
 > Bouteille de génépi avec six verres :
 
-[![genepi.jpg]({filename}images/genepi.jpg){width=60%}]({filename}images/genepi.jpg)
+[![genepi.jpg]({static}images/genepi.jpg){width=60%}]({static}images/genepi.jpg)
 
 ## Remarques
 - Une fois filtré, le génépi doit avoir une belle couleur jaune clair, plus ou moins foncé selon la qualité des brins, le temps de macération, etc

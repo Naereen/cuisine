@@ -33,7 +33,7 @@ Recette pour cookies au chocolat :cookie: :chocolate_bar: !
 9. Faire cuire 9 à 12 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 8 minutes (planter un couteau dans un cookie, la lame doit ressortir presque sèche, et ils ne doivent pas trop cramer).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cookie: De tels cookies se conservent bien, plusieurs jours dans une boite fermée.

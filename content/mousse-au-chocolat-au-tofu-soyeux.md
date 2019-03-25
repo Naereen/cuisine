@@ -23,7 +23,7 @@ Pour la mousse :
 2. Dès que les carrés commencent à ramollir, ôter du feu sans remuer, le chocolat va fondre à la chaleur de la casserole,
 3. Verser le tofu soyeux égoutté dans un saladier, le sucre de canne, le chocolat fondu et mélanger longuement (2 à 3 minutes) avec un fouet, jusqu'à obtention d'une crème très lisse et légèrement mousseuse,
 
-   [![mousse-au-chocolat-au-tofu-soyeux-1.jpg]({filename}images/mousse-au-chocolat-au-tofu-soyeux-1.jpg){width=40%}]({filename}images/mousse-au-chocolat-au-tofu-soyeux-1.jpg)
+   [![mousse-au-chocolat-au-tofu-soyeux-1.jpg]({static}images/mousse-au-chocolat-au-tofu-soyeux-1.jpg){width=40%}]({static}images/mousse-au-chocolat-au-tofu-soyeux-1.jpg)
 
 4. Réserver au frais dans des verrines, ou un saladier, pendant plusieurs heures au réfrigérateur.
 

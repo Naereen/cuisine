@@ -28,7 +28,7 @@ Pour 5 litres d'alcool :
 6. Deux mois plus tard, retirer les noix, goûter l'alcool et s'il est bon (aucune raison que ce soit raté), mettre en bouteille dans des petites bouteilles (style bouteilles de vinaigres ou d'huile).
 
 ## Photo
-[![vin-de-noix-vertes-1.jpg]({filename}images/vin-de-noix-vertes-1.jpg){width=30%}]({filename}images/vin-de-noix-vertes-1.jpg)
+[![vin-de-noix-vertes-1.jpg]({static}images/vin-de-noix-vertes-1.jpg){width=30%}]({static}images/vin-de-noix-vertes-1.jpg)
 
 
 ## Remarques

@@ -22,7 +22,7 @@ Recette pour du rhum au gingembre, à faire en hiver. Un délicieux apéritif (�
 6. Savourez !
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarque
 - Le rhum au gingembre se sert à température ambiante, pour le digestif.

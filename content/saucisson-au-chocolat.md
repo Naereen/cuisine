@@ -29,7 +29,7 @@ Recette pour un saucisson surprise au chocolat, un dessert délicieux et origina
 9. Découper en rondelle ce saucisson surprise. Miam !
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: À grignoter en accompagnement d'un dessert "sain" sans chocolat (*e.g.*, fromage blanc aux mûres sauvages).

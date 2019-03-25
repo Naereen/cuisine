@@ -31,7 +31,7 @@ Ma recette pour du vin chaud de Noël, pour un goûter sucré et qui réchauffe.
 6. Enlever la cannelle, et servir dans des tasses épaisses et pas des verres à vin, *pour éviter de se brûler* !
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - A servir avec des sablés de Noël, du [Stöllen](https://fr.wikipedia.org/wiki/Christstollen) (ou [MarzipanStöllen](http://www.marmiton.org/recettes/recette_marzipanstollen-allemagne_43602.aspx)) ou du [panettone](https://fr.wikipedia.org/wiki/Panettone).

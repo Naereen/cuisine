@@ -20,7 +20,7 @@ Recette pour du dahl de lentilles corail, un plat typiquement indien !
 - 2 cuillères à soupe de curry doux,
 - 1 cuillère à soupe d'huile de tournesol (pour la cuisson).
 
-[![dahl-indien-de-lentilles-corail-1.jpg]({filename}images/dahl-indien-de-lentilles-corail-1.jpg){width=40%}]({filename}images/dahl-indien-de-lentilles-corail-1.jpg)
+[![dahl-indien-de-lentilles-corail-1.jpg]({static}images/dahl-indien-de-lentilles-corail-1.jpg){width=40%}]({static}images/dahl-indien-de-lentilles-corail-1.jpg)
 
 ## Préparation
 1. Dans une casserole, verser les lentilles corail et couvrir d'eau (ne pas en mettre trop). Porter à ébullition. Laisser cuire pendant 10 min environ, jusqu'à complète absorption de l'eau.

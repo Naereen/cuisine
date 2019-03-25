@@ -29,7 +29,7 @@ Recette pour tomates et courgettes farcies cuites au four, un plat végétarien 
 7. Faire cuire maximum 25 à 40 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 20 minutes (l'intérieur doit bouillir et le dessus ne doit pas trop griller).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir chaud avec du fromage rappé en plus pour les amateur-trice-s.

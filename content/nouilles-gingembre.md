@@ -18,7 +18,7 @@ Recette pour des nouilles au gingembre.
 3. Manger tant que c'est chaud (avec des baguettes, évidemment !).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - C'est très basique, mais j'aime ça !

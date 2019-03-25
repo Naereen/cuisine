@@ -39,7 +39,7 @@ Pour le service :
 11. Après 2 heures, servez une mousse par personne, avec une petite cuillère à café, et présenter l'assiette avec les mouillettes d'ananas et de clémentine au milieu de la table. Il faut se servir des morceaux de fruits et les tremper dans la mousse :yum: !
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - S'accompagne d'un bon bolet de cidre doux (Breton ou Normand), ou pour les soirs de fêtes, d'un verre de [Clairette de Die](https://fr.wikipedia.org/wiki/Clairette_de_Die) (> champagne).

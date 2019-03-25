@@ -28,4 +28,4 @@ Recette pour du punch simple et rapide, un cocktail agréable et facile à réal
 5. Servir dans verres normaux, avec une rondelle de citron pour la décoration, et une paille !
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)

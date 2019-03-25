@@ -28,7 +28,7 @@ Ma recette de gâteau de semoule au chocolat, très facile et rapide à faire et
 6. Réserver au moins 2h au réfrigérateur, et servir tiède (en les sortant au moins 1h avant).
 
 ## Photo
-[![semoule-au-chocolat.jpg]({filename}images/semoule-au-chocolat.jpg){width=35%}]({filename}images/semoule-au-chocolat.jpg)
+[![semoule-au-chocolat.jpg]({static}images/semoule-au-chocolat.jpg){width=35%}]({static}images/semoule-au-chocolat.jpg)
 
 ## Remarques
 - Se conserve une semaine (il y a du lait !).

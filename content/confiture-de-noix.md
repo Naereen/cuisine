@@ -26,7 +26,7 @@ Recette pour de la confiture de noix.
 10. Quelques heures plus tard... dégustez sur un morceau de pain frais ou dans un yaourt, comme une confiture !
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - Ça se conserve longtemps !

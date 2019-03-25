@@ -20,7 +20,7 @@ Recette pour des infusions menthe-citron, à faire en hiver, délicieux et effic
 4. Prendre quelques instants pour apprécier l'odeur, et déguster !
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarque
 - Avec des spéculoos, elle fait un dessert gourmand pour les froides soirées d'hiver !

@@ -27,7 +27,7 @@ Recette pour des gnocchis aux aubergines.
 7. Servir chaud, avec du parmesan rappé ou de gruyère rappé selon les goûts.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :wine_glass: Servir avec un vin rouge pas trop prononcé, comme un Côte du Rhône.

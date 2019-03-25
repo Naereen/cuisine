@@ -28,7 +28,7 @@ Recette pour tarte aux mûres sauvages, à faire fin août si vous avez de la ch
 7. Faire cuire maximum 30 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (le dessus ne doit pas cramer !). La pâte doit être bien cuite mais le dessus pas trop grillé non plus.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace citron ou du fromage blanc ! *Miam !*

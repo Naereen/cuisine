@@ -25,7 +25,7 @@ Recette pour gâteau à la crème de marron, très utile quand on a plus de fari
 7. Faire cuire maximum 25 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace vanille ou de la crème chantilly ! *Miam !*

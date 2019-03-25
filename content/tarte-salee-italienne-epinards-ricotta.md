@@ -27,7 +27,7 @@ Recette pour une délicieuse tarte salée italienne aux épinards et à la ricot
 7. Faire cuire maximum entre 30 et 40 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 20 minutes (le dessus ne doit pas cramer).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir bien chaud, avec une salade verte (une laitue romaine, pour rester dans le ton !)

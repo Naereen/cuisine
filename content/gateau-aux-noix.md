@@ -29,7 +29,7 @@ Recette pour gâteau aux noix. :cake: + :chestnut: = :yum:
 11. Faire cuire 30-40 minutes dans un four au thermostat 6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 15 minutes (planter un couteau dans le gâteau, la lame doit ressortir presque sèche).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace vanille ! *Miam !*

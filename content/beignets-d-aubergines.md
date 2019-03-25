@@ -26,7 +26,7 @@ Ma recette pour des beignets d'aubergines à l'indienne, facile à faire, et dé
 1. Laver, éplucher l'aubergine (on peut garder la peau, si on préfère). Coupez-la en rondelles d'environ un demi centimètre d'épaisseur,
 2. Mélanger la farine, les épices, le sel et le poivre. Bien mélanger, et ajouter de l'eau tiède, petit à petit. La pâte ne doit pas être liquide mais très gluante,
 
-[![beignets-d-aubergines-1.jpg]({filename}images/beignets-d-aubergines-1.jpg){width=65%}]({filename}images/beignets-d-aubergines-1.jpg)
+[![beignets-d-aubergines-1.jpg]({static}images/beignets-d-aubergines-1.jpg){width=65%}]({static}images/beignets-d-aubergines-1.jpg)
 
 3. Plonger les rondelles d'aubergine dans ce mélange, et les faire immédiatement frire à l'huile suffisamment chaude,
 4. Après environ 10 minute de cuisson à feu doux, et une fois brunis, on peut servir directement les beignets. *Attention, c'est chaud !*
@@ -34,7 +34,7 @@ Ma recette pour des beignets d'aubergines à l'indienne, facile à faire, et dé
 
 ## Photo
 
-[![beignets-d-aubergines-2.jpg]({filename}images/beignets-d-aubergines-2.jpg){width=65%}]({filename}images/beignets-d-aubergines-2.jpg)
+[![beignets-d-aubergines-2.jpg]({static}images/beignets-d-aubergines-2.jpg){width=65%}]({static}images/beignets-d-aubergines-2.jpg)
 
 ## Remarques
 - Servir en entrée d'un repas typique indien, ou comme plat principal avec un accompagnement pas trop épicé.

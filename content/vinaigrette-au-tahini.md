@@ -32,6 +32,6 @@ Recette pour ma vinaigrette au tahini (une purée de sésame), une recette origi
 
 ## Photo
 - Par exemple avec un taboulé au gari (fécule de manioc) :
-  [![taboule-au-gari-fecule-de-manioc-2.jpg]({filename}images/taboule-au-gari-fecule-de-manioc-2.jpg){width=60%}]({filename}images/taboule-au-gari-fecule-de-manioc-2.jpg)
+  [![taboule-au-gari-fecule-de-manioc-2.jpg]({static}images/taboule-au-gari-fecule-de-manioc-2.jpg){width=60%}]({static}images/taboule-au-gari-fecule-de-manioc-2.jpg)
 
 ## Notes

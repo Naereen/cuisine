@@ -25,7 +25,7 @@ Ma recette pour des pois cassés au beurre et purée de pois cassés, un peu lon
 
 ## Photo
 
-[![pois-casses-et-puree-de-pois-casses-1.jpg]({filename}images/pois-casses-et-puree-de-poix-casses-1.jpg){width=65%}]({filename}images/pois-casses-et-puree-de-poix-casses-1.jpg)
+[![pois-casses-et-puree-de-pois-casses-1.jpg]({static}images/pois-casses-et-puree-de-poix-casses-1.jpg){width=65%}]({static}images/pois-casses-et-puree-de-poix-casses-1.jpg)
 
 ## Remarques
 - :cutlery: Servir bien chaud, avec de la salade verte assaisonnée avec une petite vinaigrette pas trop acide.

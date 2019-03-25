@@ -23,7 +23,7 @@ Une recette familiale pour des feuilletés salés aux fromages et aux graines, u
 5. Poser les feuilletés sur le papier cuisson, pas trop serrés ni trop espacés,
 6.  Dans un four à thermostat 6 (200°C) <i class="fa fa-thermometer-full" aria-hidden="true"></i>, faire cuire 6 à 10 minutes, en vérifiant la cuisson à vue (il faut que les feuilletés brunissent mais pas trop !).
 
-[![feuillete-sales-aux-fromages-et-aux-graines-1.jpg]({filename}images/feuillete-sales-aux-fromages-et-aux-graines-1.jpg){width=60%}]({filename}images/feuillete-sales-aux-fromages-et-aux-graines-1.jpg)
+[![feuillete-sales-aux-fromages-et-aux-graines-1.jpg]({static}images/feuillete-sales-aux-fromages-et-aux-graines-1.jpg){width=60%}]({static}images/feuillete-sales-aux-fromages-et-aux-graines-1.jpg)
 
 ## Service
 - :cutlery: Service bien chaud ! Mais on peut les faire cuire la veille et simplement les passer 1 à 2 minutes au four pour les réchauffer !

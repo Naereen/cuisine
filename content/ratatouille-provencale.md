@@ -21,7 +21,7 @@ Recette pour la fameuse ratatouille provençale, facile à cuisiner, délicieuse
 - laurier,
 - 20 cL d'huile d'olive.
 
-[![ratatouille-provencale-1.jpg]({filename}images/ratatouille-provencale-1.jpg){width=40%}]({filename}images/ratatouille-provencale-1.jpg)
+[![ratatouille-provencale-1.jpg]({static}images/ratatouille-provencale-1.jpg){width=40%}]({static}images/ratatouille-provencale-1.jpg)
 
 ## Préparation
 1. Dans une grosse casserole sur un feu moyen, ajouter l'huile d'olive,
@@ -31,7 +31,7 @@ Recette pour la fameuse ratatouille provençale, facile à cuisiner, délicieuse
 5. Mélanger et faire réduire à feu doux, en remuant fréquemment avec une spatule de bois pendant au moins 20 minutes.
 
 ## Photo
-[![ratatouille-provencale-2.jpg]({filename}images/ratatouille-provencale-2.jpg){width=40%}]({filename}images/ratatouille-provencale-2.jpg)
+[![ratatouille-provencale-2.jpg]({static}images/ratatouille-provencale-2.jpg){width=40%}]({static}images/ratatouille-provencale-2.jpg)
 
 ## Remarques
 - Servir avec du riz blanc de Camargue.

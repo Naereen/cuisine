@@ -24,7 +24,7 @@ Pour 1.25 litre d'alcool :
 6. Mettre en bouteille (deux petites bouteilles de 75 cL suffisent pour contenir 62.5 cL).
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - Le vin de framboise se sert à température ambiante, pour l'apéritif ou le digestif.

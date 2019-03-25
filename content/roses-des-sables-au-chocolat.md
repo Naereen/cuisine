@@ -20,7 +20,7 @@ Recette pour des roses des sables au chocolat, un dessert délicieux : des floco
 4. Enfin, conserver les roses des sables dans une boite fermée hermétiquement.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: À grignoter en accompagnement d'un dessert "sain" sans chocolat (*e.g.*, fromage blanc aux mûres sauvages).

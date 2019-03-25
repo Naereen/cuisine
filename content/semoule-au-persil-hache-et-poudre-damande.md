@@ -26,7 +26,7 @@ Ma recette de semoule au persil haché et à la poudre d'amande, très facile et
 4. Servir tel quel, bien chaud, avec une cuillère.
 
 ## Photo
-[![semoule-au-persil-hache-et-poudre-damande.jpg]({filename}images/semoule-au-persil-hache-et-poudre-damande.jpg){width=40%}]({filename}images/semoule-au-persil-hache-et-poudre-damande.jpg)
+[![semoule-au-persil-hache-et-poudre-damande.jpg]({static}images/semoule-au-persil-hache-et-poudre-damande.jpg){width=40%}]({static}images/semoule-au-persil-hache-et-poudre-damande.jpg)
 
 ## Remarques
 - C'est un plat de base très simple, on peut y ajouter du [tofu grillé](tofu-grille-et-ses-petits-legumes.html) par exemple, ou des légumes grillés ou encore de [la ratatouille](ratatouille-provencale.html)…

@@ -26,7 +26,7 @@ Recette pour une délicieuse tarte salée aux poireaux et brocoli, à la douce s
 5. Faire cuire maximum entre 30 et 40 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 20 minutes (le dessus ne doit pas cramer).
 
 ## Photos
-[![tarte-salee-poireau-brocoli-curry-1.jpg]({filename}images/tarte-salee-poireau-brocoli-curry-1.jpg){width=40%}]({filename}images/tarte-salee-poireau-brocoli-curry-1.jpg)
+[![tarte-salee-poireau-brocoli-curry-1.jpg]({static}images/tarte-salee-poireau-brocoli-curry-1.jpg){width=40%}]({static}images/tarte-salee-poireau-brocoli-curry-1.jpg)
 
 ## Remarques
 - :cutlery: Servir bien chaud, avec une salade verte !

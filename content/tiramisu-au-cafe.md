@@ -17,7 +17,7 @@ Recette de mon tiramisu au café, un grand classique facile à réaliser et trè
 - 180 g de mascarpone,
 - Cacao en poudre (un peu).
 
-[![tiramisu-au-cafe-1.jpg]({filename}images/tiramisu-au-cafe-1.jpg){width=50%}]({filename}images/tiramisu-au-cafe-1.jpg)
+[![tiramisu-au-cafe-1.jpg]({static}images/tiramisu-au-cafe-1.jpg){width=50%}]({static}images/tiramisu-au-cafe-1.jpg)
 
 ## Préparation
 1. Battre les jaunes d'œufs avec le sucre jusqu'à obtenir une pâte lisse,
@@ -28,10 +28,10 @@ Recette de mon tiramisu au café, un grand classique facile à réaliser et trè
 
 ## Photo
 - Le plat :
-  [![tiramisu-au-cafe-2.jpg]({filename}images/tiramisu-au-cafe-2.jpg){width=50%}]({filename}images/tiramisu-au-cafe-2.jpg)
+  [![tiramisu-au-cafe-2.jpg]({static}images/tiramisu-au-cafe-2.jpg){width=50%}]({static}images/tiramisu-au-cafe-2.jpg)
 
 - Une part :
-  [![tiramisu-au-cafe-3.jpg]({filename}images/tiramisu-au-cafe-3.jpg){width=50%}]({filename}images/tiramisu-au-cafe-3.jpg)
+  [![tiramisu-au-cafe-3.jpg]({static}images/tiramisu-au-cafe-3.jpg){width=50%}]({static}images/tiramisu-au-cafe-3.jpg)
 
 ## Remarques
 - Ne se conserve pas bien (il y a des œufs et du fromage !).

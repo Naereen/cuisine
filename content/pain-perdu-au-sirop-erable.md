@@ -28,10 +28,10 @@ Recette pour pain perdu au sirop d'érable.
 
 ## Photo
 - La préparation, le pain coupé en tranche, et la poêle avec du beurre :
-  [![pain-perdu-au-sirop-erable-1.jpg]({filename}images/pain-perdu-au-sirop-erable-1.jpg){width=60%}]({filename}images/pain-perdu-au-sirop-erable-1.jpg)
+  [![pain-perdu-au-sirop-erable-1.jpg]({static}images/pain-perdu-au-sirop-erable-1.jpg){width=60%}]({static}images/pain-perdu-au-sirop-erable-1.jpg)
 
 - Après la cuisson, on peut saupoudrer de sucre glace (ou de sirop d'érable) :
-  [![pain-perdu-au-sirop-erable-2.jpg]({filename}images/pain-perdu-au-sirop-erable-2.jpg){width=60%}]({filename}images/pain-perdu-au-sirop-erable-2.jpg)
+  [![pain-perdu-au-sirop-erable-2.jpg]({static}images/pain-perdu-au-sirop-erable-2.jpg){width=60%}]({static}images/pain-perdu-au-sirop-erable-2.jpg)
 
 ## Remarques
 - Pour un dessert gourmand, et pas simplement un petit déjeuner, :cutlery: servir tiède avec une boule de glace vanille ! *Miam !*

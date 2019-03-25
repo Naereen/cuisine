@@ -30,10 +30,10 @@ Facile à réaliser, en hiver avec des abricots en conserve comme en été avec 
 
 ## Photo
 - Le plat :
-  [![tarte-aux-abricots-et-amande-1.jpg]({filename}images/tarte-aux-abricots-et-amande-1.jpg){width=60%}]({filename}images/tarte-aux-abricots-et-amande-1.jpg)
+  [![tarte-aux-abricots-et-amande-1.jpg]({static}images/tarte-aux-abricots-et-amande-1.jpg){width=60%}]({static}images/tarte-aux-abricots-et-amande-1.jpg)
 
 - Une part de tarte :
-  [![tarte-aux-abricots-et-amande-2.jpg]({filename}images/tarte-aux-abricots-et-amande-2.jpg){width=60%}]({filename}images/tarte-aux-abricots-et-amande-2.jpg)
+  [![tarte-aux-abricots-et-amande-2.jpg]({static}images/tarte-aux-abricots-et-amande-2.jpg){width=60%}]({static}images/tarte-aux-abricots-et-amande-2.jpg)
 
 ## Remarques
 - :cutlery: Servir tiède avec une boule de glace citron ou de la chantilly ! *Miam !*

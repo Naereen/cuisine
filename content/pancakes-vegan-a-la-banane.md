@@ -43,7 +43,7 @@ Recette pour des des pancakes végans à la banane (crêpes américaines), le pl
 - Pour un brunch gourmand, servir avec des lardons cuits aux miels, du gruyère rappé ou du parmesan.
 
 ## Photo
-[![pancakes.jpg]({filename}images/pancakes.jpg){width=60%}]({filename}images/pancakes.jpg)
+[![pancakes.jpg]({static}images/pancakes.jpg){width=60%}]({static}images/pancakes.jpg)
 
 ## Remarques
 - Assez long à cuire si vous prévoyez d'en faire pour 8 personnes...

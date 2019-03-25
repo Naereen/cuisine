@@ -22,7 +22,7 @@ Pour le service, il faut aussi des petits ramequins, ou des petits bols ([une bo
 4. verser la préparation, *délicatement*, dans les ramequins, et installer au réfrigérateur pour au moins 2 heures.
 
 ## Photo
-[![TODO]({filename}images/blank.png)](#)
+[![TODO]({static}images/blank.png)](#)
 
 ## Remarques
 - :cutlery: À servir avec des petits biscuits, par exemple des Spéculoos,

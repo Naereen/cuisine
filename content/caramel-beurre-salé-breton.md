@@ -14,7 +14,7 @@ Ma recette de caramel beurre salé, une fameuse spécialité bretonne.
 
 ## Préparation
 1. Mettre le sucre et l'eau, dans une casserole en acier, à feu fort.
-   [![caramel-beurre-salé-breton-1.jpg]({filename}images/caramel-beurre-salé-breton-1.jpg){width=40%}]({filename}images/caramel-beurre-salé-breton-1.jpg)
+   [![caramel-beurre-salé-breton-1.jpg]({static}images/caramel-beurre-salé-breton-1.jpg){width=40%}]({static}images/caramel-beurre-salé-breton-1.jpg)
 2. Attendre la caramélisation (blond foncé), après quelques minutes, puis retirer du feu.
 3. Ajouter le beurre salé et bien mélanger.
 4. Remettre sur le feu, à feu doux.
@@ -23,7 +23,7 @@ Ma recette de caramel beurre salé, une fameuse spécialité bretonne.
 
 ## Photo
 C'est délicieux avec du fromage blanc !
-[![caramel-beurre-salé-breton-2.jpg]({filename}images/caramel-beurre-salé-breton-2.jpg){width=40%}]({filename}images/caramel-beurre-salé-breton-2.jpg)
+[![caramel-beurre-salé-breton-2.jpg]({static}images/caramel-beurre-salé-breton-2.jpg){width=40%}]({static}images/caramel-beurre-salé-breton-2.jpg)
 
 ## Remarques
 - C'est aussi très bon sur des crêpes !

@@ -22,11 +22,11 @@ Recette pour des crêpes : le dessert typique de la Bretagne, facile à cuisiner
 1. Faire fondre le beurre 45 secondes au four micro-ondes,
 2. Dans un gros saladier, mélanger la farine et le sel, et former un puits,
 3. Ajouter les œufs (optionnel), puis le sucre, l'huile et le beurre fondu,
-   [![galette-bretonne-1.jpg]({filename}images/galette-bretonne-1.jpg){width=40%}]({filename}images/galette-bretonne-1.jpg)
+   [![galette-bretonne-1.jpg]({static}images/galette-bretonne-1.jpg){width=40%}]({static}images/galette-bretonne-1.jpg)
 
 4. Bien travailler cette pâte en ajoutant petit à petit le lait, en mélangeant beaucoup avec un fouet,
 5. Ne pas mettre trop de lait, la pâte doit être collante et fluide... *mais pas trop*.
-   [![galette-bretonne-2.jpg]({filename}images/galette-bretonne-2.jpg){width=40%}]({filename}images/galette-bretonne-2.jpg)
+   [![galette-bretonne-2.jpg]({static}images/galette-bretonne-2.jpg){width=40%}]({static}images/galette-bretonne-2.jpg)
    > Comme Perceval et Karadoc qui font des potions,  *« J'en met combien ? Ben, vous en mettez pas trop. »* -- Kaamelott, Livre I.
 
 ## Cuisson
@@ -34,7 +34,7 @@ Recette pour des crêpes : le dessert typique de la Bretagne, facile à cuisiner
 2. Ajouter une noix de beurre, ou d'huile végétale (par exemple de tournesol) dans la variante végan,
 3. Étendre une mince couche de cette préparation dans toute la poêle,
 4. Laisser cuire et dorer le côté poêle, puis retourner,
-   [![galette-bretonne-3.jpg]({filename}images/galette-bretonne-3.jpg){width=55%}]({filename}images/galette-bretonne-3.jpg)
+   [![galette-bretonne-3.jpg]({static}images/galette-bretonne-3.jpg){width=55%}]({static}images/galette-bretonne-3.jpg)
 
 5. On peut garnir directement dans la poêle : la crêpe au chocolat fondu, par exemple, est encore meilleure si on ajoute le chocolat pendant la cuisson !
 
@@ -43,13 +43,13 @@ Recette pour des crêpes : le dessert typique de la Bretagne, facile à cuisiner
 - :cutlery: Service bien chaud, avec une petite boule de glace (vanille, chocolat etc),
 - :wine_glass: Servir avec un bon cidre sec.
 - Sucrées, c'est délicieux avec une boule de glace, par exemple une boule citron pour une crêpe beurre sucre :
-    [![galette-bretonne-5.jpg]({filename}images/galette-bretonne-5.jpg){width=75%}]({filename}images/galette-bretonne-5.jpg)
+    [![galette-bretonne-5.jpg]({static}images/galette-bretonne-5.jpg){width=75%}]({static}images/galette-bretonne-5.jpg)
 
 - Si on ne sucre pas trop la pâte, on peut aussi les déguster avec de la garniture salée. On peut garnir avec du jambon, un œuf en plus, du fromage etc. Il suffit d'être créatif !
 - Variante végan : avec des légumes, des épices, des graines… J'aime beaucoup les combinaisons suivantes : une tomate et du persil frais haché, des courgettes et oignons grillés à la poêle (il faut les faire avant), une fondue de poireaux, des pommes de terres, carottes, panais ou potimarrons, cuits à la vapeur en petits morceaux…
 
 ## Photo
-[![galette-bretonne-4.jpg]({filename}images/galette-bretonne-4.jpg){width=75%}]({filename}images/galette-bretonne-4.jpg)
+[![galette-bretonne-4.jpg]({static}images/galette-bretonne-4.jpg){width=75%}]({static}images/galette-bretonne-4.jpg)
 
 ## Remarques
 - Des poêles "crêpières" fonctionnent très bien !
