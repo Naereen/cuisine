@@ -8,6 +8,14 @@ AuthName "Recettes de cuisine (2017). ID = 'Demo' et mot de passe = 'NoSpying'. 
 AuthType Basic
 # Require valid-user
 
+<Files cookiesscones-alleges-au-chocolat.html>
+    AuthType Basic
+    AuthUserFile /home/besson/.htpasswd
+    # AuthGroupFile /dev/null
+    AuthName "Recettes de cuisine. (c) 2019 Lola Tinevez & Lilian Besson"
+    Require valid-user
+</Files>
+
 IndexOptions +SuppressDescription
 IndexIgnore HEADER.md
 IndexIgnore README.md
