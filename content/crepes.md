@@ -14,19 +14,21 @@ Recette pour des crêpes : le dessert typique de la Bretagne, facile à cuisiner
 - 300 g de farine blanche,
 - 60 cL de lait (de vache ou végétal),
 - 2 cuillère à soupe de sucre blanc,
+- 30 g de beurre *ou* 2 cuillère à soupe d'huile végétale,
 - un peu de sel.
 
 > Pour plus de quatre personnes, comptez ces quantités et multipliez...
 
 ## Préparation
-1. Faire fondre le beurre 45 secondes au four micro-ondes,
+1. (Optionnel) Faire fondre le beurre 45 secondes au four micro-ondes,
 2. Dans un gros saladier, mélanger la farine et le sel, et former un puits,
-3. Ajouter les œufs (optionnel), puis le sucre, l'huile et le beurre fondu,
+3. Ajouter les œufs (optionnel), puis le sucre, l'huile ou le beurre fondu,
    [![galette-bretonne-1.jpg]({static}images/galette-bretonne-1.jpg){width=40%}]({static}images/galette-bretonne-1.jpg)
 
 4. Bien travailler cette pâte en ajoutant petit à petit le lait, en mélangeant beaucoup avec un fouet,
 5. Ne pas mettre trop de lait, la pâte doit être collante et fluide... *mais pas trop*.
    [![galette-bretonne-2.jpg]({static}images/galette-bretonne-2.jpg){width=40%}]({static}images/galette-bretonne-2.jpg)
+
    > Comme Perceval et Karadoc qui font des potions,  *« J'en met combien ? Ben, vous en mettez pas trop. »* -- Kaamelott, Livre I.
 
 ## Cuisson
