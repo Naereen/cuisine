@@ -22,7 +22,7 @@ Recette pour une délicieuse tarte salée carottes, oignons et fromage à tartif
 1. Mettre la pâte dans un plat à tarte rond ou un plat à gratin, la piquer et la laisser à l'air,
    [![tarte-salee-carotte-oignons-tartiflette-1.jpg]({static}images/tarte-salee-carotte-oignons-tartiflette-1.jpg){width=70%}]({static}images/tarte-salee-carotte-oignons-tartiflette-1.jpg)
 
-2. Laver les carottes, les couper (y compris les feuilles vertes, sauf le bout) en petites tranches rondes, et couper l'oignon aussi,
+2. Laver les carottes, les couper en rondelles, et couper l'oignon aussi,
 3. Faites cuire les légumes à feu doux pendant 10 minutes dans une poêle avec de l'eau, en rajoutant du curcuma ou du curry,
     [![tarte-salee-carotte-oignons-tartiflette-2.jpg]({static}images/tarte-salee-carotte-oignons-tartiflette-2.jpg){width=70%}]({static}images/tarte-salee-carotte-oignons-tartiflette-2.jpg)
 
@@ -33,6 +33,8 @@ Recette pour une délicieuse tarte salée carottes, oignons et fromage à tartif
 6. Faire cuire maximum entre 30 et 40 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 20 minutes (le dessus ne doit pas cramer).
 
 ## Photos
+Une photo bonus avec une blague !
+
 [![tarte-salee-carotte-oignons-tartiflette-4.jpg]({static}images/tarte-salee-carotte-oignons-tartiflette-4.jpg){width=70%}]({static}images/tarte-salee-carotte-oignons-tartiflette-4.jpg)
 
 ## Remarques
