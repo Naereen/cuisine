@@ -116,6 +116,21 @@ And raw HTML can also be included (this image is right aligned with `style="marg
 
 <img style="display: block; margin-right: 0;" src="images/icon.png" width="50%">
 
+## Footnote
+
+This section is here to test the [simple-footnotes](https://github.com/pelican-plugins/simple-footnotes/) plugins.
+
+For example, this example this text[ref]with a footnote with [a link](http://example.com)[/ref] failed with the following (cryptic) message:
+
+```
+$ make html
+...
+CRITICAL: TypeError: sequence item 3: expected str instance, NoneType found
+...
+```
+
+See this error[ref]opened [on May 1st 2018](https://github.com/getpelican/pelican-plugins/issues/1022#issue-319066007), two years ago.[/ref]: [issue 1022](https://github.com/getpelican/pelican-plugins/issues/1022).
+
 ## Finally
 
 There's actually a lot more to Markdown than this. See the official [introduction][4] and [syntax][5] for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
