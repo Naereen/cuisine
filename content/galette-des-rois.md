@@ -36,3 +36,9 @@ Ma recette de la galette des rois, le traditionnel dessert dégusté lors de l'�
 ## Remarques
 - Pour la cuisson, je commence avec 20 minutes au four moyen <i class="fa fa-thermometer-half" aria-hidden="true"></i> puis 10 minutes au four à la température max <i class="fa fa-thermometer-full" aria-hidden="true"></i>, pour faire griller le dessus du gâteau.
 - :wine_glass: Servir avec un bolet d'un bon cidre doux ou d'un verre de [Clairette de Die](https://fr.wikipedia.org/wiki/Clairette_de_Die) (> champagne).
+
+## Bonus (janvier 2021)
+- En ces temps de confinement, de restrictions sanitaires, de coronavirus (cf [cette page là sur mon site web](https://perso.crans.org/besson/coronavirus.fr.html)), on peut être tenté de quand même vouloir se retrouver entre ami-e-s ou en famille, et partager une galette ou une couronne des rois...
+- Mais ce n'est pas très prudent, alors j'étais curieux et j'avais envie de coder une page web amusante qui fasse une visualisation d'une galette et permette de « tirer les rois » à distance...
+- J'ai en fait trouvé [cette page web](http://www.salutcestcool.com/2016/galette/) : http://www.salutcestcool.com/2016/galette/, qui propose exactement ça !
+- Essayez, c'est amusant !!
