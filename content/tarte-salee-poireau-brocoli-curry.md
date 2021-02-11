@@ -21,7 +21,7 @@ Recette pour une délicieuse tarte salée aux poireaux et brocoli, à la douce s
 ## Préparation
 1. Mettre la pâte dans un plat à tarte rond ou un plat à gratin, la piquer et la laisser à l'air,
 2. Laver les poireaux et le brocoli. Couper le poireaux (y compris les feuilles vertes, sauf le bout) en petites tranches rondes, et couper le brocoli en petits morceaux,
-3. Dans un petit saladier, mélanger deux cuillères à soupe d'huile, 150 ml de lait, les épices, les œufs (si variante non végane)
+3. Dans un petit saladier, mélanger deux cuillères à soupe d'huile, 150 ml de lait, les épices, les œufs (si variante non végane),
 4. Verser les légumes et ensuite la préparation sur la pâte brisée, bien répartir uniformément,
 5. Faire cuire maximum entre 30 et 40 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 20 minutes (le dessus ne doit pas cramer).
 

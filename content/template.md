@@ -5,6 +5,9 @@ Summary: Recette pour TODO (modèle).
 
 Recette pour TODO (modèle)
 
+- *Préparation* : XXX minutes.
+- *Cuisson* : XXX minutes.
+
 ## Ingrédients
 - [Ingrédient 1](https://fr.wikipedia.org/wiki/TODO),
 - [Ingrédient 2](https://fr.wikipedia.org/wiki/TODO),
