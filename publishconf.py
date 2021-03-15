@@ -13,8 +13,13 @@ from pelicanconf import *
 
 # SITEURL = "//localhost/cuisine"
 # XXX to build the site locally, comment this line
-SITEURL = "//perso.crans.org/besson/cuisine"
-RELATIVE_URLS = False
+# SITEURL = "//perso.crans.org/besson/cuisine"
+
+SITEURL = ""
+
+# https://docs.getpelican.com/en/latest/settings.html?highlight=RELATIVE_URLS#url-settings
+#RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
@@ -23,6 +28,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-GOOGLE_ANALYTICS = "UA-38514290-1"
+# GOOGLE_ANALYTICS = "UA-38514290-1"
 
 GITHUB_URL = "https://github.com/Naereen/cuisine"
