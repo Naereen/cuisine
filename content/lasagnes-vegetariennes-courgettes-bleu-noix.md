@@ -22,9 +22,9 @@ Une merveille, attention je vous aurai prévenu !
 ## Préparation
 1. Éplucher les courgettes, les couper en tranche en longueur,
 2. Trancher l'oignon en petit morceau,
-3. Dans un grand plat, faire une couche de pattes, puis une couche de courgettes, d'oignon, de crème, de fromage rappé, de bleu et de noix,
+3. Dans un grand plat, faire une couche de pâtes, puis une couche de courgettes, d'oignon, de crème, de fromage rappé, de bleu et de noix,
 4. Continuer à faire des couches comme ça jusqu'à presque remplir le plat,
-5. Pour la dernière couche, juste des pattes, et recouvrir de crème, de poivre et de gruyère,
+5. Pour la dernière couche, juste des pâtes, et recouvrir de crème, de poivre et de gruyère,
 6. Si possible, mettre quelques cerneaux de noix sur le dessus pour la décoration, et éventuellement du persil,
 7. Mettre au four,
 8. Faire cuire maximum 40 à 55 minutes dans un four à 180°C / T6 <i class="fa fa-thermometer-full" aria-hidden="true"></i>, en vérifiant la cuisson à partir de 20 minutes (l'intérieur doit bouillir et le dessus ne doit pas trop griller).
