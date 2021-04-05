@@ -22,7 +22,7 @@ Idée de recette pour une délicieuse tarte salée fourrée aux pois cassés. Je
 
 ## Remarques
 
-- Quel intérêt ? C'est un plat unique, qui se prépare avec une seule poêle, et qui est relativement complet et très savoureux ! Les pois cassés apportent une consistance à la pâte, évitent qu'elle soit trop molle ou pas assez cuite, et ils apportent plein de bonnes protéines !
+- Quel intérêt ? C'est un plat unique, qui se prépare avec un seul plat à tarte, et qui est relativement complet et très savoureux ! Les pois cassés apportent une consistance à la pâte, évitent qu'elle soit trop molle ou pas assez cuite, et ils apportent plein de bonnes protéines !
 - C'est juste une astuce, qui peut s'adapter à n'importe quelle tarte, et très rustique, mais j'aime ça !
 
 - :cutlery: Servir bien chaud, avec une salade verte !
