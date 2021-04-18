@@ -30,7 +30,7 @@ Ce projet contiens les sources pour [ce dossier](https://perso.crans.org/besson/
 
 ## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/cuisine.svg)](https://github.com/Naereen/cuisine/blob/master/LICENSE)
 Ce dépôt git et tous les fichiers contenus sont publiés librement sous les termes de la [Licence MIT](https://lbesson.mit-license.org/) (voir le fichier [LICENSE](LICENSE)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2017-2018.
+© [Lilian Besson](https://GitHub.com/Naereen), 2017-2021.
 
 [![Website perso.crans.org/besson/cuisine](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](https://perso.crans.org/besson/cuisine/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/cuisine/graphs/commit-activity)
