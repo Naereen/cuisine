@@ -1,5 +1,5 @@
 Title: Eau
-Category: Recette
+Category: Recette, Végétarien
 Tags: recette, boisson, facile
 Summary: Comment se servir un verre d'eau ? (humour)
 
