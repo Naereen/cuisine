@@ -37,7 +37,7 @@ Recette pour un gâteau nantais (inspiré de [la recette officielle](https://www
 ## Photo
 [![gateau-nantais-1.jpg]({static}images/gateau-nantais-1.jpg){width=50%}]({static}images/gateau-nantais-1.jpg)
 
-> Ça avait eu du succès au bureau ! Admirez le glaçable tout blanc !
+> Ça avait eu du succès au bureau ! Admirez le glaçage tout blanc !
 
 ## Remarques
 - Conseil : manger le gâteau nantais le lendemain, il sera meilleur. Ou soyez gourmand et n'attendez pas, c'est aussi bien !
