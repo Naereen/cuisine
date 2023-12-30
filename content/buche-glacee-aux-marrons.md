@@ -23,7 +23,7 @@ Recette pour bûche glacée aux marrons (spécial Noël).
 3. Faire fondre le chocolat au four à micro-ondes,
 4. Mélanger le chocolat à la purée dans un saladier, rajouter le beurre,
 5. Écraser le tout avec une fourchette jusqu'à avoir une pâte bien homogène,
-6. Dans un plat de la forme d'une bûche (un plat à cake par exemple), recouvrir le fond de filme plastique et verser la pâte en entier, bien l'étaler,
+6. Dans un plat de la forme d'une bûche (un plat à cake par exemple), recouvrir le fond de film plastique et verser la pâte en entier, bien l'étaler,
 7. Mettre le plat au réfrigérateur pour 2 à 4 heures,
 8. Puis placer au congélateur pendant au moins 24 heures (se conserve maximum 6 mois au congélateur),
 9. Sortir du congélateur 1 à 2 h avant de servir,
