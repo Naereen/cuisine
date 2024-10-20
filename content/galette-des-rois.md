@@ -18,7 +18,7 @@ Ma recette de la galette des rois, le traditionnel dessert dégusté lors de l'�
 - 125 g de poudre d'amandes,
 - quelques gouttes d'arôme d'amandes amères.
 
-[![galette-des-rois-1.jpg]({static}images/galette-des-rois-1.jpg){width=5****0%}]({static}images/galette-des-rois-1.jpg)
+[![galette-des-rois-1.jpg]({static}images/galette-des-rois-1.jpg){width=50%}]({static}images/galette-des-rois-1.jpg)
 
 ## Préparation
 1. Faire préchauffer le four à 180°C (Thermostat 6),
